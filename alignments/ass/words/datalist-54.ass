@@ -1,0 +1,30 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:02.00,Default,,0,0,0,,{\c&Hc7c1c2&}How could someone exploit a weakness in this design?{\r}
+Dialogue: 0,00:00:02.00,00:00:02.24,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&}How{\r}{\c&Hc7c1c2&} could someone exploit a weakness in this design?{\r}
+Dialogue: 0,00:00:02.24,00:00:02.40,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&}How{\r}{\c&Hc7c1c2&} could someone exploit a weakness in this design?{\r}
+Dialogue: 0,00:00:02.40,00:00:02.48,Default,,0,0,0,,{\c&H3d2e31&}How {\r}{\c&H9ab39&}could{\r}{\c&Hc7c1c2&} someone exploit a weakness in this design?{\r}
+Dialogue: 0,00:00:02.48,00:00:02.64,Default,,0,0,0,,{\c&H3d2e31&}How {\r}{\c&H3d2e31&}could{\r}{\c&Hc7c1c2&} someone exploit a weakness in this design?{\r}
+Dialogue: 0,00:00:02.64,00:00:02.88,Default,,0,0,0,,{\c&H3d2e31&}How could {\r}{\c&H9ab39&}someone{\r}{\c&Hc7c1c2&} exploit a weakness in this design?{\r}
+Dialogue: 0,00:00:02.88,00:00:03.04,Default,,0,0,0,,{\c&H3d2e31&}How could {\r}{\c&H3d2e31&}someone{\r}{\c&Hc7c1c2&} exploit a weakness in this design?{\r}
+Dialogue: 0,00:00:03.04,00:00:03.44,Default,,0,0,0,,{\c&H3d2e31&}How could someone {\r}{\c&H9ab39&}exploit{\r}{\c&Hc7c1c2&} a weakness in this design?{\r}
+Dialogue: 0,00:00:03.44,00:00:03.52,Default,,0,0,0,,{\c&H3d2e31&}How could someone {\r}{\c&H3d2e31&}exploit{\r}{\c&Hc7c1c2&} a weakness in this design?{\r}
+Dialogue: 0,00:00:03.52,00:00:03.60,Default,,0,0,0,,{\c&H3d2e31&}How could someone exploit {\r}{\c&H9ab39&}a{\r}{\c&Hc7c1c2&} weakness in this design?{\r}
+Dialogue: 0,00:00:03.60,00:00:04.08,Default,,0,0,0,,{\c&H3d2e31&}How could someone exploit a {\r}{\c&H9ab39&}weakness{\r}{\c&Hc7c1c2&} in this design?{\r}
+Dialogue: 0,00:00:04.08,00:00:04.24,Default,,0,0,0,,{\c&H3d2e31&}How could someone exploit a {\r}{\c&H3d2e31&}weakness{\r}{\c&Hc7c1c2&} in this design?{\r}
+Dialogue: 0,00:00:04.24,00:00:04.32,Default,,0,0,0,,{\c&H3d2e31&}How could someone exploit a weakness {\r}{\c&H9ab39&}in{\r}{\c&Hc7c1c2&} this design?{\r}
+Dialogue: 0,00:00:04.32,00:00:04.48,Default,,0,0,0,,{\c&H3d2e31&}How could someone exploit a weakness {\r}{\c&H3d2e31&}in{\r}{\c&Hc7c1c2&} this design?{\r}
+Dialogue: 0,00:00:04.48,00:00:04.56,Default,,0,0,0,,{\c&H3d2e31&}How could someone exploit a weakness in {\r}{\c&H9ab39&}this{\r}{\c&Hc7c1c2&} design?{\r}
+Dialogue: 0,00:00:04.56,00:00:04.72,Default,,0,0,0,,{\c&H3d2e31&}How could someone exploit a weakness in {\r}{\c&H3d2e31&}this{\r}{\c&Hc7c1c2&} design?{\r}
+Dialogue: 0,00:00:04.72,00:00:05.84,Default,,0,0,0,,{\c&H3d2e31&}How could someone exploit a weakness in this {\r}{\c&H9ab39&}design?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:05.84,00:00:08.00,Default,,0,0,0,,{\c&H3d2e31&}How could someone exploit a weakness in this design?{\r}

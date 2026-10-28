@@ -1,0 +1,27 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:00.00,Default,,0,0,0,,{\c&Hc7c1c2&}Can I make this work directly from the terminal?{\r}
+Dialogue: 0,00:00:00.00,00:00:02.32,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&}Can{\r}{\c&Hc7c1c2&} I make this work directly from the terminal?{\r}
+Dialogue: 0,00:00:02.32,00:00:02.40,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&}Can{\r}{\c&Hc7c1c2&} I make this work directly from the terminal?{\r}
+Dialogue: 0,00:00:02.40,00:00:02.48,Default,,0,0,0,,{\c&H3d2e31&}Can {\r}{\c&H9ab39&}I{\r}{\c&Hc7c1c2&} make this work directly from the terminal?{\r}
+Dialogue: 0,00:00:02.48,00:00:02.56,Default,,0,0,0,,{\c&H3d2e31&}Can {\r}{\c&H3d2e31&}I{\r}{\c&Hc7c1c2&} make this work directly from the terminal?{\r}
+Dialogue: 0,00:00:02.56,00:00:02.64,Default,,0,0,0,,{\c&H3d2e31&}Can I {\r}{\c&H9ab39&}make{\r}{\c&Hc7c1c2&} this work directly from the terminal?{\r}
+Dialogue: 0,00:00:02.64,00:00:03.20,Default,,0,0,0,,{\c&H3d2e31&}Can I {\r}{\c&H3d2e31&}make{\r}{\c&Hc7c1c2&} this work directly from the terminal?{\r}
+Dialogue: 0,00:00:03.20,00:00:03.28,Default,,0,0,0,,{\c&H3d2e31&}Can I make {\r}{\c&H9ab39&}this{\r}{\c&Hc7c1c2&} work directly from the terminal?{\r}
+Dialogue: 0,00:00:03.28,00:00:03.36,Default,,0,0,0,,{\c&H3d2e31&}Can I make this {\r}{\c&H9ab39&}work{\r}{\c&Hc7c1c2&} directly from the terminal?{\r}
+Dialogue: 0,00:00:03.36,00:00:03.52,Default,,0,0,0,,{\c&H3d2e31&}Can I make this work {\r}{\c&H9ab39&}directly{\r}{\c&Hc7c1c2&} from the terminal?{\r}
+Dialogue: 0,00:00:03.52,00:00:03.60,Default,,0,0,0,,{\c&H3d2e31&}Can I make this work {\r}{\c&H3d2e31&}directly{\r}{\c&Hc7c1c2&} from the terminal?{\r}
+Dialogue: 0,00:00:03.60,00:00:03.68,Default,,0,0,0,,{\c&H3d2e31&}Can I make this work directly {\r}{\c&H9ab39&}from{\r}{\c&Hc7c1c2&} the terminal?{\r}
+Dialogue: 0,00:00:03.68,00:00:03.76,Default,,0,0,0,,{\c&H3d2e31&}Can I make this work directly from {\r}{\c&H9ab39&}the{\r}{\c&Hc7c1c2&} terminal?{\r}
+Dialogue: 0,00:00:03.76,00:00:06.16,Default,,0,0,0,,{\c&H3d2e31&}Can I make this work directly from the {\r}{\c&H9ab39&}terminal?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:06.16,00:00:08.00,Default,,0,0,0,,{\c&H3d2e31&}Can I make this work directly from the terminal?{\r}

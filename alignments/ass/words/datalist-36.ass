@@ -1,0 +1,29 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:00.00,Default,,0,0,0,,{\c&Hc7c1c2&}How does this component communicate with the rest of the system?{\r}
+Dialogue: 0,00:00:00.00,00:00:02.40,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&}How{\r}{\c&Hc7c1c2&} does this component communicate with the rest of the system?{\r}
+Dialogue: 0,00:00:02.40,00:00:02.56,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&}How{\r}{\c&Hc7c1c2&} does this component communicate with the rest of the system?{\r}
+Dialogue: 0,00:00:02.56,00:00:02.64,Default,,0,0,0,,{\c&H3d2e31&}How {\r}{\c&H9ab39&}does{\r}{\c&Hc7c1c2&} this component communicate with the rest of the system?{\r}
+Dialogue: 0,00:00:02.64,00:00:02.96,Default,,0,0,0,,{\c&H3d2e31&}How {\r}{\c&H3d2e31&}does{\r}{\c&Hc7c1c2&} this component communicate with the rest of the system?{\r}
+Dialogue: 0,00:00:02.96,00:00:03.04,Default,,0,0,0,,{\c&H3d2e31&}How does {\r}{\c&H9ab39&}this{\r}{\c&Hc7c1c2&} component communicate with the rest of the system?{\r}
+Dialogue: 0,00:00:03.04,00:00:03.20,Default,,0,0,0,,{\c&H3d2e31&}How does {\r}{\c&H3d2e31&}this{\r}{\c&Hc7c1c2&} component communicate with the rest of the system?{\r}
+Dialogue: 0,00:00:03.20,00:00:03.52,Default,,0,0,0,,{\c&H3d2e31&}How does this {\r}{\c&H9ab39&}component{\r}{\c&Hc7c1c2&} communicate with the rest of the system?{\r}
+Dialogue: 0,00:00:03.52,00:00:04.16,Default,,0,0,0,,{\c&H3d2e31&}How does this component {\r}{\c&H9ab39&}communicate{\r}{\c&Hc7c1c2&} with the rest of the system?{\r}
+Dialogue: 0,00:00:04.16,00:00:04.24,Default,,0,0,0,,{\c&H3d2e31&}How does this component {\r}{\c&H3d2e31&}communicate{\r}{\c&Hc7c1c2&} with the rest of the system?{\r}
+Dialogue: 0,00:00:04.24,00:00:04.32,Default,,0,0,0,,{\c&H3d2e31&}How does this component communicate {\r}{\c&H9ab39&}with{\r}{\c&Hc7c1c2&} the rest of the system?{\r}
+Dialogue: 0,00:00:04.32,00:00:04.40,Default,,0,0,0,,{\c&H3d2e31&}How does this component communicate with {\r}{\c&H9ab39&}the{\r}{\c&Hc7c1c2&} rest of the system?{\r}
+Dialogue: 0,00:00:04.40,00:00:04.48,Default,,0,0,0,,{\c&H3d2e31&}How does this component communicate with the {\r}{\c&H9ab39&}rest{\r}{\c&Hc7c1c2&} of the system?{\r}
+Dialogue: 0,00:00:04.48,00:00:04.56,Default,,0,0,0,,{\c&H3d2e31&}How does this component communicate with the rest {\r}{\c&H9ab39&}of{\r}{\c&Hc7c1c2&} the system?{\r}
+Dialogue: 0,00:00:04.56,00:00:04.64,Default,,0,0,0,,{\c&H3d2e31&}How does this component communicate with the rest of {\r}{\c&H9ab39&}the{\r}{\c&Hc7c1c2&} system?{\r}
+Dialogue: 0,00:00:04.64,00:00:05.76,Default,,0,0,0,,{\c&H3d2e31&}How does this component communicate with the rest of the {\r}{\c&H9ab39&}system?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:05.76,00:00:07.00,Default,,0,0,0,,{\c&H3d2e31&}How does this component communicate with the rest of the system?{\r}

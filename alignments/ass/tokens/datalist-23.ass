@@ -1,0 +1,49 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:00.16,Default,,0,0,0,,{\c&Hc7c1c2&} I prefer having control over my system rather than relying on defaults.{\r}
+Dialogue: 0,00:00:00.16,00:00:00.24,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&} I{\r}{\c&Hc7c1c2&} prefer having control over my system rather than relying on defaults.{\r}
+Dialogue: 0,00:00:00.24,00:00:00.96,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&} I{\r}{\c&Hc7c1c2&} prefer having control over my system rather than relying on defaults.{\r}
+Dialogue: 0,00:00:00.96,00:00:01.04,Default,,0,0,0,,{\c&H3d2e31&} I{\r}{\c&H9ab39&} pre{\r}{\c&Hc7c1c2&}fer having control over my system rather than relying on defaults.{\r}
+Dialogue: 0,00:00:01.04,00:00:01.28,Default,,0,0,0,,{\c&H3d2e31&} I{\r}{\c&H3d2e31&} pre{\r}{\c&Hc7c1c2&}fer having control over my system rather than relying on defaults.{\r}
+Dialogue: 0,00:00:01.28,00:00:01.36,Default,,0,0,0,,{\c&H3d2e31&} I pre{\r}{\c&H9ab39&}f{\r}{\c&Hc7c1c2&}er having control over my system rather than relying on defaults.{\r}
+Dialogue: 0,00:00:01.36,00:00:01.44,Default,,0,0,0,,{\c&H3d2e31&} I pref{\r}{\c&H9ab39&}er{\r}{\c&Hc7c1c2&} having control over my system rather than relying on defaults.{\r}
+Dialogue: 0,00:00:01.44,00:00:01.60,Default,,0,0,0,,{\c&H3d2e31&} I pref{\r}{\c&H3d2e31&}er{\r}{\c&Hc7c1c2&} having control over my system rather than relying on defaults.{\r}
+Dialogue: 0,00:00:01.60,00:00:01.68,Default,,0,0,0,,{\c&H3d2e31&} I prefer{\r}{\c&H9ab39&} having{\r}{\c&Hc7c1c2&} control over my system rather than relying on defaults.{\r}
+Dialogue: 0,00:00:01.68,00:00:03.44,Default,,0,0,0,,{\c&H3d2e31&} I prefer{\r}{\c&H3d2e31&} having{\r}{\c&Hc7c1c2&} control over my system rather than relying on defaults.{\r}
+Dialogue: 0,00:00:03.44,00:00:03.52,Default,,0,0,0,,{\c&H3d2e31&} I prefer having{\r}{\c&H9ab39&} control{\r}{\c&Hc7c1c2&} over my system rather than relying on defaults.{\r}
+Dialogue: 0,00:00:03.52,00:00:03.84,Default,,0,0,0,,{\c&H3d2e31&} I prefer having{\r}{\c&H3d2e31&} control{\r}{\c&Hc7c1c2&} over my system rather than relying on defaults.{\r}
+Dialogue: 0,00:00:03.84,00:00:03.92,Default,,0,0,0,,{\c&H3d2e31&} I prefer having control{\r}{\c&H9ab39&} over{\r}{\c&Hc7c1c2&} my system rather than relying on defaults.{\r}
+Dialogue: 0,00:00:03.92,00:00:04.08,Default,,0,0,0,,{\c&H3d2e31&} I prefer having control{\r}{\c&H3d2e31&} over{\r}{\c&Hc7c1c2&} my system rather than relying on defaults.{\r}
+Dialogue: 0,00:00:04.08,00:00:04.16,Default,,0,0,0,,{\c&H3d2e31&} I prefer having control over{\r}{\c&H9ab39&} my{\r}{\c&Hc7c1c2&} system rather than relying on defaults.{\r}
+Dialogue: 0,00:00:04.16,00:00:04.40,Default,,0,0,0,,{\c&H3d2e31&} I prefer having control over{\r}{\c&H3d2e31&} my{\r}{\c&Hc7c1c2&} system rather than relying on defaults.{\r}
+Dialogue: 0,00:00:04.40,00:00:04.48,Default,,0,0,0,,{\c&H3d2e31&} I prefer having control over my{\r}{\c&H9ab39&} system{\r}{\c&Hc7c1c2&} rather than relying on defaults.{\r}
+Dialogue: 0,00:00:04.48,00:00:04.64,Default,,0,0,0,,{\c&H3d2e31&} I prefer having control over my{\r}{\c&H3d2e31&} system{\r}{\c&Hc7c1c2&} rather than relying on defaults.{\r}
+Dialogue: 0,00:00:04.64,00:00:04.72,Default,,0,0,0,,{\c&H3d2e31&} I prefer having control over my system{\r}{\c&H9ab39&} ra{\r}{\c&Hc7c1c2&}ther than relying on defaults.{\r}
+Dialogue: 0,00:00:04.72,00:00:04.80,Default,,0,0,0,,{\c&H3d2e31&} I prefer having control over my system ra{\r}{\c&H9ab39&}ther{\r}{\c&Hc7c1c2&} than relying on defaults.{\r}
+Dialogue: 0,00:00:04.80,00:00:04.88,Default,,0,0,0,,{\c&H3d2e31&} I prefer having control over my system rather{\r}{\c&H9ab39&} than{\r}{\c&Hc7c1c2&} relying on defaults.{\r}
+Dialogue: 0,00:00:04.88,00:00:05.04,Default,,0,0,0,,{\c&H3d2e31&} I prefer having control over my system rather{\r}{\c&H3d2e31&} than{\r}{\c&Hc7c1c2&} relying on defaults.{\r}
+Dialogue: 0,00:00:05.04,00:00:05.12,Default,,0,0,0,,{\c&H3d2e31&} I prefer having control over my system rather than{\r}{\c&H9ab39&} re{\r}{\c&Hc7c1c2&}lying on defaults.{\r}
+Dialogue: 0,00:00:05.12,00:00:05.20,Default,,0,0,0,,{\c&H3d2e31&} I prefer having control over my system rather than re{\r}{\c&H9ab39&}ly{\r}{\c&Hc7c1c2&}ing on defaults.{\r}
+Dialogue: 0,00:00:05.20,00:00:05.28,Default,,0,0,0,,{\c&H3d2e31&} I prefer having control over my system rather than re{\r}{\c&H3d2e31&}ly{\r}{\c&Hc7c1c2&}ing on defaults.{\r}
+Dialogue: 0,00:00:05.28,00:00:05.36,Default,,0,0,0,,{\c&H3d2e31&} I prefer having control over my system rather than rely{\r}{\c&H9ab39&}ing{\r}{\c&Hc7c1c2&} on defaults.{\r}
+Dialogue: 0,00:00:05.36,00:00:05.44,Default,,0,0,0,,{\c&H3d2e31&} I prefer having control over my system rather than relying{\r}{\c&H9ab39&} on{\r}{\c&Hc7c1c2&} defaults.{\r}
+Dialogue: 0,00:00:05.44,00:00:05.60,Default,,0,0,0,,{\c&H3d2e31&} I prefer having control over my system rather than relying{\r}{\c&H3d2e31&} on{\r}{\c&Hc7c1c2&} defaults.{\r}
+Dialogue: 0,00:00:05.60,00:00:05.68,Default,,0,0,0,,{\c&H3d2e31&} I prefer having control over my system rather than relying on{\r}{\c&H9ab39&} def{\r}{\c&Hc7c1c2&}aults.{\r}
+Dialogue: 0,00:00:05.68,00:00:05.76,Default,,0,0,0,,{\c&H3d2e31&} I prefer having control over my system rather than relying on def{\r}{\c&H9ab39&}a{\r}{\c&Hc7c1c2&}ults.{\r}
+Dialogue: 0,00:00:05.76,00:00:05.84,Default,,0,0,0,,{\c&H3d2e31&} I prefer having control over my system rather than relying on defa{\r}{\c&H9ab39&}ul{\r}{\c&Hc7c1c2&}ts.{\r}
+Dialogue: 0,00:00:05.84,00:00:05.92,Default,,0,0,0,,{\c&H3d2e31&} I prefer having control over my system rather than relying on defaul{\r}{\c&H9ab39&}t{\r}{\c&Hc7c1c2&}s.{\r}
+Dialogue: 0,00:00:05.92,00:00:06.00,Default,,0,0,0,,{\c&H3d2e31&} I prefer having control over my system rather than relying on default{\r}{\c&H9ab39&}s{\r}{\c&Hc7c1c2&}.{\r}
+Dialogue: 0,00:00:06.00,00:00:06.96,Default,,0,0,0,,{\c&H3d2e31&} I prefer having control over my system rather than relying on default{\r}{\c&H3d2e31&}s{\r}{\c&Hc7c1c2&}.{\r}
+Dialogue: 0,00:00:06.96,00:00:07.04,Default,,0,0,0,,{\c&H3d2e31&} I prefer having control over my system rather than relying on defaults{\r}{\c&H9ab39&}.{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:07.04,00:00:09.00,Default,,0,0,0,,{\c&H3d2e31&} I prefer having control over my system rather than relying on defaults.{\r}

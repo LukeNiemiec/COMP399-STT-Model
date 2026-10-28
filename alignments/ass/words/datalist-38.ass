@@ -1,0 +1,31 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:00.00,Default,,0,0,0,,{\c&Hc7c1c2&}How do I send data between two devices over a network?{\r}
+Dialogue: 0,00:00:00.00,00:00:02.16,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&}How{\r}{\c&Hc7c1c2&} do I send data between two devices over a network?{\r}
+Dialogue: 0,00:00:02.16,00:00:02.32,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&}How{\r}{\c&Hc7c1c2&} do I send data between two devices over a network?{\r}
+Dialogue: 0,00:00:02.32,00:00:02.40,Default,,0,0,0,,{\c&H3d2e31&}How {\r}{\c&H9ab39&}do{\r}{\c&Hc7c1c2&} I send data between two devices over a network?{\r}
+Dialogue: 0,00:00:02.40,00:00:02.88,Default,,0,0,0,,{\c&H3d2e31&}How {\r}{\c&H3d2e31&}do{\r}{\c&Hc7c1c2&} I send data between two devices over a network?{\r}
+Dialogue: 0,00:00:02.88,00:00:02.96,Default,,0,0,0,,{\c&H3d2e31&}How do {\r}{\c&H9ab39&}I{\r}{\c&Hc7c1c2&} send data between two devices over a network?{\r}
+Dialogue: 0,00:00:02.96,00:00:03.36,Default,,0,0,0,,{\c&H3d2e31&}How do {\r}{\c&H3d2e31&}I{\r}{\c&Hc7c1c2&} send data between two devices over a network?{\r}
+Dialogue: 0,00:00:03.36,00:00:03.60,Default,,0,0,0,,{\c&H3d2e31&}How do I {\r}{\c&H9ab39&}send{\r}{\c&Hc7c1c2&} data between two devices over a network?{\r}
+Dialogue: 0,00:00:03.60,00:00:03.76,Default,,0,0,0,,{\c&H3d2e31&}How do I {\r}{\c&H3d2e31&}send{\r}{\c&Hc7c1c2&} data between two devices over a network?{\r}
+Dialogue: 0,00:00:03.76,00:00:04.00,Default,,0,0,0,,{\c&H3d2e31&}How do I send {\r}{\c&H9ab39&}data{\r}{\c&Hc7c1c2&} between two devices over a network?{\r}
+Dialogue: 0,00:00:04.00,00:00:04.08,Default,,0,0,0,,{\c&H3d2e31&}How do I send data {\r}{\c&H9ab39&}between{\r}{\c&Hc7c1c2&} two devices over a network?{\r}
+Dialogue: 0,00:00:04.08,00:00:04.16,Default,,0,0,0,,{\c&H3d2e31&}How do I send data between {\r}{\c&H9ab39&}two{\r}{\c&Hc7c1c2&} devices over a network?{\r}
+Dialogue: 0,00:00:04.16,00:00:04.24,Default,,0,0,0,,{\c&H3d2e31&}How do I send data between {\r}{\c&H3d2e31&}two{\r}{\c&Hc7c1c2&} devices over a network?{\r}
+Dialogue: 0,00:00:04.24,00:00:04.56,Default,,0,0,0,,{\c&H3d2e31&}How do I send data between two {\r}{\c&H9ab39&}devices{\r}{\c&Hc7c1c2&} over a network?{\r}
+Dialogue: 0,00:00:04.56,00:00:04.72,Default,,0,0,0,,{\c&H3d2e31&}How do I send data between two {\r}{\c&H3d2e31&}devices{\r}{\c&Hc7c1c2&} over a network?{\r}
+Dialogue: 0,00:00:04.72,00:00:04.80,Default,,0,0,0,,{\c&H3d2e31&}How do I send data between two devices {\r}{\c&H9ab39&}over{\r}{\c&Hc7c1c2&} a network?{\r}
+Dialogue: 0,00:00:04.80,00:00:04.88,Default,,0,0,0,,{\c&H3d2e31&}How do I send data between two devices over {\r}{\c&H9ab39&}a{\r}{\c&Hc7c1c2&} network?{\r}
+Dialogue: 0,00:00:04.88,00:00:06.40,Default,,0,0,0,,{\c&H3d2e31&}How do I send data between two devices over a {\r}{\c&H9ab39&}network?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:06.40,00:00:08.00,Default,,0,0,0,,{\c&H3d2e31&}How do I send data between two devices over a network?{\r}

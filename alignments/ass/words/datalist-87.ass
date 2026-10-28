@@ -1,0 +1,35 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:01.44,Default,,0,0,0,,{\c&Hc7c1c2&}I would rather understand a tool's limitations than blindly trust it.{\r}
+Dialogue: 0,00:00:01.44,00:00:01.52,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&}I{\r}{\c&Hc7c1c2&} would rather understand a tool's limitations than blindly trust it.{\r}
+Dialogue: 0,00:00:01.52,00:00:01.68,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&}I{\r}{\c&Hc7c1c2&} would rather understand a tool's limitations than blindly trust it.{\r}
+Dialogue: 0,00:00:01.68,00:00:01.76,Default,,0,0,0,,{\c&H3d2e31&}I {\r}{\c&H9ab39&}would{\r}{\c&Hc7c1c2&} rather understand a tool's limitations than blindly trust it.{\r}
+Dialogue: 0,00:00:01.76,00:00:02.00,Default,,0,0,0,,{\c&H3d2e31&}I {\r}{\c&H3d2e31&}would{\r}{\c&Hc7c1c2&} rather understand a tool's limitations than blindly trust it.{\r}
+Dialogue: 0,00:00:02.00,00:00:02.24,Default,,0,0,0,,{\c&H3d2e31&}I would {\r}{\c&H9ab39&}rather{\r}{\c&Hc7c1c2&} understand a tool's limitations than blindly trust it.{\r}
+Dialogue: 0,00:00:02.24,00:00:02.32,Default,,0,0,0,,{\c&H3d2e31&}I would {\r}{\c&H3d2e31&}rather{\r}{\c&Hc7c1c2&} understand a tool's limitations than blindly trust it.{\r}
+Dialogue: 0,00:00:02.32,00:00:02.40,Default,,0,0,0,,{\c&H3d2e31&}I would rather {\r}{\c&H9ab39&}understand{\r}{\c&Hc7c1c2&} a tool's limitations than blindly trust it.{\r}
+Dialogue: 0,00:00:02.40,00:00:02.88,Default,,0,0,0,,{\c&H3d2e31&}I would rather {\r}{\c&H3d2e31&}understand{\r}{\c&Hc7c1c2&} a tool's limitations than blindly trust it.{\r}
+Dialogue: 0,00:00:02.88,00:00:02.96,Default,,0,0,0,,{\c&H3d2e31&}I would rather understand {\r}{\c&H9ab39&}a{\r}{\c&Hc7c1c2&} tool's limitations than blindly trust it.{\r}
+Dialogue: 0,00:00:02.96,00:00:03.12,Default,,0,0,0,,{\c&H3d2e31&}I would rather understand {\r}{\c&H3d2e31&}a{\r}{\c&Hc7c1c2&} tool's limitations than blindly trust it.{\r}
+Dialogue: 0,00:00:03.12,00:00:03.68,Default,,0,0,0,,{\c&H3d2e31&}I would rather understand a {\r}{\c&H9ab39&}tool's{\r}{\c&Hc7c1c2&} limitations than blindly trust it.{\r}
+Dialogue: 0,00:00:03.68,00:00:03.76,Default,,0,0,0,,{\c&H3d2e31&}I would rather understand a {\r}{\c&H3d2e31&}tool's{\r}{\c&Hc7c1c2&} limitations than blindly trust it.{\r}
+Dialogue: 0,00:00:03.76,00:00:04.24,Default,,0,0,0,,{\c&H3d2e31&}I would rather understand a tool's {\r}{\c&H9ab39&}limitations{\r}{\c&Hc7c1c2&} than blindly trust it.{\r}
+Dialogue: 0,00:00:04.24,00:00:04.48,Default,,0,0,0,,{\c&H3d2e31&}I would rather understand a tool's {\r}{\c&H3d2e31&}limitations{\r}{\c&Hc7c1c2&} than blindly trust it.{\r}
+Dialogue: 0,00:00:04.48,00:00:04.56,Default,,0,0,0,,{\c&H3d2e31&}I would rather understand a tool's limitations {\r}{\c&H9ab39&}than{\r}{\c&Hc7c1c2&} blindly trust it.{\r}
+Dialogue: 0,00:00:04.56,00:00:04.80,Default,,0,0,0,,{\c&H3d2e31&}I would rather understand a tool's limitations {\r}{\c&H3d2e31&}than{\r}{\c&Hc7c1c2&} blindly trust it.{\r}
+Dialogue: 0,00:00:04.80,00:00:05.28,Default,,0,0,0,,{\c&H3d2e31&}I would rather understand a tool's limitations than {\r}{\c&H9ab39&}blindly{\r}{\c&Hc7c1c2&} trust it.{\r}
+Dialogue: 0,00:00:05.28,00:00:05.36,Default,,0,0,0,,{\c&H3d2e31&}I would rather understand a tool's limitations than {\r}{\c&H3d2e31&}blindly{\r}{\c&Hc7c1c2&} trust it.{\r}
+Dialogue: 0,00:00:05.36,00:00:05.76,Default,,0,0,0,,{\c&H3d2e31&}I would rather understand a tool's limitations than blindly {\r}{\c&H9ab39&}trust{\r}{\c&Hc7c1c2&} it.{\r}
+Dialogue: 0,00:00:05.76,00:00:05.84,Default,,0,0,0,,{\c&H3d2e31&}I would rather understand a tool's limitations than blindly {\r}{\c&H3d2e31&}trust{\r}{\c&Hc7c1c2&} it.{\r}
+Dialogue: 0,00:00:05.84,00:00:06.16,Default,,0,0,0,,{\c&H3d2e31&}I would rather understand a tool's limitations than blindly trust {\r}{\c&H9ab39&}it.{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:06.16,00:00:08.00,Default,,0,0,0,,{\c&H3d2e31&}I would rather understand a tool's limitations than blindly trust it.{\r}

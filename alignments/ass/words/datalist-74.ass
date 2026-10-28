@@ -1,0 +1,28 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:00.00,Default,,0,0,0,,{\c&Hc7c1c2&}What assumptions am I making without realizing it?{\r}
+Dialogue: 0,00:00:00.00,00:00:00.08,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&}What{\r}{\c&Hc7c1c2&} assumptions am I making without realizing it?{\r}
+Dialogue: 0,00:00:00.08,00:00:03.92,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&}What{\r}{\c&Hc7c1c2&} assumptions am I making without realizing it?{\r}
+Dialogue: 0,00:00:03.92,00:00:04.64,Default,,0,0,0,,{\c&H3d2e31&}What {\r}{\c&H9ab39&}assumptions{\r}{\c&Hc7c1c2&} am I making without realizing it?{\r}
+Dialogue: 0,00:00:04.64,00:00:04.80,Default,,0,0,0,,{\c&H3d2e31&}What {\r}{\c&H3d2e31&}assumptions{\r}{\c&Hc7c1c2&} am I making without realizing it?{\r}
+Dialogue: 0,00:00:04.80,00:00:04.96,Default,,0,0,0,,{\c&H3d2e31&}What assumptions {\r}{\c&H9ab39&}am{\r}{\c&Hc7c1c2&} I making without realizing it?{\r}
+Dialogue: 0,00:00:04.96,00:00:05.12,Default,,0,0,0,,{\c&H3d2e31&}What assumptions am {\r}{\c&H9ab39&}I{\r}{\c&Hc7c1c2&} making without realizing it?{\r}
+Dialogue: 0,00:00:05.12,00:00:05.20,Default,,0,0,0,,{\c&H3d2e31&}What assumptions am {\r}{\c&H3d2e31&}I{\r}{\c&Hc7c1c2&} making without realizing it?{\r}
+Dialogue: 0,00:00:05.20,00:00:05.28,Default,,0,0,0,,{\c&H3d2e31&}What assumptions am I {\r}{\c&H9ab39&}making{\r}{\c&Hc7c1c2&} without realizing it?{\r}
+Dialogue: 0,00:00:05.28,00:00:05.68,Default,,0,0,0,,{\c&H3d2e31&}What assumptions am I {\r}{\c&H3d2e31&}making{\r}{\c&Hc7c1c2&} without realizing it?{\r}
+Dialogue: 0,00:00:05.68,00:00:05.76,Default,,0,0,0,,{\c&H3d2e31&}What assumptions am I making {\r}{\c&H9ab39&}without{\r}{\c&Hc7c1c2&} realizing it?{\r}
+Dialogue: 0,00:00:05.76,00:00:06.00,Default,,0,0,0,,{\c&H3d2e31&}What assumptions am I making {\r}{\c&H3d2e31&}without{\r}{\c&Hc7c1c2&} realizing it?{\r}
+Dialogue: 0,00:00:06.00,00:00:06.64,Default,,0,0,0,,{\c&H3d2e31&}What assumptions am I making without {\r}{\c&H9ab39&}realizing{\r}{\c&Hc7c1c2&} it?{\r}
+Dialogue: 0,00:00:06.64,00:00:06.72,Default,,0,0,0,,{\c&H3d2e31&}What assumptions am I making without {\r}{\c&H3d2e31&}realizing{\r}{\c&Hc7c1c2&} it?{\r}
+Dialogue: 0,00:00:06.72,00:00:07.28,Default,,0,0,0,,{\c&H3d2e31&}What assumptions am I making without realizing {\r}{\c&H9ab39&}it?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:07.28,00:00:09.00,Default,,0,0,0,,{\c&H3d2e31&}What assumptions am I making without realizing it?{\r}

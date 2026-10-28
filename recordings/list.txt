@@ -1,0 +1,90 @@
+1. I want to understand how something works internally, not just how to use it.
+2. How can I implement this in Python?
+3. What is the time complexity of this algorithm?
+4. How can I make this algorithm more efficient?
+5. What is happening behind the scenes?
+6. How does this work at the hardware level?
+7. I want to build this myself rather than rely on an existing library.
+8. How can I represent this data in a more structured way?
+9. How can I extract semantic meaning from natural language?
+10. What are the limitations of this approach?
+11. Is there a more efficient way to solve this problem?
+12. How can I make this work without introducing unnecessary dependencies?
+13. How can I configure this in NixOS?
+14. Can I do this declaratively instead of manually configuring everything?
+15. Why does this work on other Linux distributions but not on NixOS?
+16. How can I fix this without installing unnecessary packages?
+17. I want to understand what is actually causing this error.
+18. How can I reduce resource usage on my system?
+19. Can I make this work directly from the terminal?
+20. How do I configure this in configuration.nix?
+21. Why is this library missing even though I installed the package?
+22. How can I reproduce this environment reliably?
+23. I prefer having control over my system rather than relying on defaults.
+24. How does this neural network architecture work?
+25. I want to build my own model instead of just calling an API.
+26. How does an RNN transducer work?
+27. What is the difference between the encoder and the decoder?
+28. How can I train a model to predict a larger vocabulary?
+29. How do embeddings represent semantic meaning?
+30. How can I improve the accuracy of this model?
+31. What is the purpose of this layer?
+32. How does attention work mathematically?
+33. How can I run this model locally on my own hardware?
+34. What hardware do I need to run this model efficiently?
+35. How can I understand what the model has learned rather than just looking at its output?
+36. How does this component communicate with the rest of the system?
+37. Can I build this using an ESP32?
+38. How do I send data between two devices over a network?
+39. How does a wireless signal physically carry information?
+40. What is the difference between these communication protocols?
+41. How can I inspect the packets being transmitted?
+42. How does an antenna's length affect its operating frequency?
+43. Can I interface this hardware directly with Python?
+44. How do I debug this without specialized equipment?
+45. What is the lowest-level interface I can use to control this device?
+46. How does the operating system communicate with the hardware?
+47. Can I build a system that performs this task automatically?
+48. How does this vulnerability actually work?
+49. How can I inspect what a program is doing internally?
+50. How does authentication work at the protocol level?
+51. What information can be extracted from network traffic?
+52. How can I automate this process with a script?
+53. What assumptions does this security mechanism rely on?
+54. How could someone exploit a weakness in this design?
+55. How can I make this system more secure without making it unnecessarily complicated?
+56. Can you explain this step by step?
+57. Why does this formula work?
+58. How do I solve this recurrence relation?
+59. How can I determine convergence without calculating everything?
+60. Can you explain this in simpler terms?
+61. What is the intuition behind this concept?
+62. How can I solve this problem without memorizing a formula?
+63. Can you give me an example that I can work through myself?
+64. What is the difference between these two concepts?
+65. How do I know when to use this method?
+66. Why do people behave this way?
+67. What causes people to develop certain fears?
+68. How much of human behavior is conscious?
+69. Why do certain ideas resonate with me more than others?
+70. What does this say about human nature?
+71. I want to understand the psychology behind this.
+72. Are there books that explore this topic in depth?
+73. I want something thought-provoking, not just a surface-level explanation.
+74. What assumptions am I making without realizing it?
+75. How can I understand this from a different philosophical perspective?
+76. How does federalism affect the distribution of power?
+77. What would happen if the United States adopted this policy?
+78. How does direct democracy differ from representative democracy?
+79. Why was the government more decentralized during certain periods?
+80. What are the advantages and disadvantages of this system?
+81. How does this constitutional principle affect real-world policy?
+82. Who benefits from the way this system is structured?
+83. How does government policy influence individual freedom?
+84. I don't like systems that manipulate people into spending more time using them.
+85. I want to understand how recommendation algorithms influence behavior.
+86. Why should I depend on an external service if I can run something locally?
+87. I would rather understand a tool's limitations than blindly trust it.
+88. Can this be done without sending my data to a third party?
+89. I want to automate repetitive tasks so I can focus on more interesting problems.
+90. I like learning about technologies that most people never think about.

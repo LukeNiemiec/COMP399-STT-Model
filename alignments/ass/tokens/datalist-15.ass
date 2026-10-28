@@ -1,0 +1,57 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:00.08,Default,,0,0,0,,{\c&Hc7c1c2&} Why does this work on other Linux distributions but not on NixOS?{\r}
+Dialogue: 0,00:00:00.08,00:00:00.16,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&} W{\r}{\c&Hc7c1c2&}hy does this work on other Linux distributions but not on NixOS?{\r}
+Dialogue: 0,00:00:00.16,00:00:00.24,Default,,0,0,0,,{\c&H3d2e31&} W{\r}{\c&H9ab39&}h{\r}{\c&Hc7c1c2&}y does this work on other Linux distributions but not on NixOS?{\r}
+Dialogue: 0,00:00:00.24,00:00:00.32,Default,,0,0,0,,{\c&H3d2e31&} Wh{\r}{\c&H9ab39&}y{\r}{\c&Hc7c1c2&} does this work on other Linux distributions but not on NixOS?{\r}
+Dialogue: 0,00:00:00.32,00:00:00.40,Default,,0,0,0,,{\c&H3d2e31&} Why{\r}{\c&H9ab39&} does{\r}{\c&Hc7c1c2&} this work on other Linux distributions but not on NixOS?{\r}
+Dialogue: 0,00:00:00.40,00:00:00.48,Default,,0,0,0,,{\c&H3d2e31&} Why does{\r}{\c&H9ab39&} this{\r}{\c&Hc7c1c2&} work on other Linux distributions but not on NixOS?{\r}
+Dialogue: 0,00:00:00.48,00:00:00.56,Default,,0,0,0,,{\c&H3d2e31&} Why does this{\r}{\c&H9ab39&} work{\r}{\c&Hc7c1c2&} on other Linux distributions but not on NixOS?{\r}
+Dialogue: 0,00:00:00.56,00:00:01.04,Default,,0,0,0,,{\c&H3d2e31&} Why does this{\r}{\c&H3d2e31&} work{\r}{\c&Hc7c1c2&} on other Linux distributions but not on NixOS?{\r}
+Dialogue: 0,00:00:01.04,00:00:01.12,Default,,0,0,0,,{\c&H3d2e31&} Why does this work{\r}{\c&H9ab39&} on{\r}{\c&Hc7c1c2&} other Linux distributions but not on NixOS?{\r}
+Dialogue: 0,00:00:01.12,00:00:01.20,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on{\r}{\c&H9ab39&} other{\r}{\c&Hc7c1c2&} Linux distributions but not on NixOS?{\r}
+Dialogue: 0,00:00:01.20,00:00:02.08,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on{\r}{\c&H3d2e31&} other{\r}{\c&Hc7c1c2&} Linux distributions but not on NixOS?{\r}
+Dialogue: 0,00:00:02.08,00:00:02.16,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other{\r}{\c&H9ab39&} Li{\r}{\c&Hc7c1c2&}nux distributions but not on NixOS?{\r}
+Dialogue: 0,00:00:02.16,00:00:02.48,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other{\r}{\c&H3d2e31&} Li{\r}{\c&Hc7c1c2&}nux distributions but not on NixOS?{\r}
+Dialogue: 0,00:00:02.48,00:00:02.56,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Li{\r}{\c&H9ab39&}n{\r}{\c&Hc7c1c2&}ux distributions but not on NixOS?{\r}
+Dialogue: 0,00:00:02.56,00:00:02.80,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Li{\r}{\c&H3d2e31&}n{\r}{\c&Hc7c1c2&}ux distributions but not on NixOS?{\r}
+Dialogue: 0,00:00:02.80,00:00:02.88,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Lin{\r}{\c&H9ab39&}u{\r}{\c&Hc7c1c2&}x distributions but not on NixOS?{\r}
+Dialogue: 0,00:00:02.88,00:00:02.96,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Lin{\r}{\c&H3d2e31&}u{\r}{\c&Hc7c1c2&}x distributions but not on NixOS?{\r}
+Dialogue: 0,00:00:02.96,00:00:03.04,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Linu{\r}{\c&H9ab39&}x{\r}{\c&Hc7c1c2&} distributions but not on NixOS?{\r}
+Dialogue: 0,00:00:03.04,00:00:03.12,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Linu{\r}{\c&H3d2e31&}x{\r}{\c&Hc7c1c2&} distributions but not on NixOS?{\r}
+Dialogue: 0,00:00:03.12,00:00:03.20,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Linux{\r}{\c&H9ab39&} dis{\r}{\c&Hc7c1c2&}tributions but not on NixOS?{\r}
+Dialogue: 0,00:00:03.20,00:00:03.28,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Linux{\r}{\c&H3d2e31&} dis{\r}{\c&Hc7c1c2&}tributions but not on NixOS?{\r}
+Dialogue: 0,00:00:03.28,00:00:03.36,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Linux dis{\r}{\c&H9ab39&}tri{\r}{\c&Hc7c1c2&}butions but not on NixOS?{\r}
+Dialogue: 0,00:00:03.36,00:00:03.44,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Linux distri{\r}{\c&H9ab39&}bu{\r}{\c&Hc7c1c2&}tions but not on NixOS?{\r}
+Dialogue: 0,00:00:03.44,00:00:03.60,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Linux distri{\r}{\c&H3d2e31&}bu{\r}{\c&Hc7c1c2&}tions but not on NixOS?{\r}
+Dialogue: 0,00:00:03.60,00:00:03.68,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Linux distribu{\r}{\c&H9ab39&}tion{\r}{\c&Hc7c1c2&}s but not on NixOS?{\r}
+Dialogue: 0,00:00:03.68,00:00:03.84,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Linux distribution{\r}{\c&H9ab39&}s{\r}{\c&Hc7c1c2&} but not on NixOS?{\r}
+Dialogue: 0,00:00:03.84,00:00:03.92,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Linux distribution{\r}{\c&H3d2e31&}s{\r}{\c&Hc7c1c2&} but not on NixOS?{\r}
+Dialogue: 0,00:00:03.92,00:00:04.00,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Linux distributions{\r}{\c&H9ab39&} but{\r}{\c&Hc7c1c2&} not on NixOS?{\r}
+Dialogue: 0,00:00:04.00,00:00:04.08,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Linux distributions{\r}{\c&H3d2e31&} but{\r}{\c&Hc7c1c2&} not on NixOS?{\r}
+Dialogue: 0,00:00:04.08,00:00:04.16,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Linux distributions but{\r}{\c&H9ab39&} not{\r}{\c&Hc7c1c2&} on NixOS?{\r}
+Dialogue: 0,00:00:04.16,00:00:04.24,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Linux distributions but not{\r}{\c&H9ab39&} on{\r}{\c&Hc7c1c2&} NixOS?{\r}
+Dialogue: 0,00:00:04.24,00:00:04.32,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Linux distributions but not on{\r}{\c&H9ab39&} {\r}{\c&Hc7c1c2&}NixOS?{\r}
+Dialogue: 0,00:00:04.32,00:00:04.40,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Linux distributions but not on {\r}{\c&H9ab39&}N{\r}{\c&Hc7c1c2&}ixOS?{\r}
+Dialogue: 0,00:00:04.40,00:00:04.88,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Linux distributions but not on {\r}{\c&H3d2e31&}N{\r}{\c&Hc7c1c2&}ixOS?{\r}
+Dialogue: 0,00:00:04.88,00:00:04.96,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Linux distributions but not on N{\r}{\c&H9ab39&}i{\r}{\c&Hc7c1c2&}xOS?{\r}
+Dialogue: 0,00:00:04.96,00:00:05.20,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Linux distributions but not on N{\r}{\c&H3d2e31&}i{\r}{\c&Hc7c1c2&}xOS?{\r}
+Dialogue: 0,00:00:05.20,00:00:05.28,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Linux distributions but not on Ni{\r}{\c&H9ab39&}x{\r}{\c&Hc7c1c2&}OS?{\r}
+Dialogue: 0,00:00:05.28,00:00:05.36,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Linux distributions but not on Ni{\r}{\c&H3d2e31&}x{\r}{\c&Hc7c1c2&}OS?{\r}
+Dialogue: 0,00:00:05.36,00:00:05.44,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Linux distributions but not on Nix{\r}{\c&H9ab39&}O{\r}{\c&Hc7c1c2&}S?{\r}
+Dialogue: 0,00:00:05.44,00:00:05.52,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Linux distributions but not on Nix{\r}{\c&H3d2e31&}O{\r}{\c&Hc7c1c2&}S?{\r}
+Dialogue: 0,00:00:05.52,00:00:05.60,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Linux distributions but not on NixO{\r}{\c&H9ab39&}S{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:05.60,00:00:05.84,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Linux distributions but not on NixO{\r}{\c&H3d2e31&}S{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:05.84,00:00:05.92,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Linux distributions but not on NixOS{\r}{\c&H9ab39&}?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:05.92,00:00:08.00,Default,,0,0,0,,{\c&H3d2e31&} Why does this work on other Linux distributions but not on NixOS?{\r}

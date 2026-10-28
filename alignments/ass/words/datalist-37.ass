@@ -1,0 +1,27 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:01.76,Default,,0,0,0,,{\c&Hc7c1c2&}Can I build this using an ESP32?{\r}
+Dialogue: 0,00:00:01.76,00:00:02.24,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&}Can{\r}{\c&Hc7c1c2&} I build this using an ESP32?{\r}
+Dialogue: 0,00:00:02.24,00:00:02.32,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&}Can{\r}{\c&Hc7c1c2&} I build this using an ESP32?{\r}
+Dialogue: 0,00:00:02.32,00:00:02.40,Default,,0,0,0,,{\c&H3d2e31&}Can {\r}{\c&H9ab39&}I{\r}{\c&Hc7c1c2&} build this using an ESP32?{\r}
+Dialogue: 0,00:00:02.40,00:00:02.48,Default,,0,0,0,,{\c&H3d2e31&}Can {\r}{\c&H3d2e31&}I{\r}{\c&Hc7c1c2&} build this using an ESP32?{\r}
+Dialogue: 0,00:00:02.48,00:00:02.56,Default,,0,0,0,,{\c&H3d2e31&}Can I {\r}{\c&H9ab39&}build{\r}{\c&Hc7c1c2&} this using an ESP32?{\r}
+Dialogue: 0,00:00:02.56,00:00:02.88,Default,,0,0,0,,{\c&H3d2e31&}Can I {\r}{\c&H3d2e31&}build{\r}{\c&Hc7c1c2&} this using an ESP32?{\r}
+Dialogue: 0,00:00:02.88,00:00:02.96,Default,,0,0,0,,{\c&H3d2e31&}Can I build {\r}{\c&H9ab39&}this{\r}{\c&Hc7c1c2&} using an ESP32?{\r}
+Dialogue: 0,00:00:02.96,00:00:03.20,Default,,0,0,0,,{\c&H3d2e31&}Can I build {\r}{\c&H3d2e31&}this{\r}{\c&Hc7c1c2&} using an ESP32?{\r}
+Dialogue: 0,00:00:03.20,00:00:03.68,Default,,0,0,0,,{\c&H3d2e31&}Can I build this {\r}{\c&H9ab39&}using{\r}{\c&Hc7c1c2&} an ESP32?{\r}
+Dialogue: 0,00:00:03.68,00:00:03.76,Default,,0,0,0,,{\c&H3d2e31&}Can I build this {\r}{\c&H3d2e31&}using{\r}{\c&Hc7c1c2&} an ESP32?{\r}
+Dialogue: 0,00:00:03.76,00:00:03.84,Default,,0,0,0,,{\c&H3d2e31&}Can I build this using {\r}{\c&H9ab39&}an{\r}{\c&Hc7c1c2&} ESP32?{\r}
+Dialogue: 0,00:00:03.84,00:00:04.08,Default,,0,0,0,,{\c&H3d2e31&}Can I build this using {\r}{\c&H3d2e31&}an{\r}{\c&Hc7c1c2&} ESP32?{\r}
+Dialogue: 0,00:00:04.08,00:00:06.16,Default,,0,0,0,,{\c&H3d2e31&}Can I build this using an {\r}{\c&H9ab39&}ESP32?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:06.16,00:00:08.00,Default,,0,0,0,,{\c&H3d2e31&}Can I build this using an ESP32?{\r}

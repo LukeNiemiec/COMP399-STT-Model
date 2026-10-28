@@ -1,0 +1,38 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:01.92,Default,,0,0,0,,{\c&Hc7c1c2&} How does government policy influence individual freedom?{\r}
+Dialogue: 0,00:00:01.92,00:00:02.00,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&} Ho{\r}{\c&Hc7c1c2&}w does government policy influence individual freedom?{\r}
+Dialogue: 0,00:00:02.00,00:00:02.16,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&} Ho{\r}{\c&Hc7c1c2&}w does government policy influence individual freedom?{\r}
+Dialogue: 0,00:00:02.16,00:00:02.24,Default,,0,0,0,,{\c&H3d2e31&} Ho{\r}{\c&H9ab39&}w{\r}{\c&Hc7c1c2&} does government policy influence individual freedom?{\r}
+Dialogue: 0,00:00:02.24,00:00:02.40,Default,,0,0,0,,{\c&H3d2e31&} Ho{\r}{\c&H3d2e31&}w{\r}{\c&Hc7c1c2&} does government policy influence individual freedom?{\r}
+Dialogue: 0,00:00:02.40,00:00:02.48,Default,,0,0,0,,{\c&H3d2e31&} How{\r}{\c&H9ab39&} does{\r}{\c&Hc7c1c2&} government policy influence individual freedom?{\r}
+Dialogue: 0,00:00:02.48,00:00:02.88,Default,,0,0,0,,{\c&H3d2e31&} How{\r}{\c&H3d2e31&} does{\r}{\c&Hc7c1c2&} government policy influence individual freedom?{\r}
+Dialogue: 0,00:00:02.88,00:00:02.96,Default,,0,0,0,,{\c&H3d2e31&} How does{\r}{\c&H9ab39&} government{\r}{\c&Hc7c1c2&} policy influence individual freedom?{\r}
+Dialogue: 0,00:00:02.96,00:00:03.44,Default,,0,0,0,,{\c&H3d2e31&} How does{\r}{\c&H3d2e31&} government{\r}{\c&Hc7c1c2&} policy influence individual freedom?{\r}
+Dialogue: 0,00:00:03.44,00:00:03.52,Default,,0,0,0,,{\c&H3d2e31&} How does government{\r}{\c&H9ab39&} policy{\r}{\c&Hc7c1c2&} influence individual freedom?{\r}
+Dialogue: 0,00:00:03.52,00:00:03.92,Default,,0,0,0,,{\c&H3d2e31&} How does government{\r}{\c&H3d2e31&} policy{\r}{\c&Hc7c1c2&} influence individual freedom?{\r}
+Dialogue: 0,00:00:03.92,00:00:04.00,Default,,0,0,0,,{\c&H3d2e31&} How does government policy{\r}{\c&H9ab39&} in{\r}{\c&Hc7c1c2&}fluence individual freedom?{\r}
+Dialogue: 0,00:00:04.00,00:00:04.08,Default,,0,0,0,,{\c&H3d2e31&} How does government policy in{\r}{\c&H9ab39&}f{\r}{\c&Hc7c1c2&}luence individual freedom?{\r}
+Dialogue: 0,00:00:04.08,00:00:04.24,Default,,0,0,0,,{\c&H3d2e31&} How does government policy inf{\r}{\c&H9ab39&}lu{\r}{\c&Hc7c1c2&}ence individual freedom?{\r}
+Dialogue: 0,00:00:04.24,00:00:04.32,Default,,0,0,0,,{\c&H3d2e31&} How does government policy influ{\r}{\c&H9ab39&}ence{\r}{\c&Hc7c1c2&} individual freedom?{\r}
+Dialogue: 0,00:00:04.32,00:00:04.48,Default,,0,0,0,,{\c&H3d2e31&} How does government policy influ{\r}{\c&H3d2e31&}ence{\r}{\c&Hc7c1c2&} individual freedom?{\r}
+Dialogue: 0,00:00:04.48,00:00:04.64,Default,,0,0,0,,{\c&H3d2e31&} How does government policy influence{\r}{\c&H9ab39&} individual{\r}{\c&Hc7c1c2&} freedom?{\r}
+Dialogue: 0,00:00:04.64,00:00:05.20,Default,,0,0,0,,{\c&H3d2e31&} How does government policy influence{\r}{\c&H3d2e31&} individual{\r}{\c&Hc7c1c2&} freedom?{\r}
+Dialogue: 0,00:00:05.20,00:00:05.28,Default,,0,0,0,,{\c&H3d2e31&} How does government policy influence individual{\r}{\c&H9ab39&} free{\r}{\c&Hc7c1c2&}dom?{\r}
+Dialogue: 0,00:00:05.28,00:00:05.36,Default,,0,0,0,,{\c&H3d2e31&} How does government policy influence individual{\r}{\c&H3d2e31&} free{\r}{\c&Hc7c1c2&}dom?{\r}
+Dialogue: 0,00:00:05.36,00:00:05.52,Default,,0,0,0,,{\c&H3d2e31&} How does government policy influence individual free{\r}{\c&H9ab39&}d{\r}{\c&Hc7c1c2&}om?{\r}
+Dialogue: 0,00:00:05.52,00:00:05.60,Default,,0,0,0,,{\c&H3d2e31&} How does government policy influence individual freed{\r}{\c&H9ab39&}om{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:05.60,00:00:05.92,Default,,0,0,0,,{\c&H3d2e31&} How does government policy influence individual freed{\r}{\c&H3d2e31&}om{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:05.92,00:00:06.00,Default,,0,0,0,,{\c&H3d2e31&} How does government policy influence individual freedom{\r}{\c&H9ab39&}?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:06.00,00:00:08.00,Default,,0,0,0,,{\c&H3d2e31&} How does government policy influence individual freedom?{\r}

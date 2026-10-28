@@ -1,0 +1,60 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:01.60,Default,,0,0,0,,{\c&Hc7c1c2&} I want to automate repetitive tasks so I can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:01.60,00:00:01.68,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&} I{\r}{\c&Hc7c1c2&} want to automate repetitive tasks so I can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:01.68,00:00:01.92,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&} I{\r}{\c&Hc7c1c2&} want to automate repetitive tasks so I can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:01.92,00:00:02.00,Default,,0,0,0,,{\c&H3d2e31&} I{\r}{\c&H9ab39&} want{\r}{\c&Hc7c1c2&} to automate repetitive tasks so I can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:02.00,00:00:02.16,Default,,0,0,0,,{\c&H3d2e31&} I{\r}{\c&H3d2e31&} want{\r}{\c&Hc7c1c2&} to automate repetitive tasks so I can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:02.16,00:00:02.24,Default,,0,0,0,,{\c&H3d2e31&} I want{\r}{\c&H9ab39&} to{\r}{\c&Hc7c1c2&} automate repetitive tasks so I can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:02.24,00:00:02.40,Default,,0,0,0,,{\c&H3d2e31&} I want{\r}{\c&H3d2e31&} to{\r}{\c&Hc7c1c2&} automate repetitive tasks so I can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:02.40,00:00:02.48,Default,,0,0,0,,{\c&H3d2e31&} I want to{\r}{\c&H9ab39&} a{\r}{\c&Hc7c1c2&}utomate repetitive tasks so I can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:02.48,00:00:02.56,Default,,0,0,0,,{\c&H3d2e31&} I want to a{\r}{\c&H9ab39&}ut{\r}{\c&Hc7c1c2&}omate repetitive tasks so I can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:02.56,00:00:02.72,Default,,0,0,0,,{\c&H3d2e31&} I want to aut{\r}{\c&H9ab39&}om{\r}{\c&Hc7c1c2&}ate repetitive tasks so I can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:02.72,00:00:02.80,Default,,0,0,0,,{\c&H3d2e31&} I want to aut{\r}{\c&H3d2e31&}om{\r}{\c&Hc7c1c2&}ate repetitive tasks so I can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:02.80,00:00:02.88,Default,,0,0,0,,{\c&H3d2e31&} I want to autom{\r}{\c&H9ab39&}ate{\r}{\c&Hc7c1c2&} repetitive tasks so I can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:02.88,00:00:03.04,Default,,0,0,0,,{\c&H3d2e31&} I want to autom{\r}{\c&H3d2e31&}ate{\r}{\c&Hc7c1c2&} repetitive tasks so I can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:03.04,00:00:03.12,Default,,0,0,0,,{\c&H3d2e31&} I want to automate{\r}{\c&H9ab39&} re{\r}{\c&Hc7c1c2&}petitive tasks so I can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:03.12,00:00:03.20,Default,,0,0,0,,{\c&H3d2e31&} I want to automate{\r}{\c&H3d2e31&} re{\r}{\c&Hc7c1c2&}petitive tasks so I can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:03.20,00:00:03.36,Default,,0,0,0,,{\c&H3d2e31&} I want to automate re{\r}{\c&H9ab39&}pe{\r}{\c&Hc7c1c2&}titive tasks so I can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:03.36,00:00:03.52,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repe{\r}{\c&H9ab39&}t{\r}{\c&Hc7c1c2&}itive tasks so I can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:03.52,00:00:03.60,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repet{\r}{\c&H9ab39&}it{\r}{\c&Hc7c1c2&}ive tasks so I can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:03.60,00:00:03.68,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repet{\r}{\c&H3d2e31&}it{\r}{\c&Hc7c1c2&}ive tasks so I can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:03.68,00:00:03.76,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repetit{\r}{\c&H9ab39&}ive{\r}{\c&Hc7c1c2&} tasks so I can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:03.76,00:00:03.84,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repetit{\r}{\c&H3d2e31&}ive{\r}{\c&Hc7c1c2&} tasks so I can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:03.84,00:00:03.92,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repetitive{\r}{\c&H9ab39&} ta{\r}{\c&Hc7c1c2&}sks so I can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:03.92,00:00:04.00,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repetitive ta{\r}{\c&H9ab39&}s{\r}{\c&Hc7c1c2&}ks so I can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:04.00,00:00:04.08,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repetitive tas{\r}{\c&H9ab39&}k{\r}{\c&Hc7c1c2&}s so I can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:04.08,00:00:04.24,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repetitive task{\r}{\c&H9ab39&}s{\r}{\c&Hc7c1c2&} so I can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:04.24,00:00:04.32,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repetitive task{\r}{\c&H3d2e31&}s{\r}{\c&Hc7c1c2&} so I can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:04.32,00:00:04.40,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repetitive tasks{\r}{\c&H9ab39&} so{\r}{\c&Hc7c1c2&} I can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:04.40,00:00:04.48,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repetitive tasks{\r}{\c&H3d2e31&} so{\r}{\c&Hc7c1c2&} I can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:04.48,00:00:04.56,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repetitive tasks so{\r}{\c&H9ab39&} I{\r}{\c&Hc7c1c2&} can focus on more interesting problems.{\r}
+Dialogue: 0,00:00:04.56,00:00:04.64,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repetitive tasks so I{\r}{\c&H9ab39&} can{\r}{\c&Hc7c1c2&} focus on more interesting problems.{\r}
+Dialogue: 0,00:00:04.64,00:00:04.72,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repetitive tasks so I{\r}{\c&H3d2e31&} can{\r}{\c&Hc7c1c2&} focus on more interesting problems.{\r}
+Dialogue: 0,00:00:04.72,00:00:04.88,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repetitive tasks so I can{\r}{\c&H9ab39&} focus{\r}{\c&Hc7c1c2&} on more interesting problems.{\r}
+Dialogue: 0,00:00:04.88,00:00:05.04,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repetitive tasks so I can{\r}{\c&H3d2e31&} focus{\r}{\c&Hc7c1c2&} on more interesting problems.{\r}
+Dialogue: 0,00:00:05.04,00:00:05.12,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repetitive tasks so I can focus{\r}{\c&H9ab39&} on{\r}{\c&Hc7c1c2&} more interesting problems.{\r}
+Dialogue: 0,00:00:05.12,00:00:05.28,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repetitive tasks so I can focus{\r}{\c&H3d2e31&} on{\r}{\c&Hc7c1c2&} more interesting problems.{\r}
+Dialogue: 0,00:00:05.28,00:00:05.36,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repetitive tasks so I can focus on{\r}{\c&H9ab39&} more{\r}{\c&Hc7c1c2&} interesting problems.{\r}
+Dialogue: 0,00:00:05.36,00:00:05.52,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repetitive tasks so I can focus on{\r}{\c&H3d2e31&} more{\r}{\c&Hc7c1c2&} interesting problems.{\r}
+Dialogue: 0,00:00:05.52,00:00:05.60,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repetitive tasks so I can focus on more{\r}{\c&H9ab39&} interest{\r}{\c&Hc7c1c2&}ing problems.{\r}
+Dialogue: 0,00:00:05.60,00:00:05.84,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repetitive tasks so I can focus on more{\r}{\c&H3d2e31&} interest{\r}{\c&Hc7c1c2&}ing problems.{\r}
+Dialogue: 0,00:00:05.84,00:00:05.92,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repetitive tasks so I can focus on more interest{\r}{\c&H9ab39&}ing{\r}{\c&Hc7c1c2&} problems.{\r}
+Dialogue: 0,00:00:05.92,00:00:06.08,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repetitive tasks so I can focus on more interest{\r}{\c&H3d2e31&}ing{\r}{\c&Hc7c1c2&} problems.{\r}
+Dialogue: 0,00:00:06.08,00:00:06.16,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repetitive tasks so I can focus on more interesting{\r}{\c&H9ab39&} problem{\r}{\c&Hc7c1c2&}s.{\r}
+Dialogue: 0,00:00:06.16,00:00:06.48,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repetitive tasks so I can focus on more interesting{\r}{\c&H3d2e31&} problem{\r}{\c&Hc7c1c2&}s.{\r}
+Dialogue: 0,00:00:06.48,00:00:06.56,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repetitive tasks so I can focus on more interesting problem{\r}{\c&H9ab39&}s{\r}{\c&Hc7c1c2&}.{\r}
+Dialogue: 0,00:00:06.56,00:00:07.12,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repetitive tasks so I can focus on more interesting problem{\r}{\c&H3d2e31&}s{\r}{\c&Hc7c1c2&}.{\r}
+Dialogue: 0,00:00:07.12,00:00:07.20,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repetitive tasks so I can focus on more interesting problems{\r}{\c&H9ab39&}.{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:07.20,00:00:09.00,Default,,0,0,0,,{\c&H3d2e31&} I want to automate repetitive tasks so I can focus on more interesting problems.{\r}

@@ -1,0 +1,34 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:02.72,Default,,0,0,0,,{\c&Hc7c1c2&} What is happening behind the scenes?{\r}
+Dialogue: 0,00:00:02.72,00:00:02.80,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&} What{\r}{\c&Hc7c1c2&} is happening behind the scenes?{\r}
+Dialogue: 0,00:00:02.80,00:00:03.12,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&} What{\r}{\c&Hc7c1c2&} is happening behind the scenes?{\r}
+Dialogue: 0,00:00:03.12,00:00:03.20,Default,,0,0,0,,{\c&H3d2e31&} What{\r}{\c&H9ab39&} is{\r}{\c&Hc7c1c2&} happening behind the scenes?{\r}
+Dialogue: 0,00:00:03.20,00:00:03.68,Default,,0,0,0,,{\c&H3d2e31&} What{\r}{\c&H3d2e31&} is{\r}{\c&Hc7c1c2&} happening behind the scenes?{\r}
+Dialogue: 0,00:00:03.68,00:00:03.76,Default,,0,0,0,,{\c&H3d2e31&} What is{\r}{\c&H9ab39&} happen{\r}{\c&Hc7c1c2&}ing behind the scenes?{\r}
+Dialogue: 0,00:00:03.76,00:00:03.84,Default,,0,0,0,,{\c&H3d2e31&} What is{\r}{\c&H3d2e31&} happen{\r}{\c&Hc7c1c2&}ing behind the scenes?{\r}
+Dialogue: 0,00:00:03.84,00:00:03.92,Default,,0,0,0,,{\c&H3d2e31&} What is happen{\r}{\c&H9ab39&}ing{\r}{\c&Hc7c1c2&} behind the scenes?{\r}
+Dialogue: 0,00:00:03.92,00:00:04.00,Default,,0,0,0,,{\c&H3d2e31&} What is happen{\r}{\c&H3d2e31&}ing{\r}{\c&Hc7c1c2&} behind the scenes?{\r}
+Dialogue: 0,00:00:04.00,00:00:04.08,Default,,0,0,0,,{\c&H3d2e31&} What is happening{\r}{\c&H9ab39&} behind{\r}{\c&Hc7c1c2&} the scenes?{\r}
+Dialogue: 0,00:00:04.08,00:00:04.16,Default,,0,0,0,,{\c&H3d2e31&} What is happening{\r}{\c&H3d2e31&} behind{\r}{\c&Hc7c1c2&} the scenes?{\r}
+Dialogue: 0,00:00:04.16,00:00:04.24,Default,,0,0,0,,{\c&H3d2e31&} What is happening behind{\r}{\c&H9ab39&} the{\r}{\c&Hc7c1c2&} scenes?{\r}
+Dialogue: 0,00:00:04.24,00:00:04.32,Default,,0,0,0,,{\c&H3d2e31&} What is happening behind{\r}{\c&H3d2e31&} the{\r}{\c&Hc7c1c2&} scenes?{\r}
+Dialogue: 0,00:00:04.32,00:00:04.40,Default,,0,0,0,,{\c&H3d2e31&} What is happening behind the{\r}{\c&H9ab39&} sc{\r}{\c&Hc7c1c2&}enes?{\r}
+Dialogue: 0,00:00:04.40,00:00:04.80,Default,,0,0,0,,{\c&H3d2e31&} What is happening behind the{\r}{\c&H3d2e31&} sc{\r}{\c&Hc7c1c2&}enes?{\r}
+Dialogue: 0,00:00:04.80,00:00:04.88,Default,,0,0,0,,{\c&H3d2e31&} What is happening behind the sc{\r}{\c&H9ab39&}en{\r}{\c&Hc7c1c2&}es?{\r}
+Dialogue: 0,00:00:04.88,00:00:04.96,Default,,0,0,0,,{\c&H3d2e31&} What is happening behind the sc{\r}{\c&H3d2e31&}en{\r}{\c&Hc7c1c2&}es?{\r}
+Dialogue: 0,00:00:04.96,00:00:05.04,Default,,0,0,0,,{\c&H3d2e31&} What is happening behind the scen{\r}{\c&H9ab39&}es{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:05.04,00:00:05.84,Default,,0,0,0,,{\c&H3d2e31&} What is happening behind the scen{\r}{\c&H3d2e31&}es{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:05.84,00:00:05.92,Default,,0,0,0,,{\c&H3d2e31&} What is happening behind the scenes{\r}{\c&H9ab39&}?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:05.92,00:00:08.00,Default,,0,0,0,,{\c&H3d2e31&} What is happening behind the scenes?{\r}

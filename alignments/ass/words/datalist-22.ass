@@ -1,0 +1,26 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:00.08,Default,,0,0,0,,{\c&Hc7c1c2&}How can I reproduce this environment reliably?{\r}
+Dialogue: 0,00:00:00.08,00:00:00.32,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&}How{\r}{\c&Hc7c1c2&} can I reproduce this environment reliably?{\r}
+Dialogue: 0,00:00:00.32,00:00:00.40,Default,,0,0,0,,{\c&H3d2e31&}How {\r}{\c&H9ab39&}can{\r}{\c&Hc7c1c2&} I reproduce this environment reliably?{\r}
+Dialogue: 0,00:00:00.40,00:00:01.68,Default,,0,0,0,,{\c&H3d2e31&}How {\r}{\c&H3d2e31&}can{\r}{\c&Hc7c1c2&} I reproduce this environment reliably?{\r}
+Dialogue: 0,00:00:01.68,00:00:01.76,Default,,0,0,0,,{\c&H3d2e31&}How can {\r}{\c&H9ab39&}I{\r}{\c&Hc7c1c2&} reproduce this environment reliably?{\r}
+Dialogue: 0,00:00:01.76,00:00:01.92,Default,,0,0,0,,{\c&H3d2e31&}How can {\r}{\c&H3d2e31&}I{\r}{\c&Hc7c1c2&} reproduce this environment reliably?{\r}
+Dialogue: 0,00:00:01.92,00:00:02.88,Default,,0,0,0,,{\c&H3d2e31&}How can I {\r}{\c&H9ab39&}reproduce{\r}{\c&Hc7c1c2&} this environment reliably?{\r}
+Dialogue: 0,00:00:02.88,00:00:03.52,Default,,0,0,0,,{\c&H3d2e31&}How can I {\r}{\c&H3d2e31&}reproduce{\r}{\c&Hc7c1c2&} this environment reliably?{\r}
+Dialogue: 0,00:00:03.52,00:00:03.60,Default,,0,0,0,,{\c&H3d2e31&}How can I reproduce {\r}{\c&H9ab39&}this{\r}{\c&Hc7c1c2&} environment reliably?{\r}
+Dialogue: 0,00:00:03.60,00:00:03.68,Default,,0,0,0,,{\c&H3d2e31&}How can I reproduce {\r}{\c&H3d2e31&}this{\r}{\c&Hc7c1c2&} environment reliably?{\r}
+Dialogue: 0,00:00:03.68,00:00:03.76,Default,,0,0,0,,{\c&H3d2e31&}How can I reproduce this {\r}{\c&H9ab39&}environment{\r}{\c&Hc7c1c2&} reliably?{\r}
+Dialogue: 0,00:00:03.76,00:00:04.72,Default,,0,0,0,,{\c&H3d2e31&}How can I reproduce this {\r}{\c&H3d2e31&}environment{\r}{\c&Hc7c1c2&} reliably?{\r}
+Dialogue: 0,00:00:04.72,00:00:06.32,Default,,0,0,0,,{\c&H3d2e31&}How can I reproduce this environment {\r}{\c&H9ab39&}reliably?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:06.32,00:00:08.00,Default,,0,0,0,,{\c&H3d2e31&}How can I reproduce this environment reliably?{\r}

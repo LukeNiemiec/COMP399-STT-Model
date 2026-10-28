@@ -1,0 +1,31 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:00.00,Default,,0,0,0,,{\c&Hc7c1c2&}Are there books that explore this topic in depth?{\r}
+Dialogue: 0,00:00:00.00,00:00:03.76,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&}Are{\r}{\c&Hc7c1c2&} there books that explore this topic in depth?{\r}
+Dialogue: 0,00:00:03.76,00:00:03.84,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&}Are{\r}{\c&Hc7c1c2&} there books that explore this topic in depth?{\r}
+Dialogue: 0,00:00:03.84,00:00:03.92,Default,,0,0,0,,{\c&H3d2e31&}Are {\r}{\c&H9ab39&}there{\r}{\c&Hc7c1c2&} books that explore this topic in depth?{\r}
+Dialogue: 0,00:00:03.92,00:00:04.08,Default,,0,0,0,,{\c&H3d2e31&}Are {\r}{\c&H3d2e31&}there{\r}{\c&Hc7c1c2&} books that explore this topic in depth?{\r}
+Dialogue: 0,00:00:04.08,00:00:04.40,Default,,0,0,0,,{\c&H3d2e31&}Are there {\r}{\c&H9ab39&}books{\r}{\c&Hc7c1c2&} that explore this topic in depth?{\r}
+Dialogue: 0,00:00:04.40,00:00:04.48,Default,,0,0,0,,{\c&H3d2e31&}Are there {\r}{\c&H3d2e31&}books{\r}{\c&Hc7c1c2&} that explore this topic in depth?{\r}
+Dialogue: 0,00:00:04.48,00:00:04.56,Default,,0,0,0,,{\c&H3d2e31&}Are there books {\r}{\c&H9ab39&}that{\r}{\c&Hc7c1c2&} explore this topic in depth?{\r}
+Dialogue: 0,00:00:04.56,00:00:04.64,Default,,0,0,0,,{\c&H3d2e31&}Are there books {\r}{\c&H3d2e31&}that{\r}{\c&Hc7c1c2&} explore this topic in depth?{\r}
+Dialogue: 0,00:00:04.64,00:00:05.04,Default,,0,0,0,,{\c&H3d2e31&}Are there books that {\r}{\c&H9ab39&}explore{\r}{\c&Hc7c1c2&} this topic in depth?{\r}
+Dialogue: 0,00:00:05.04,00:00:05.20,Default,,0,0,0,,{\c&H3d2e31&}Are there books that {\r}{\c&H3d2e31&}explore{\r}{\c&Hc7c1c2&} this topic in depth?{\r}
+Dialogue: 0,00:00:05.20,00:00:05.28,Default,,0,0,0,,{\c&H3d2e31&}Are there books that explore {\r}{\c&H9ab39&}this{\r}{\c&Hc7c1c2&} topic in depth?{\r}
+Dialogue: 0,00:00:05.28,00:00:05.44,Default,,0,0,0,,{\c&H3d2e31&}Are there books that explore {\r}{\c&H3d2e31&}this{\r}{\c&Hc7c1c2&} topic in depth?{\r}
+Dialogue: 0,00:00:05.44,00:00:05.76,Default,,0,0,0,,{\c&H3d2e31&}Are there books that explore this {\r}{\c&H9ab39&}topic{\r}{\c&Hc7c1c2&} in depth?{\r}
+Dialogue: 0,00:00:05.76,00:00:05.92,Default,,0,0,0,,{\c&H3d2e31&}Are there books that explore this {\r}{\c&H3d2e31&}topic{\r}{\c&Hc7c1c2&} in depth?{\r}
+Dialogue: 0,00:00:05.92,00:00:06.00,Default,,0,0,0,,{\c&H3d2e31&}Are there books that explore this topic {\r}{\c&H9ab39&}in{\r}{\c&Hc7c1c2&} depth?{\r}
+Dialogue: 0,00:00:06.00,00:00:06.16,Default,,0,0,0,,{\c&H3d2e31&}Are there books that explore this topic {\r}{\c&H3d2e31&}in{\r}{\c&Hc7c1c2&} depth?{\r}
+Dialogue: 0,00:00:06.16,00:00:07.36,Default,,0,0,0,,{\c&H3d2e31&}Are there books that explore this topic in {\r}{\c&H9ab39&}depth?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:07.36,00:00:09.00,Default,,0,0,0,,{\c&H3d2e31&}Are there books that explore this topic in depth?{\r}

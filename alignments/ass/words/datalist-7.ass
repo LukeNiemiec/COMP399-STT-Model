@@ -1,0 +1,35 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:03.12,Default,,0,0,0,,{\c&Hc7c1c2&}I want to build this myself rather than rely on an existing library.{\r}
+Dialogue: 0,00:00:03.12,00:00:03.20,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&}I{\r}{\c&Hc7c1c2&} want to build this myself rather than rely on an existing library.{\r}
+Dialogue: 0,00:00:03.20,00:00:03.28,Default,,0,0,0,,{\c&H3d2e31&}I {\r}{\c&H9ab39&}want{\r}{\c&Hc7c1c2&} to build this myself rather than rely on an existing library.{\r}
+Dialogue: 0,00:00:03.28,00:00:03.36,Default,,0,0,0,,{\c&H3d2e31&}I want {\r}{\c&H9ab39&}to{\r}{\c&Hc7c1c2&} build this myself rather than rely on an existing library.{\r}
+Dialogue: 0,00:00:03.36,00:00:03.76,Default,,0,0,0,,{\c&H3d2e31&}I want {\r}{\c&H3d2e31&}to{\r}{\c&Hc7c1c2&} build this myself rather than rely on an existing library.{\r}
+Dialogue: 0,00:00:03.76,00:00:03.84,Default,,0,0,0,,{\c&H3d2e31&}I want to {\r}{\c&H9ab39&}build{\r}{\c&Hc7c1c2&} this myself rather than rely on an existing library.{\r}
+Dialogue: 0,00:00:03.84,00:00:04.32,Default,,0,0,0,,{\c&H3d2e31&}I want to {\r}{\c&H3d2e31&}build{\r}{\c&Hc7c1c2&} this myself rather than rely on an existing library.{\r}
+Dialogue: 0,00:00:04.32,00:00:04.40,Default,,0,0,0,,{\c&H3d2e31&}I want to build {\r}{\c&H9ab39&}this{\r}{\c&Hc7c1c2&} myself rather than rely on an existing library.{\r}
+Dialogue: 0,00:00:04.40,00:00:04.48,Default,,0,0,0,,{\c&H3d2e31&}I want to build {\r}{\c&H3d2e31&}this{\r}{\c&Hc7c1c2&} myself rather than rely on an existing library.{\r}
+Dialogue: 0,00:00:04.48,00:00:04.56,Default,,0,0,0,,{\c&H3d2e31&}I want to build this {\r}{\c&H9ab39&}myself{\r}{\c&Hc7c1c2&} rather than rely on an existing library.{\r}
+Dialogue: 0,00:00:04.56,00:00:04.64,Default,,0,0,0,,{\c&H3d2e31&}I want to build this {\r}{\c&H3d2e31&}myself{\r}{\c&Hc7c1c2&} rather than rely on an existing library.{\r}
+Dialogue: 0,00:00:04.64,00:00:04.88,Default,,0,0,0,,{\c&H3d2e31&}I want to build this myself {\r}{\c&H9ab39&}rather{\r}{\c&Hc7c1c2&} than rely on an existing library.{\r}
+Dialogue: 0,00:00:04.88,00:00:05.04,Default,,0,0,0,,{\c&H3d2e31&}I want to build this myself {\r}{\c&H3d2e31&}rather{\r}{\c&Hc7c1c2&} than rely on an existing library.{\r}
+Dialogue: 0,00:00:05.04,00:00:05.12,Default,,0,0,0,,{\c&H3d2e31&}I want to build this myself rather {\r}{\c&H9ab39&}than{\r}{\c&Hc7c1c2&} rely on an existing library.{\r}
+Dialogue: 0,00:00:05.12,00:00:05.28,Default,,0,0,0,,{\c&H3d2e31&}I want to build this myself rather {\r}{\c&H3d2e31&}than{\r}{\c&Hc7c1c2&} rely on an existing library.{\r}
+Dialogue: 0,00:00:05.28,00:00:05.44,Default,,0,0,0,,{\c&H3d2e31&}I want to build this myself rather than {\r}{\c&H9ab39&}rely{\r}{\c&Hc7c1c2&} on an existing library.{\r}
+Dialogue: 0,00:00:05.44,00:00:05.52,Default,,0,0,0,,{\c&H3d2e31&}I want to build this myself rather than rely {\r}{\c&H9ab39&}on{\r}{\c&Hc7c1c2&} an existing library.{\r}
+Dialogue: 0,00:00:05.52,00:00:05.68,Default,,0,0,0,,{\c&H3d2e31&}I want to build this myself rather than rely {\r}{\c&H3d2e31&}on{\r}{\c&Hc7c1c2&} an existing library.{\r}
+Dialogue: 0,00:00:05.68,00:00:05.76,Default,,0,0,0,,{\c&H3d2e31&}I want to build this myself rather than rely on {\r}{\c&H9ab39&}an{\r}{\c&Hc7c1c2&} existing library.{\r}
+Dialogue: 0,00:00:05.76,00:00:06.40,Default,,0,0,0,,{\c&H3d2e31&}I want to build this myself rather than rely on an {\r}{\c&H9ab39&}existing{\r}{\c&Hc7c1c2&} library.{\r}
+Dialogue: 0,00:00:06.40,00:00:06.48,Default,,0,0,0,,{\c&H3d2e31&}I want to build this myself rather than rely on an {\r}{\c&H3d2e31&}existing{\r}{\c&Hc7c1c2&} library.{\r}
+Dialogue: 0,00:00:06.48,00:00:07.20,Default,,0,0,0,,{\c&H3d2e31&}I want to build this myself rather than rely on an existing {\r}{\c&H9ab39&}library.{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:07.20,00:00:09.00,Default,,0,0,0,,{\c&H3d2e31&}I want to build this myself rather than rely on an existing library.{\r}

@@ -1,0 +1,33 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:00.00,Default,,0,0,0,,{\c&Hc7c1c2&} Why does this formula work?{\r}
+Dialogue: 0,00:00:00.00,00:00:00.08,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&} W{\r}{\c&Hc7c1c2&}hy does this formula work?{\r}
+Dialogue: 0,00:00:00.08,00:00:01.68,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&} W{\r}{\c&Hc7c1c2&}hy does this formula work?{\r}
+Dialogue: 0,00:00:01.68,00:00:01.84,Default,,0,0,0,,{\c&H3d2e31&} W{\r}{\c&H9ab39&}h{\r}{\c&Hc7c1c2&}y does this formula work?{\r}
+Dialogue: 0,00:00:01.84,00:00:01.92,Default,,0,0,0,,{\c&H3d2e31&} Wh{\r}{\c&H9ab39&}y{\r}{\c&Hc7c1c2&} does this formula work?{\r}
+Dialogue: 0,00:00:01.92,00:00:02.00,Default,,0,0,0,,{\c&H3d2e31&} Wh{\r}{\c&H3d2e31&}y{\r}{\c&Hc7c1c2&} does this formula work?{\r}
+Dialogue: 0,00:00:02.00,00:00:02.08,Default,,0,0,0,,{\c&H3d2e31&} Why{\r}{\c&H9ab39&} does{\r}{\c&Hc7c1c2&} this formula work?{\r}
+Dialogue: 0,00:00:02.08,00:00:02.32,Default,,0,0,0,,{\c&H3d2e31&} Why{\r}{\c&H3d2e31&} does{\r}{\c&Hc7c1c2&} this formula work?{\r}
+Dialogue: 0,00:00:02.32,00:00:02.40,Default,,0,0,0,,{\c&H3d2e31&} Why does{\r}{\c&H9ab39&} this{\r}{\c&Hc7c1c2&} formula work?{\r}
+Dialogue: 0,00:00:02.40,00:00:02.56,Default,,0,0,0,,{\c&H3d2e31&} Why does{\r}{\c&H3d2e31&} this{\r}{\c&Hc7c1c2&} formula work?{\r}
+Dialogue: 0,00:00:02.56,00:00:02.64,Default,,0,0,0,,{\c&H3d2e31&} Why does this{\r}{\c&H9ab39&} for{\r}{\c&Hc7c1c2&}mula work?{\r}
+Dialogue: 0,00:00:02.64,00:00:02.72,Default,,0,0,0,,{\c&H3d2e31&} Why does this{\r}{\c&H3d2e31&} for{\r}{\c&Hc7c1c2&}mula work?{\r}
+Dialogue: 0,00:00:02.72,00:00:02.80,Default,,0,0,0,,{\c&H3d2e31&} Why does this for{\r}{\c&H9ab39&}m{\r}{\c&Hc7c1c2&}ula work?{\r}
+Dialogue: 0,00:00:02.80,00:00:02.96,Default,,0,0,0,,{\c&H3d2e31&} Why does this form{\r}{\c&H9ab39&}u{\r}{\c&Hc7c1c2&}la work?{\r}
+Dialogue: 0,00:00:02.96,00:00:03.04,Default,,0,0,0,,{\c&H3d2e31&} Why does this formu{\r}{\c&H9ab39&}la{\r}{\c&Hc7c1c2&} work?{\r}
+Dialogue: 0,00:00:03.04,00:00:03.20,Default,,0,0,0,,{\c&H3d2e31&} Why does this formu{\r}{\c&H3d2e31&}la{\r}{\c&Hc7c1c2&} work?{\r}
+Dialogue: 0,00:00:03.20,00:00:03.28,Default,,0,0,0,,{\c&H3d2e31&} Why does this formula{\r}{\c&H9ab39&} work{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:03.28,00:00:04.64,Default,,0,0,0,,{\c&H3d2e31&} Why does this formula{\r}{\c&H3d2e31&} work{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:04.64,00:00:04.72,Default,,0,0,0,,{\c&H3d2e31&} Why does this formula work{\r}{\c&H9ab39&}?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:04.72,00:00:06.00,Default,,0,0,0,,{\c&H3d2e31&} Why does this formula work?{\r}

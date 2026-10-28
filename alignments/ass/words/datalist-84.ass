@@ -1,0 +1,39 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:01.92,Default,,0,0,0,,{\c&Hc7c1c2&}I don't like systems that manipulate people into spending more time using them.{\r}
+Dialogue: 0,00:00:01.92,00:00:02.00,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&}I{\r}{\c&Hc7c1c2&} don't like systems that manipulate people into spending more time using them.{\r}
+Dialogue: 0,00:00:02.00,00:00:02.08,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&}I{\r}{\c&Hc7c1c2&} don't like systems that manipulate people into spending more time using them.{\r}
+Dialogue: 0,00:00:02.08,00:00:02.40,Default,,0,0,0,,{\c&H3d2e31&}I {\r}{\c&H9ab39&}don't{\r}{\c&Hc7c1c2&} like systems that manipulate people into spending more time using them.{\r}
+Dialogue: 0,00:00:02.40,00:00:02.48,Default,,0,0,0,,{\c&H3d2e31&}I {\r}{\c&H3d2e31&}don't{\r}{\c&Hc7c1c2&} like systems that manipulate people into spending more time using them.{\r}
+Dialogue: 0,00:00:02.48,00:00:02.56,Default,,0,0,0,,{\c&H3d2e31&}I don't {\r}{\c&H9ab39&}like{\r}{\c&Hc7c1c2&} systems that manipulate people into spending more time using them.{\r}
+Dialogue: 0,00:00:02.56,00:00:02.72,Default,,0,0,0,,{\c&H3d2e31&}I don't {\r}{\c&H3d2e31&}like{\r}{\c&Hc7c1c2&} systems that manipulate people into spending more time using them.{\r}
+Dialogue: 0,00:00:02.72,00:00:03.12,Default,,0,0,0,,{\c&H3d2e31&}I don't like {\r}{\c&H9ab39&}systems{\r}{\c&Hc7c1c2&} that manipulate people into spending more time using them.{\r}
+Dialogue: 0,00:00:03.12,00:00:03.20,Default,,0,0,0,,{\c&H3d2e31&}I don't like {\r}{\c&H3d2e31&}systems{\r}{\c&Hc7c1c2&} that manipulate people into spending more time using them.{\r}
+Dialogue: 0,00:00:03.20,00:00:03.28,Default,,0,0,0,,{\c&H3d2e31&}I don't like systems {\r}{\c&H9ab39&}that{\r}{\c&Hc7c1c2&} manipulate people into spending more time using them.{\r}
+Dialogue: 0,00:00:03.28,00:00:03.36,Default,,0,0,0,,{\c&H3d2e31&}I don't like systems {\r}{\c&H3d2e31&}that{\r}{\c&Hc7c1c2&} manipulate people into spending more time using them.{\r}
+Dialogue: 0,00:00:03.36,00:00:03.92,Default,,0,0,0,,{\c&H3d2e31&}I don't like systems that {\r}{\c&H9ab39&}manipulate{\r}{\c&Hc7c1c2&} people into spending more time using them.{\r}
+Dialogue: 0,00:00:03.92,00:00:04.08,Default,,0,0,0,,{\c&H3d2e31&}I don't like systems that {\r}{\c&H3d2e31&}manipulate{\r}{\c&Hc7c1c2&} people into spending more time using them.{\r}
+Dialogue: 0,00:00:04.08,00:00:04.16,Default,,0,0,0,,{\c&H3d2e31&}I don't like systems that manipulate {\r}{\c&H9ab39&}people{\r}{\c&Hc7c1c2&} into spending more time using them.{\r}
+Dialogue: 0,00:00:04.16,00:00:04.40,Default,,0,0,0,,{\c&H3d2e31&}I don't like systems that manipulate {\r}{\c&H3d2e31&}people{\r}{\c&Hc7c1c2&} into spending more time using them.{\r}
+Dialogue: 0,00:00:04.40,00:00:04.48,Default,,0,0,0,,{\c&H3d2e31&}I don't like systems that manipulate people {\r}{\c&H9ab39&}into{\r}{\c&Hc7c1c2&} spending more time using them.{\r}
+Dialogue: 0,00:00:04.48,00:00:04.72,Default,,0,0,0,,{\c&H3d2e31&}I don't like systems that manipulate people {\r}{\c&H3d2e31&}into{\r}{\c&Hc7c1c2&} spending more time using them.{\r}
+Dialogue: 0,00:00:04.72,00:00:05.04,Default,,0,0,0,,{\c&H3d2e31&}I don't like systems that manipulate people into {\r}{\c&H9ab39&}spending{\r}{\c&Hc7c1c2&} more time using them.{\r}
+Dialogue: 0,00:00:05.04,00:00:05.12,Default,,0,0,0,,{\c&H3d2e31&}I don't like systems that manipulate people into {\r}{\c&H3d2e31&}spending{\r}{\c&Hc7c1c2&} more time using them.{\r}
+Dialogue: 0,00:00:05.12,00:00:05.20,Default,,0,0,0,,{\c&H3d2e31&}I don't like systems that manipulate people into spending {\r}{\c&H9ab39&}more{\r}{\c&Hc7c1c2&} time using them.{\r}
+Dialogue: 0,00:00:05.20,00:00:05.36,Default,,0,0,0,,{\c&H3d2e31&}I don't like systems that manipulate people into spending {\r}{\c&H3d2e31&}more{\r}{\c&Hc7c1c2&} time using them.{\r}
+Dialogue: 0,00:00:05.36,00:00:05.44,Default,,0,0,0,,{\c&H3d2e31&}I don't like systems that manipulate people into spending more {\r}{\c&H9ab39&}time{\r}{\c&Hc7c1c2&} using them.{\r}
+Dialogue: 0,00:00:05.44,00:00:05.68,Default,,0,0,0,,{\c&H3d2e31&}I don't like systems that manipulate people into spending more {\r}{\c&H3d2e31&}time{\r}{\c&Hc7c1c2&} using them.{\r}
+Dialogue: 0,00:00:05.68,00:00:05.92,Default,,0,0,0,,{\c&H3d2e31&}I don't like systems that manipulate people into spending more time {\r}{\c&H9ab39&}using{\r}{\c&Hc7c1c2&} them.{\r}
+Dialogue: 0,00:00:05.92,00:00:06.08,Default,,0,0,0,,{\c&H3d2e31&}I don't like systems that manipulate people into spending more time {\r}{\c&H3d2e31&}using{\r}{\c&Hc7c1c2&} them.{\r}
+Dialogue: 0,00:00:06.08,00:00:06.64,Default,,0,0,0,,{\c&H3d2e31&}I don't like systems that manipulate people into spending more time using {\r}{\c&H9ab39&}them.{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:06.64,00:00:09.00,Default,,0,0,0,,{\c&H3d2e31&}I don't like systems that manipulate people into spending more time using them.{\r}

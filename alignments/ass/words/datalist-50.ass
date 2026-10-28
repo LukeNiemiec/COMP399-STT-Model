@@ -1,0 +1,28 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:00.08,Default,,0,0,0,,{\c&Hc7c1c2&}How does authentication work at the protocol level?{\r}
+Dialogue: 0,00:00:00.08,00:00:02.08,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&}How{\r}{\c&Hc7c1c2&} does authentication work at the protocol level?{\r}
+Dialogue: 0,00:00:02.08,00:00:02.24,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&}How{\r}{\c&Hc7c1c2&} does authentication work at the protocol level?{\r}
+Dialogue: 0,00:00:02.24,00:00:02.32,Default,,0,0,0,,{\c&H3d2e31&}How {\r}{\c&H9ab39&}does{\r}{\c&Hc7c1c2&} authentication work at the protocol level?{\r}
+Dialogue: 0,00:00:02.32,00:00:02.56,Default,,0,0,0,,{\c&H3d2e31&}How {\r}{\c&H3d2e31&}does{\r}{\c&Hc7c1c2&} authentication work at the protocol level?{\r}
+Dialogue: 0,00:00:02.56,00:00:03.28,Default,,0,0,0,,{\c&H3d2e31&}How does {\r}{\c&H9ab39&}authentication{\r}{\c&Hc7c1c2&} work at the protocol level?{\r}
+Dialogue: 0,00:00:03.28,00:00:03.52,Default,,0,0,0,,{\c&H3d2e31&}How does {\r}{\c&H3d2e31&}authentication{\r}{\c&Hc7c1c2&} work at the protocol level?{\r}
+Dialogue: 0,00:00:03.52,00:00:03.60,Default,,0,0,0,,{\c&H3d2e31&}How does authentication {\r}{\c&H9ab39&}work{\r}{\c&Hc7c1c2&} at the protocol level?{\r}
+Dialogue: 0,00:00:03.60,00:00:03.76,Default,,0,0,0,,{\c&H3d2e31&}How does authentication {\r}{\c&H3d2e31&}work{\r}{\c&Hc7c1c2&} at the protocol level?{\r}
+Dialogue: 0,00:00:03.76,00:00:03.84,Default,,0,0,0,,{\c&H3d2e31&}How does authentication work {\r}{\c&H9ab39&}at{\r}{\c&Hc7c1c2&} the protocol level?{\r}
+Dialogue: 0,00:00:03.84,00:00:03.92,Default,,0,0,0,,{\c&H3d2e31&}How does authentication work {\r}{\c&H3d2e31&}at{\r}{\c&Hc7c1c2&} the protocol level?{\r}
+Dialogue: 0,00:00:03.92,00:00:04.00,Default,,0,0,0,,{\c&H3d2e31&}How does authentication work at {\r}{\c&H9ab39&}the{\r}{\c&Hc7c1c2&} protocol level?{\r}
+Dialogue: 0,00:00:04.00,00:00:04.64,Default,,0,0,0,,{\c&H3d2e31&}How does authentication work at the {\r}{\c&H9ab39&}protocol{\r}{\c&Hc7c1c2&} level?{\r}
+Dialogue: 0,00:00:04.64,00:00:04.72,Default,,0,0,0,,{\c&H3d2e31&}How does authentication work at the {\r}{\c&H3d2e31&}protocol{\r}{\c&Hc7c1c2&} level?{\r}
+Dialogue: 0,00:00:04.72,00:00:05.76,Default,,0,0,0,,{\c&H3d2e31&}How does authentication work at the protocol {\r}{\c&H9ab39&}level?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:05.76,00:00:07.00,Default,,0,0,0,,{\c&H3d2e31&}How does authentication work at the protocol level?{\r}

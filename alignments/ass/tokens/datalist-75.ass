@@ -1,0 +1,50 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:02.24,Default,,0,0,0,,{\c&Hc7c1c2&} How can I understand this from a different philosophical perspective?{\r}
+Dialogue: 0,00:00:02.24,00:00:02.32,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&} Ho{\r}{\c&Hc7c1c2&}w can I understand this from a different philosophical perspective?{\r}
+Dialogue: 0,00:00:02.32,00:00:02.40,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&} Ho{\r}{\c&Hc7c1c2&}w can I understand this from a different philosophical perspective?{\r}
+Dialogue: 0,00:00:02.40,00:00:02.56,Default,,0,0,0,,{\c&H3d2e31&} Ho{\r}{\c&H9ab39&}w{\r}{\c&Hc7c1c2&} can I understand this from a different philosophical perspective?{\r}
+Dialogue: 0,00:00:02.56,00:00:02.64,Default,,0,0,0,,{\c&H3d2e31&} Ho{\r}{\c&H3d2e31&}w{\r}{\c&Hc7c1c2&} can I understand this from a different philosophical perspective?{\r}
+Dialogue: 0,00:00:02.64,00:00:02.72,Default,,0,0,0,,{\c&H3d2e31&} How{\r}{\c&H9ab39&} can{\r}{\c&Hc7c1c2&} I understand this from a different philosophical perspective?{\r}
+Dialogue: 0,00:00:02.72,00:00:02.88,Default,,0,0,0,,{\c&H3d2e31&} How{\r}{\c&H3d2e31&} can{\r}{\c&Hc7c1c2&} I understand this from a different philosophical perspective?{\r}
+Dialogue: 0,00:00:02.88,00:00:02.96,Default,,0,0,0,,{\c&H3d2e31&} How can{\r}{\c&H9ab39&} I{\r}{\c&Hc7c1c2&} understand this from a different philosophical perspective?{\r}
+Dialogue: 0,00:00:02.96,00:00:03.12,Default,,0,0,0,,{\c&H3d2e31&} How can{\r}{\c&H3d2e31&} I{\r}{\c&Hc7c1c2&} understand this from a different philosophical perspective?{\r}
+Dialogue: 0,00:00:03.12,00:00:03.20,Default,,0,0,0,,{\c&H3d2e31&} How can I{\r}{\c&H9ab39&} understand{\r}{\c&Hc7c1c2&} this from a different philosophical perspective?{\r}
+Dialogue: 0,00:00:03.20,00:00:03.60,Default,,0,0,0,,{\c&H3d2e31&} How can I{\r}{\c&H3d2e31&} understand{\r}{\c&Hc7c1c2&} this from a different philosophical perspective?{\r}
+Dialogue: 0,00:00:03.60,00:00:03.68,Default,,0,0,0,,{\c&H3d2e31&} How can I understand{\r}{\c&H9ab39&} this{\r}{\c&Hc7c1c2&} from a different philosophical perspective?{\r}
+Dialogue: 0,00:00:03.68,00:00:03.92,Default,,0,0,0,,{\c&H3d2e31&} How can I understand{\r}{\c&H3d2e31&} this{\r}{\c&Hc7c1c2&} from a different philosophical perspective?{\r}
+Dialogue: 0,00:00:03.92,00:00:04.00,Default,,0,0,0,,{\c&H3d2e31&} How can I understand this{\r}{\c&H9ab39&} from{\r}{\c&Hc7c1c2&} a different philosophical perspective?{\r}
+Dialogue: 0,00:00:04.00,00:00:04.24,Default,,0,0,0,,{\c&H3d2e31&} How can I understand this{\r}{\c&H3d2e31&} from{\r}{\c&Hc7c1c2&} a different philosophical perspective?{\r}
+Dialogue: 0,00:00:04.24,00:00:04.32,Default,,0,0,0,,{\c&H3d2e31&} How can I understand this from{\r}{\c&H9ab39&} a{\r}{\c&Hc7c1c2&} different philosophical perspective?{\r}
+Dialogue: 0,00:00:04.32,00:00:04.40,Default,,0,0,0,,{\c&H3d2e31&} How can I understand this from{\r}{\c&H3d2e31&} a{\r}{\c&Hc7c1c2&} different philosophical perspective?{\r}
+Dialogue: 0,00:00:04.40,00:00:04.48,Default,,0,0,0,,{\c&H3d2e31&} How can I understand this from a{\r}{\c&H9ab39&} different{\r}{\c&Hc7c1c2&} philosophical perspective?{\r}
+Dialogue: 0,00:00:04.48,00:00:05.84,Default,,0,0,0,,{\c&H3d2e31&} How can I understand this from a{\r}{\c&H3d2e31&} different{\r}{\c&Hc7c1c2&} philosophical perspective?{\r}
+Dialogue: 0,00:00:05.84,00:00:05.92,Default,,0,0,0,,{\c&H3d2e31&} How can I understand this from a different{\r}{\c&H9ab39&} ph{\r}{\c&Hc7c1c2&}ilosophical perspective?{\r}
+Dialogue: 0,00:00:05.92,00:00:06.00,Default,,0,0,0,,{\c&H3d2e31&} How can I understand this from a different{\r}{\c&H3d2e31&} ph{\r}{\c&Hc7c1c2&}ilosophical perspective?{\r}
+Dialogue: 0,00:00:06.00,00:00:06.08,Default,,0,0,0,,{\c&H3d2e31&} How can I understand this from a different ph{\r}{\c&H9ab39&}il{\r}{\c&Hc7c1c2&}osophical perspective?{\r}
+Dialogue: 0,00:00:06.08,00:00:06.24,Default,,0,0,0,,{\c&H3d2e31&} How can I understand this from a different phil{\r}{\c&H9ab39&}o{\r}{\c&Hc7c1c2&}sophical perspective?{\r}
+Dialogue: 0,00:00:06.24,00:00:06.32,Default,,0,0,0,,{\c&H3d2e31&} How can I understand this from a different philo{\r}{\c&H9ab39&}s{\r}{\c&Hc7c1c2&}ophical perspective?{\r}
+Dialogue: 0,00:00:06.32,00:00:06.48,Default,,0,0,0,,{\c&H3d2e31&} How can I understand this from a different philos{\r}{\c&H9ab39&}o{\r}{\c&Hc7c1c2&}phical perspective?{\r}
+Dialogue: 0,00:00:06.48,00:00:06.64,Default,,0,0,0,,{\c&H3d2e31&} How can I understand this from a different philoso{\r}{\c&H9ab39&}ph{\r}{\c&Hc7c1c2&}ical perspective?{\r}
+Dialogue: 0,00:00:06.64,00:00:06.72,Default,,0,0,0,,{\c&H3d2e31&} How can I understand this from a different philoso{\r}{\c&H3d2e31&}ph{\r}{\c&Hc7c1c2&}ical perspective?{\r}
+Dialogue: 0,00:00:06.72,00:00:06.80,Default,,0,0,0,,{\c&H3d2e31&} How can I understand this from a different philosoph{\r}{\c&H9ab39&}ical{\r}{\c&Hc7c1c2&} perspective?{\r}
+Dialogue: 0,00:00:06.80,00:00:06.96,Default,,0,0,0,,{\c&H3d2e31&} How can I understand this from a different philosoph{\r}{\c&H3d2e31&}ical{\r}{\c&Hc7c1c2&} perspective?{\r}
+Dialogue: 0,00:00:06.96,00:00:07.04,Default,,0,0,0,,{\c&H3d2e31&} How can I understand this from a different philosophical{\r}{\c&H9ab39&} per{\r}{\c&Hc7c1c2&}spective?{\r}
+Dialogue: 0,00:00:07.04,00:00:07.20,Default,,0,0,0,,{\c&H3d2e31&} How can I understand this from a different philosophical{\r}{\c&H3d2e31&} per{\r}{\c&Hc7c1c2&}spective?{\r}
+Dialogue: 0,00:00:07.20,00:00:07.36,Default,,0,0,0,,{\c&H3d2e31&} How can I understand this from a different philosophical per{\r}{\c&H9ab39&}spect{\r}{\c&Hc7c1c2&}ive?{\r}
+Dialogue: 0,00:00:07.36,00:00:07.44,Default,,0,0,0,,{\c&H3d2e31&} How can I understand this from a different philosophical per{\r}{\c&H3d2e31&}spect{\r}{\c&Hc7c1c2&}ive?{\r}
+Dialogue: 0,00:00:07.44,00:00:07.52,Default,,0,0,0,,{\c&H3d2e31&} How can I understand this from a different philosophical perspect{\r}{\c&H9ab39&}ive{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:07.52,00:00:08.24,Default,,0,0,0,,{\c&H3d2e31&} How can I understand this from a different philosophical perspect{\r}{\c&H3d2e31&}ive{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:08.24,00:00:08.32,Default,,0,0,0,,{\c&H3d2e31&} How can I understand this from a different philosophical perspective{\r}{\c&H9ab39&}?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:08.32,00:00:10.00,Default,,0,0,0,,{\c&H3d2e31&} How can I understand this from a different philosophical perspective?{\r}

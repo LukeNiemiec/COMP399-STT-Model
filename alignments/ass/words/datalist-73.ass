@@ -1,0 +1,31 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:04.96,Default,,0,0,0,,{\c&Hc7c1c2&}I want something thought-provoking, not just a surface-level explanation.{\r}
+Dialogue: 0,00:00:04.96,00:00:05.04,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&}I{\r}{\c&Hc7c1c2&} want something thought-provoking, not just a surface-level explanation.{\r}
+Dialogue: 0,00:00:05.04,00:00:05.28,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&}I{\r}{\c&Hc7c1c2&} want something thought-provoking, not just a surface-level explanation.{\r}
+Dialogue: 0,00:00:05.28,00:00:05.36,Default,,0,0,0,,{\c&H3d2e31&}I {\r}{\c&H9ab39&}want{\r}{\c&Hc7c1c2&} something thought-provoking, not just a surface-level explanation.{\r}
+Dialogue: 0,00:00:05.36,00:00:05.68,Default,,0,0,0,,{\c&H3d2e31&}I {\r}{\c&H3d2e31&}want{\r}{\c&Hc7c1c2&} something thought-provoking, not just a surface-level explanation.{\r}
+Dialogue: 0,00:00:05.68,00:00:05.76,Default,,0,0,0,,{\c&H3d2e31&}I want {\r}{\c&H9ab39&}something{\r}{\c&Hc7c1c2&} thought-provoking, not just a surface-level explanation.{\r}
+Dialogue: 0,00:00:05.76,00:00:06.16,Default,,0,0,0,,{\c&H3d2e31&}I want {\r}{\c&H3d2e31&}something{\r}{\c&Hc7c1c2&} thought-provoking, not just a surface-level explanation.{\r}
+Dialogue: 0,00:00:06.16,00:00:07.44,Default,,0,0,0,,{\c&H3d2e31&}I want something {\r}{\c&H9ab39&}thought-provoking,{\r}{\c&Hc7c1c2&} not just a surface-level explanation.{\r}
+Dialogue: 0,00:00:07.44,00:00:07.60,Default,,0,0,0,,{\c&H3d2e31&}I want something {\r}{\c&H3d2e31&}thought-provoking,{\r}{\c&Hc7c1c2&} not just a surface-level explanation.{\r}
+Dialogue: 0,00:00:07.60,00:00:07.68,Default,,0,0,0,,{\c&H3d2e31&}I want something thought-provoking, {\r}{\c&H9ab39&}not{\r}{\c&Hc7c1c2&} just a surface-level explanation.{\r}
+Dialogue: 0,00:00:07.68,00:00:08.00,Default,,0,0,0,,{\c&H3d2e31&}I want something thought-provoking, {\r}{\c&H3d2e31&}not{\r}{\c&Hc7c1c2&} just a surface-level explanation.{\r}
+Dialogue: 0,00:00:08.00,00:00:08.08,Default,,0,0,0,,{\c&H3d2e31&}I want something thought-provoking, not {\r}{\c&H9ab39&}just{\r}{\c&Hc7c1c2&} a surface-level explanation.{\r}
+Dialogue: 0,00:00:08.08,00:00:08.56,Default,,0,0,0,,{\c&H3d2e31&}I want something thought-provoking, not {\r}{\c&H3d2e31&}just{\r}{\c&Hc7c1c2&} a surface-level explanation.{\r}
+Dialogue: 0,00:00:08.56,00:00:08.64,Default,,0,0,0,,{\c&H3d2e31&}I want something thought-provoking, not just {\r}{\c&H9ab39&}a{\r}{\c&Hc7c1c2&} surface-level explanation.{\r}
+Dialogue: 0,00:00:08.64,00:00:08.80,Default,,0,0,0,,{\c&H3d2e31&}I want something thought-provoking, not just {\r}{\c&H3d2e31&}a{\r}{\c&Hc7c1c2&} surface-level explanation.{\r}
+Dialogue: 0,00:00:08.80,00:00:09.68,Default,,0,0,0,,{\c&H3d2e31&}I want something thought-provoking, not just a {\r}{\c&H9ab39&}surface-level{\r}{\c&Hc7c1c2&} explanation.{\r}
+Dialogue: 0,00:00:09.68,00:00:09.76,Default,,0,0,0,,{\c&H3d2e31&}I want something thought-provoking, not just a {\r}{\c&H3d2e31&}surface-level{\r}{\c&Hc7c1c2&} explanation.{\r}
+Dialogue: 0,00:00:09.76,00:00:11.44,Default,,0,0,0,,{\c&H3d2e31&}I want something thought-provoking, not just a surface-level {\r}{\c&H9ab39&}explanation.{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:11.44,00:00:13.00,Default,,0,0,0,,{\c&H3d2e31&}I want something thought-provoking, not just a surface-level explanation.{\r}

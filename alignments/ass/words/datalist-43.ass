@@ -1,0 +1,29 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:02.32,Default,,0,0,0,,{\c&Hc7c1c2&}Can I interface this hardware directly with Python?{\r}
+Dialogue: 0,00:00:02.32,00:00:02.88,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&}Can{\r}{\c&Hc7c1c2&} I interface this hardware directly with Python?{\r}
+Dialogue: 0,00:00:02.88,00:00:03.04,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&}Can{\r}{\c&Hc7c1c2&} I interface this hardware directly with Python?{\r}
+Dialogue: 0,00:00:03.04,00:00:03.12,Default,,0,0,0,,{\c&H3d2e31&}Can {\r}{\c&H9ab39&}I{\r}{\c&Hc7c1c2&} interface this hardware directly with Python?{\r}
+Dialogue: 0,00:00:03.12,00:00:03.36,Default,,0,0,0,,{\c&H3d2e31&}Can {\r}{\c&H3d2e31&}I{\r}{\c&Hc7c1c2&} interface this hardware directly with Python?{\r}
+Dialogue: 0,00:00:03.36,00:00:03.84,Default,,0,0,0,,{\c&H3d2e31&}Can I {\r}{\c&H9ab39&}interface{\r}{\c&Hc7c1c2&} this hardware directly with Python?{\r}
+Dialogue: 0,00:00:03.84,00:00:04.08,Default,,0,0,0,,{\c&H3d2e31&}Can I {\r}{\c&H3d2e31&}interface{\r}{\c&Hc7c1c2&} this hardware directly with Python?{\r}
+Dialogue: 0,00:00:04.08,00:00:04.16,Default,,0,0,0,,{\c&H3d2e31&}Can I interface {\r}{\c&H9ab39&}this{\r}{\c&Hc7c1c2&} hardware directly with Python?{\r}
+Dialogue: 0,00:00:04.16,00:00:04.24,Default,,0,0,0,,{\c&H3d2e31&}Can I interface {\r}{\c&H3d2e31&}this{\r}{\c&Hc7c1c2&} hardware directly with Python?{\r}
+Dialogue: 0,00:00:04.24,00:00:04.80,Default,,0,0,0,,{\c&H3d2e31&}Can I interface this {\r}{\c&H9ab39&}hardware{\r}{\c&Hc7c1c2&} directly with Python?{\r}
+Dialogue: 0,00:00:04.80,00:00:04.96,Default,,0,0,0,,{\c&H3d2e31&}Can I interface this {\r}{\c&H3d2e31&}hardware{\r}{\c&Hc7c1c2&} directly with Python?{\r}
+Dialogue: 0,00:00:04.96,00:00:05.20,Default,,0,0,0,,{\c&H3d2e31&}Can I interface this hardware {\r}{\c&H9ab39&}directly{\r}{\c&Hc7c1c2&} with Python?{\r}
+Dialogue: 0,00:00:05.20,00:00:05.28,Default,,0,0,0,,{\c&H3d2e31&}Can I interface this hardware {\r}{\c&H3d2e31&}directly{\r}{\c&Hc7c1c2&} with Python?{\r}
+Dialogue: 0,00:00:05.28,00:00:05.36,Default,,0,0,0,,{\c&H3d2e31&}Can I interface this hardware directly {\r}{\c&H9ab39&}with{\r}{\c&Hc7c1c2&} Python?{\r}
+Dialogue: 0,00:00:05.36,00:00:05.44,Default,,0,0,0,,{\c&H3d2e31&}Can I interface this hardware directly {\r}{\c&H3d2e31&}with{\r}{\c&Hc7c1c2&} Python?{\r}
+Dialogue: 0,00:00:05.44,00:00:06.48,Default,,0,0,0,,{\c&H3d2e31&}Can I interface this hardware directly with {\r}{\c&H9ab39&}Python?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:06.48,00:00:08.00,Default,,0,0,0,,{\c&H3d2e31&}Can I interface this hardware directly with Python?{\r}

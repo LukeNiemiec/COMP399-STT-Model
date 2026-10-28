@@ -166,6 +166,7 @@ class WavFile:
         # TODO: plt.close() ?
         
     # slices spectrogram after computing spectrogram from file
+    # and returns each computed spectrogram
     def chunk_spectrogram(self):
 
         
@@ -194,7 +195,8 @@ class WavFile:
 
         return mel_spectrogram
             
-    # computes spectrogram for each chunk from slicing frames
+    # computes spectrogram for each chunk from slicing frames 
+    # and returns each computed spectrogram
     def batch_spectrogram(self):
 
         chunks = []
@@ -213,9 +215,14 @@ class WavFile:
         return chunks
 
 
+
+
+
+
     
 if __name__ == "__main__":
     wf= WavFile("name.wav")
     wf.get_frames_from_file()
 
+    
     

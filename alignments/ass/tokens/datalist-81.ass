@@ -1,0 +1,50 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:02.00,Default,,0,0,0,,{\c&Hc7c1c2&} How does this constitutional principle affect real-world policy?{\r}
+Dialogue: 0,00:00:02.00,00:00:02.08,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&} Ho{\r}{\c&Hc7c1c2&}w does this constitutional principle affect real-world policy?{\r}
+Dialogue: 0,00:00:02.08,00:00:02.16,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&} Ho{\r}{\c&Hc7c1c2&}w does this constitutional principle affect real-world policy?{\r}
+Dialogue: 0,00:00:02.16,00:00:02.32,Default,,0,0,0,,{\c&H3d2e31&} Ho{\r}{\c&H9ab39&}w{\r}{\c&Hc7c1c2&} does this constitutional principle affect real-world policy?{\r}
+Dialogue: 0,00:00:02.32,00:00:02.48,Default,,0,0,0,,{\c&H3d2e31&} Ho{\r}{\c&H3d2e31&}w{\r}{\c&Hc7c1c2&} does this constitutional principle affect real-world policy?{\r}
+Dialogue: 0,00:00:02.48,00:00:02.56,Default,,0,0,0,,{\c&H3d2e31&} How{\r}{\c&H9ab39&} does{\r}{\c&Hc7c1c2&} this constitutional principle affect real-world policy?{\r}
+Dialogue: 0,00:00:02.56,00:00:02.80,Default,,0,0,0,,{\c&H3d2e31&} How{\r}{\c&H3d2e31&} does{\r}{\c&Hc7c1c2&} this constitutional principle affect real-world policy?{\r}
+Dialogue: 0,00:00:02.80,00:00:02.88,Default,,0,0,0,,{\c&H3d2e31&} How does{\r}{\c&H9ab39&} this{\r}{\c&Hc7c1c2&} constitutional principle affect real-world policy?{\r}
+Dialogue: 0,00:00:02.88,00:00:03.04,Default,,0,0,0,,{\c&H3d2e31&} How does{\r}{\c&H3d2e31&} this{\r}{\c&Hc7c1c2&} constitutional principle affect real-world policy?{\r}
+Dialogue: 0,00:00:03.04,00:00:03.12,Default,,0,0,0,,{\c&H3d2e31&} How does this{\r}{\c&H9ab39&} con{\r}{\c&Hc7c1c2&}stitutional principle affect real-world policy?{\r}
+Dialogue: 0,00:00:03.12,00:00:03.20,Default,,0,0,0,,{\c&H3d2e31&} How does this{\r}{\c&H3d2e31&} con{\r}{\c&Hc7c1c2&}stitutional principle affect real-world policy?{\r}
+Dialogue: 0,00:00:03.20,00:00:03.36,Default,,0,0,0,,{\c&H3d2e31&} How does this con{\r}{\c&H9ab39&}s{\r}{\c&Hc7c1c2&}titutional principle affect real-world policy?{\r}
+Dialogue: 0,00:00:03.36,00:00:03.44,Default,,0,0,0,,{\c&H3d2e31&} How does this cons{\r}{\c&H9ab39&}ti{\r}{\c&Hc7c1c2&}tutional principle affect real-world policy?{\r}
+Dialogue: 0,00:00:03.44,00:00:03.60,Default,,0,0,0,,{\c&H3d2e31&} How does this consti{\r}{\c&H9ab39&}tu{\r}{\c&Hc7c1c2&}tional principle affect real-world policy?{\r}
+Dialogue: 0,00:00:03.60,00:00:03.76,Default,,0,0,0,,{\c&H3d2e31&} How does this constitu{\r}{\c&H9ab39&}tion{\r}{\c&Hc7c1c2&}al principle affect real-world policy?{\r}
+Dialogue: 0,00:00:03.76,00:00:03.84,Default,,0,0,0,,{\c&H3d2e31&} How does this constitution{\r}{\c&H9ab39&}al{\r}{\c&Hc7c1c2&} principle affect real-world policy?{\r}
+Dialogue: 0,00:00:03.84,00:00:04.32,Default,,0,0,0,,{\c&H3d2e31&} How does this constitution{\r}{\c&H3d2e31&}al{\r}{\c&Hc7c1c2&} principle affect real-world policy?{\r}
+Dialogue: 0,00:00:04.32,00:00:04.40,Default,,0,0,0,,{\c&H3d2e31&} How does this constitutional{\r}{\c&H9ab39&} p{\r}{\c&Hc7c1c2&}rinciple affect real-world policy?{\r}
+Dialogue: 0,00:00:04.40,00:00:04.48,Default,,0,0,0,,{\c&H3d2e31&} How does this constitutional p{\r}{\c&H9ab39&}ri{\r}{\c&Hc7c1c2&}nciple affect real-world policy?{\r}
+Dialogue: 0,00:00:04.48,00:00:04.64,Default,,0,0,0,,{\c&H3d2e31&} How does this constitutional pri{\r}{\c&H9ab39&}n{\r}{\c&Hc7c1c2&}ciple affect real-world policy?{\r}
+Dialogue: 0,00:00:04.64,00:00:04.72,Default,,0,0,0,,{\c&H3d2e31&} How does this constitutional prin{\r}{\c&H9ab39&}ci{\r}{\c&Hc7c1c2&}ple affect real-world policy?{\r}
+Dialogue: 0,00:00:04.72,00:00:04.88,Default,,0,0,0,,{\c&H3d2e31&} How does this constitutional princi{\r}{\c&H9ab39&}p{\r}{\c&Hc7c1c2&}le affect real-world policy?{\r}
+Dialogue: 0,00:00:04.88,00:00:05.04,Default,,0,0,0,,{\c&H3d2e31&} How does this constitutional princip{\r}{\c&H9ab39&}le{\r}{\c&Hc7c1c2&} affect real-world policy?{\r}
+Dialogue: 0,00:00:05.04,00:00:05.84,Default,,0,0,0,,{\c&H3d2e31&} How does this constitutional princip{\r}{\c&H3d2e31&}le{\r}{\c&Hc7c1c2&} affect real-world policy?{\r}
+Dialogue: 0,00:00:05.84,00:00:05.92,Default,,0,0,0,,{\c&H3d2e31&} How does this constitutional principle{\r}{\c&H9ab39&} affect{\r}{\c&Hc7c1c2&} real-world policy?{\r}
+Dialogue: 0,00:00:05.92,00:00:07.12,Default,,0,0,0,,{\c&H3d2e31&} How does this constitutional principle{\r}{\c&H3d2e31&} affect{\r}{\c&Hc7c1c2&} real-world policy?{\r}
+Dialogue: 0,00:00:07.12,00:00:07.20,Default,,0,0,0,,{\c&H3d2e31&} How does this constitutional principle affect{\r}{\c&H9ab39&} real{\r}{\c&Hc7c1c2&}-world policy?{\r}
+Dialogue: 0,00:00:07.20,00:00:07.52,Default,,0,0,0,,{\c&H3d2e31&} How does this constitutional principle affect{\r}{\c&H3d2e31&} real{\r}{\c&Hc7c1c2&}-world policy?{\r}
+Dialogue: 0,00:00:07.52,00:00:07.60,Default,,0,0,0,,{\c&H3d2e31&} How does this constitutional principle affect real{\r}{\c&H9ab39&}-{\r}{\c&Hc7c1c2&}world policy?{\r}
+Dialogue: 0,00:00:07.60,00:00:07.68,Default,,0,0,0,,{\c&H3d2e31&} How does this constitutional principle affect real-{\r}{\c&H9ab39&}w{\r}{\c&Hc7c1c2&}orld policy?{\r}
+Dialogue: 0,00:00:07.68,00:00:07.76,Default,,0,0,0,,{\c&H3d2e31&} How does this constitutional principle affect real-w{\r}{\c&H9ab39&}or{\r}{\c&Hc7c1c2&}ld policy?{\r}
+Dialogue: 0,00:00:07.76,00:00:07.84,Default,,0,0,0,,{\c&H3d2e31&} How does this constitutional principle affect real-wor{\r}{\c&H9ab39&}ld{\r}{\c&Hc7c1c2&} policy?{\r}
+Dialogue: 0,00:00:07.84,00:00:08.00,Default,,0,0,0,,{\c&H3d2e31&} How does this constitutional principle affect real-wor{\r}{\c&H3d2e31&}ld{\r}{\c&Hc7c1c2&} policy?{\r}
+Dialogue: 0,00:00:08.00,00:00:08.08,Default,,0,0,0,,{\c&H3d2e31&} How does this constitutional principle affect real-world{\r}{\c&H9ab39&} policy{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:08.08,00:00:08.72,Default,,0,0,0,,{\c&H3d2e31&} How does this constitutional principle affect real-world{\r}{\c&H3d2e31&} policy{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:08.72,00:00:08.80,Default,,0,0,0,,{\c&H3d2e31&} How does this constitutional principle affect real-world policy{\r}{\c&H9ab39&}?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:08.80,00:00:11.00,Default,,0,0,0,,{\c&H3d2e31&} How does this constitutional principle affect real-world policy?{\r}

@@ -1,0 +1,40 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:00.00,Default,,0,0,0,,{\c&Hc7c1c2&} How much of human behavior is conscious?{\r}
+Dialogue: 0,00:00:00.00,00:00:00.08,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&} Ho{\r}{\c&Hc7c1c2&}w much of human behavior is conscious?{\r}
+Dialogue: 0,00:00:00.08,00:00:03.04,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&} Ho{\r}{\c&Hc7c1c2&}w much of human behavior is conscious?{\r}
+Dialogue: 0,00:00:03.04,00:00:03.12,Default,,0,0,0,,{\c&H3d2e31&} Ho{\r}{\c&H9ab39&}w{\r}{\c&Hc7c1c2&} much of human behavior is conscious?{\r}
+Dialogue: 0,00:00:03.12,00:00:03.20,Default,,0,0,0,,{\c&H3d2e31&} Ho{\r}{\c&H3d2e31&}w{\r}{\c&Hc7c1c2&} much of human behavior is conscious?{\r}
+Dialogue: 0,00:00:03.20,00:00:03.28,Default,,0,0,0,,{\c&H3d2e31&} How{\r}{\c&H9ab39&} much{\r}{\c&Hc7c1c2&} of human behavior is conscious?{\r}
+Dialogue: 0,00:00:03.28,00:00:03.52,Default,,0,0,0,,{\c&H3d2e31&} How{\r}{\c&H3d2e31&} much{\r}{\c&Hc7c1c2&} of human behavior is conscious?{\r}
+Dialogue: 0,00:00:03.52,00:00:03.60,Default,,0,0,0,,{\c&H3d2e31&} How much{\r}{\c&H9ab39&} of{\r}{\c&Hc7c1c2&} human behavior is conscious?{\r}
+Dialogue: 0,00:00:03.60,00:00:03.68,Default,,0,0,0,,{\c&H3d2e31&} How much{\r}{\c&H3d2e31&} of{\r}{\c&Hc7c1c2&} human behavior is conscious?{\r}
+Dialogue: 0,00:00:03.68,00:00:03.76,Default,,0,0,0,,{\c&H3d2e31&} How much of{\r}{\c&H9ab39&} human{\r}{\c&Hc7c1c2&} behavior is conscious?{\r}
+Dialogue: 0,00:00:03.76,00:00:04.00,Default,,0,0,0,,{\c&H3d2e31&} How much of{\r}{\c&H3d2e31&} human{\r}{\c&Hc7c1c2&} behavior is conscious?{\r}
+Dialogue: 0,00:00:04.00,00:00:04.08,Default,,0,0,0,,{\c&H3d2e31&} How much of human{\r}{\c&H9ab39&} be{\r}{\c&Hc7c1c2&}havior is conscious?{\r}
+Dialogue: 0,00:00:04.08,00:00:04.16,Default,,0,0,0,,{\c&H3d2e31&} How much of human be{\r}{\c&H9ab39&}ha{\r}{\c&Hc7c1c2&}vior is conscious?{\r}
+Dialogue: 0,00:00:04.16,00:00:04.24,Default,,0,0,0,,{\c&H3d2e31&} How much of human beha{\r}{\c&H9ab39&}vi{\r}{\c&Hc7c1c2&}or is conscious?{\r}
+Dialogue: 0,00:00:04.24,00:00:04.40,Default,,0,0,0,,{\c&H3d2e31&} How much of human beha{\r}{\c&H3d2e31&}vi{\r}{\c&Hc7c1c2&}or is conscious?{\r}
+Dialogue: 0,00:00:04.40,00:00:04.48,Default,,0,0,0,,{\c&H3d2e31&} How much of human behavi{\r}{\c&H9ab39&}or{\r}{\c&Hc7c1c2&} is conscious?{\r}
+Dialogue: 0,00:00:04.48,00:00:04.56,Default,,0,0,0,,{\c&H3d2e31&} How much of human behavi{\r}{\c&H3d2e31&}or{\r}{\c&Hc7c1c2&} is conscious?{\r}
+Dialogue: 0,00:00:04.56,00:00:04.64,Default,,0,0,0,,{\c&H3d2e31&} How much of human behavior{\r}{\c&H9ab39&} is{\r}{\c&Hc7c1c2&} conscious?{\r}
+Dialogue: 0,00:00:04.64,00:00:04.88,Default,,0,0,0,,{\c&H3d2e31&} How much of human behavior{\r}{\c&H3d2e31&} is{\r}{\c&Hc7c1c2&} conscious?{\r}
+Dialogue: 0,00:00:04.88,00:00:04.96,Default,,0,0,0,,{\c&H3d2e31&} How much of human behavior is{\r}{\c&H9ab39&} con{\r}{\c&Hc7c1c2&}scious?{\r}
+Dialogue: 0,00:00:04.96,00:00:05.04,Default,,0,0,0,,{\c&H3d2e31&} How much of human behavior is{\r}{\c&H3d2e31&} con{\r}{\c&Hc7c1c2&}scious?{\r}
+Dialogue: 0,00:00:05.04,00:00:05.12,Default,,0,0,0,,{\c&H3d2e31&} How much of human behavior is con{\r}{\c&H9ab39&}s{\r}{\c&Hc7c1c2&}cious?{\r}
+Dialogue: 0,00:00:05.12,00:00:05.28,Default,,0,0,0,,{\c&H3d2e31&} How much of human behavior is cons{\r}{\c&H9ab39&}c{\r}{\c&Hc7c1c2&}ious?{\r}
+Dialogue: 0,00:00:05.28,00:00:05.36,Default,,0,0,0,,{\c&H3d2e31&} How much of human behavior is consc{\r}{\c&H9ab39&}ious{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:05.36,00:00:06.56,Default,,0,0,0,,{\c&H3d2e31&} How much of human behavior is consc{\r}{\c&H3d2e31&}ious{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:06.56,00:00:06.64,Default,,0,0,0,,{\c&H3d2e31&} How much of human behavior is conscious{\r}{\c&H9ab39&}?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:06.64,00:00:08.00,Default,,0,0,0,,{\c&H3d2e31&} How much of human behavior is conscious?{\r}

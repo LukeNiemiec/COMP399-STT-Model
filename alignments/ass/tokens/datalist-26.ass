@@ -1,0 +1,39 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:00.16,Default,,0,0,0,,{\c&Hc7c1c2&} How does an RNN transducer work?{\r}
+Dialogue: 0,00:00:00.16,00:00:00.24,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&} Ho{\r}{\c&Hc7c1c2&}w does an RNN transducer work?{\r}
+Dialogue: 0,00:00:00.24,00:00:03.44,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&} Ho{\r}{\c&Hc7c1c2&}w does an RNN transducer work?{\r}
+Dialogue: 0,00:00:03.44,00:00:03.52,Default,,0,0,0,,{\c&H3d2e31&} Ho{\r}{\c&H9ab39&}w{\r}{\c&Hc7c1c2&} does an RNN transducer work?{\r}
+Dialogue: 0,00:00:03.52,00:00:03.92,Default,,0,0,0,,{\c&H3d2e31&} Ho{\r}{\c&H3d2e31&}w{\r}{\c&Hc7c1c2&} does an RNN transducer work?{\r}
+Dialogue: 0,00:00:03.92,00:00:04.00,Default,,0,0,0,,{\c&H3d2e31&} How{\r}{\c&H9ab39&} does{\r}{\c&Hc7c1c2&} an RNN transducer work?{\r}
+Dialogue: 0,00:00:04.00,00:00:04.48,Default,,0,0,0,,{\c&H3d2e31&} How{\r}{\c&H3d2e31&} does{\r}{\c&Hc7c1c2&} an RNN transducer work?{\r}
+Dialogue: 0,00:00:04.48,00:00:04.56,Default,,0,0,0,,{\c&H3d2e31&} How does{\r}{\c&H9ab39&} an{\r}{\c&Hc7c1c2&} RNN transducer work?{\r}
+Dialogue: 0,00:00:04.56,00:00:04.72,Default,,0,0,0,,{\c&H3d2e31&} How does{\r}{\c&H3d2e31&} an{\r}{\c&Hc7c1c2&} RNN transducer work?{\r}
+Dialogue: 0,00:00:04.72,00:00:04.80,Default,,0,0,0,,{\c&H3d2e31&} How does an{\r}{\c&H9ab39&} {\r}{\c&Hc7c1c2&}RNN transducer work?{\r}
+Dialogue: 0,00:00:04.80,00:00:05.28,Default,,0,0,0,,{\c&H3d2e31&} How does an{\r}{\c&H3d2e31&} {\r}{\c&Hc7c1c2&}RNN transducer work?{\r}
+Dialogue: 0,00:00:05.28,00:00:05.36,Default,,0,0,0,,{\c&H3d2e31&} How does an {\r}{\c&H9ab39&}R{\r}{\c&Hc7c1c2&}NN transducer work?{\r}
+Dialogue: 0,00:00:05.36,00:00:05.68,Default,,0,0,0,,{\c&H3d2e31&} How does an {\r}{\c&H3d2e31&}R{\r}{\c&Hc7c1c2&}NN transducer work?{\r}
+Dialogue: 0,00:00:05.68,00:00:05.76,Default,,0,0,0,,{\c&H3d2e31&} How does an R{\r}{\c&H9ab39&}N{\r}{\c&Hc7c1c2&}N transducer work?{\r}
+Dialogue: 0,00:00:05.76,00:00:05.92,Default,,0,0,0,,{\c&H3d2e31&} How does an R{\r}{\c&H3d2e31&}N{\r}{\c&Hc7c1c2&}N transducer work?{\r}
+Dialogue: 0,00:00:05.92,00:00:06.00,Default,,0,0,0,,{\c&H3d2e31&} How does an RN{\r}{\c&H9ab39&}N{\r}{\c&Hc7c1c2&} transducer work?{\r}
+Dialogue: 0,00:00:06.00,00:00:06.16,Default,,0,0,0,,{\c&H3d2e31&} How does an RN{\r}{\c&H3d2e31&}N{\r}{\c&Hc7c1c2&} transducer work?{\r}
+Dialogue: 0,00:00:06.16,00:00:06.24,Default,,0,0,0,,{\c&H3d2e31&} How does an RNN{\r}{\c&H9ab39&} trans{\r}{\c&Hc7c1c2&}ducer work?{\r}
+Dialogue: 0,00:00:06.24,00:00:06.56,Default,,0,0,0,,{\c&H3d2e31&} How does an RNN{\r}{\c&H3d2e31&} trans{\r}{\c&Hc7c1c2&}ducer work?{\r}
+Dialogue: 0,00:00:06.56,00:00:06.64,Default,,0,0,0,,{\c&H3d2e31&} How does an RNN trans{\r}{\c&H9ab39&}duc{\r}{\c&Hc7c1c2&}er work?{\r}
+Dialogue: 0,00:00:06.64,00:00:06.72,Default,,0,0,0,,{\c&H3d2e31&} How does an RNN trans{\r}{\c&H3d2e31&}duc{\r}{\c&Hc7c1c2&}er work?{\r}
+Dialogue: 0,00:00:06.72,00:00:06.80,Default,,0,0,0,,{\c&H3d2e31&} How does an RNN transduc{\r}{\c&H9ab39&}er{\r}{\c&Hc7c1c2&} work?{\r}
+Dialogue: 0,00:00:06.80,00:00:06.88,Default,,0,0,0,,{\c&H3d2e31&} How does an RNN transduc{\r}{\c&H3d2e31&}er{\r}{\c&Hc7c1c2&} work?{\r}
+Dialogue: 0,00:00:06.88,00:00:06.96,Default,,0,0,0,,{\c&H3d2e31&} How does an RNN transducer{\r}{\c&H9ab39&} work{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:06.96,00:00:07.04,Default,,0,0,0,,{\c&H3d2e31&} How does an RNN transducer work{\r}{\c&H9ab39&}?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:07.04,00:00:09.00,Default,,0,0,0,,{\c&H3d2e31&} How does an RNN transducer work?{\r}

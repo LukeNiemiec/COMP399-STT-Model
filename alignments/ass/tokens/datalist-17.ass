@@ -1,0 +1,43 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:00.00,Default,,0,0,0,,{\c&Hc7c1c2&} I want to understand what is actually causing this error.{\r}
+Dialogue: 0,00:00:00.00,00:00:00.08,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&} I{\r}{\c&Hc7c1c2&} want to understand what is actually causing this error.{\r}
+Dialogue: 0,00:00:00.08,00:00:00.16,Default,,0,0,0,,{\c&H3d2e31&} I{\r}{\c&H9ab39&} want{\r}{\c&Hc7c1c2&} to understand what is actually causing this error.{\r}
+Dialogue: 0,00:00:00.16,00:00:00.64,Default,,0,0,0,,{\c&H3d2e31&} I{\r}{\c&H3d2e31&} want{\r}{\c&Hc7c1c2&} to understand what is actually causing this error.{\r}
+Dialogue: 0,00:00:00.64,00:00:00.72,Default,,0,0,0,,{\c&H3d2e31&} I want{\r}{\c&H9ab39&} to{\r}{\c&Hc7c1c2&} understand what is actually causing this error.{\r}
+Dialogue: 0,00:00:00.72,00:00:00.80,Default,,0,0,0,,{\c&H3d2e31&} I want to{\r}{\c&H9ab39&} understand{\r}{\c&Hc7c1c2&} what is actually causing this error.{\r}
+Dialogue: 0,00:00:00.80,00:00:00.88,Default,,0,0,0,,{\c&H3d2e31&} I want to understand{\r}{\c&H9ab39&} what{\r}{\c&Hc7c1c2&} is actually causing this error.{\r}
+Dialogue: 0,00:00:00.88,00:00:01.84,Default,,0,0,0,,{\c&H3d2e31&} I want to understand{\r}{\c&H3d2e31&} what{\r}{\c&Hc7c1c2&} is actually causing this error.{\r}
+Dialogue: 0,00:00:01.84,00:00:01.92,Default,,0,0,0,,{\c&H3d2e31&} I want to understand what{\r}{\c&H9ab39&} is{\r}{\c&Hc7c1c2&} actually causing this error.{\r}
+Dialogue: 0,00:00:01.92,00:00:02.08,Default,,0,0,0,,{\c&H3d2e31&} I want to understand what{\r}{\c&H3d2e31&} is{\r}{\c&Hc7c1c2&} actually causing this error.{\r}
+Dialogue: 0,00:00:02.08,00:00:02.16,Default,,0,0,0,,{\c&H3d2e31&} I want to understand what is{\r}{\c&H9ab39&} actually{\r}{\c&Hc7c1c2&} causing this error.{\r}
+Dialogue: 0,00:00:02.16,00:00:02.40,Default,,0,0,0,,{\c&H3d2e31&} I want to understand what is{\r}{\c&H3d2e31&} actually{\r}{\c&Hc7c1c2&} causing this error.{\r}
+Dialogue: 0,00:00:02.40,00:00:02.48,Default,,0,0,0,,{\c&H3d2e31&} I want to understand what is actually{\r}{\c&H9ab39&} ca{\r}{\c&Hc7c1c2&}using this error.{\r}
+Dialogue: 0,00:00:02.48,00:00:02.64,Default,,0,0,0,,{\c&H3d2e31&} I want to understand what is actually{\r}{\c&H3d2e31&} ca{\r}{\c&Hc7c1c2&}using this error.{\r}
+Dialogue: 0,00:00:02.64,00:00:02.72,Default,,0,0,0,,{\c&H3d2e31&} I want to understand what is actually ca{\r}{\c&H9ab39&}us{\r}{\c&Hc7c1c2&}ing this error.{\r}
+Dialogue: 0,00:00:02.72,00:00:02.80,Default,,0,0,0,,{\c&H3d2e31&} I want to understand what is actually ca{\r}{\c&H3d2e31&}us{\r}{\c&Hc7c1c2&}ing this error.{\r}
+Dialogue: 0,00:00:02.80,00:00:02.88,Default,,0,0,0,,{\c&H3d2e31&} I want to understand what is actually caus{\r}{\c&H9ab39&}ing{\r}{\c&Hc7c1c2&} this error.{\r}
+Dialogue: 0,00:00:02.88,00:00:03.44,Default,,0,0,0,,{\c&H3d2e31&} I want to understand what is actually caus{\r}{\c&H3d2e31&}ing{\r}{\c&Hc7c1c2&} this error.{\r}
+Dialogue: 0,00:00:03.44,00:00:03.52,Default,,0,0,0,,{\c&H3d2e31&} I want to understand what is actually causing{\r}{\c&H9ab39&} this{\r}{\c&Hc7c1c2&} error.{\r}
+Dialogue: 0,00:00:03.52,00:00:03.60,Default,,0,0,0,,{\c&H3d2e31&} I want to understand what is actually causing{\r}{\c&H3d2e31&} this{\r}{\c&Hc7c1c2&} error.{\r}
+Dialogue: 0,00:00:03.60,00:00:03.68,Default,,0,0,0,,{\c&H3d2e31&} I want to understand what is actually causing this{\r}{\c&H9ab39&} {\r}{\c&Hc7c1c2&}error.{\r}
+Dialogue: 0,00:00:03.68,00:00:04.40,Default,,0,0,0,,{\c&H3d2e31&} I want to understand what is actually causing this{\r}{\c&H3d2e31&} {\r}{\c&Hc7c1c2&}error.{\r}
+Dialogue: 0,00:00:04.40,00:00:04.48,Default,,0,0,0,,{\c&H3d2e31&} I want to understand what is actually causing this {\r}{\c&H9ab39&}er{\r}{\c&Hc7c1c2&}ror.{\r}
+Dialogue: 0,00:00:04.48,00:00:04.64,Default,,0,0,0,,{\c&H3d2e31&} I want to understand what is actually causing this {\r}{\c&H3d2e31&}er{\r}{\c&Hc7c1c2&}ror.{\r}
+Dialogue: 0,00:00:04.64,00:00:04.72,Default,,0,0,0,,{\c&H3d2e31&} I want to understand what is actually causing this er{\r}{\c&H9ab39&}r{\r}{\c&Hc7c1c2&}or.{\r}
+Dialogue: 0,00:00:04.72,00:00:04.80,Default,,0,0,0,,{\c&H3d2e31&} I want to understand what is actually causing this er{\r}{\c&H3d2e31&}r{\r}{\c&Hc7c1c2&}or.{\r}
+Dialogue: 0,00:00:04.80,00:00:04.88,Default,,0,0,0,,{\c&H3d2e31&} I want to understand what is actually causing this err{\r}{\c&H9ab39&}or{\r}{\c&Hc7c1c2&}.{\r}
+Dialogue: 0,00:00:04.88,00:00:05.44,Default,,0,0,0,,{\c&H3d2e31&} I want to understand what is actually causing this err{\r}{\c&H3d2e31&}or{\r}{\c&Hc7c1c2&}.{\r}
+Dialogue: 0,00:00:05.44,00:00:05.52,Default,,0,0,0,,{\c&H3d2e31&} I want to understand what is actually causing this error{\r}{\c&H9ab39&}.{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:05.52,00:00:07.00,Default,,0,0,0,,{\c&H3d2e31&} I want to understand what is actually causing this error.{\r}

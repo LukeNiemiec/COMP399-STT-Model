@@ -1,0 +1,36 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:00.00,Default,,0,0,0,,{\c&Hc7c1c2&} What is the time complexity of this algorithm?{\r}
+Dialogue: 0,00:00:00.00,00:00:00.08,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&} What{\r}{\c&Hc7c1c2&} is the time complexity of this algorithm?{\r}
+Dialogue: 0,00:00:00.08,00:00:00.16,Default,,0,0,0,,{\c&H3d2e31&} What{\r}{\c&H9ab39&} is{\r}{\c&Hc7c1c2&} the time complexity of this algorithm?{\r}
+Dialogue: 0,00:00:00.16,00:00:00.24,Default,,0,0,0,,{\c&H3d2e31&} What is{\r}{\c&H9ab39&} the{\r}{\c&Hc7c1c2&} time complexity of this algorithm?{\r}
+Dialogue: 0,00:00:00.24,00:00:00.32,Default,,0,0,0,,{\c&H3d2e31&} What is the{\r}{\c&H9ab39&} time{\r}{\c&Hc7c1c2&} complexity of this algorithm?{\r}
+Dialogue: 0,00:00:00.32,00:00:00.40,Default,,0,0,0,,{\c&H3d2e31&} What is the time{\r}{\c&H9ab39&} comp{\r}{\c&Hc7c1c2&}lexity of this algorithm?{\r}
+Dialogue: 0,00:00:00.40,00:00:00.48,Default,,0,0,0,,{\c&H3d2e31&} What is the time comp{\r}{\c&H9ab39&}le{\r}{\c&Hc7c1c2&}xity of this algorithm?{\r}
+Dialogue: 0,00:00:00.48,00:00:00.56,Default,,0,0,0,,{\c&H3d2e31&} What is the time comple{\r}{\c&H9ab39&}x{\r}{\c&Hc7c1c2&}ity of this algorithm?{\r}
+Dialogue: 0,00:00:00.56,00:00:00.64,Default,,0,0,0,,{\c&H3d2e31&} What is the time complex{\r}{\c&H9ab39&}ity{\r}{\c&Hc7c1c2&} of this algorithm?{\r}
+Dialogue: 0,00:00:00.64,00:00:03.44,Default,,0,0,0,,{\c&H3d2e31&} What is the time complex{\r}{\c&H3d2e31&}ity{\r}{\c&Hc7c1c2&} of this algorithm?{\r}
+Dialogue: 0,00:00:03.44,00:00:03.52,Default,,0,0,0,,{\c&H3d2e31&} What is the time complexity{\r}{\c&H9ab39&} of{\r}{\c&Hc7c1c2&} this algorithm?{\r}
+Dialogue: 0,00:00:03.52,00:00:03.68,Default,,0,0,0,,{\c&H3d2e31&} What is the time complexity{\r}{\c&H3d2e31&} of{\r}{\c&Hc7c1c2&} this algorithm?{\r}
+Dialogue: 0,00:00:03.68,00:00:03.76,Default,,0,0,0,,{\c&H3d2e31&} What is the time complexity of{\r}{\c&H9ab39&} this{\r}{\c&Hc7c1c2&} algorithm?{\r}
+Dialogue: 0,00:00:03.76,00:00:03.84,Default,,0,0,0,,{\c&H3d2e31&} What is the time complexity of{\r}{\c&H3d2e31&} this{\r}{\c&Hc7c1c2&} algorithm?{\r}
+Dialogue: 0,00:00:03.84,00:00:03.92,Default,,0,0,0,,{\c&H3d2e31&} What is the time complexity of this{\r}{\c&H9ab39&} a{\r}{\c&Hc7c1c2&}lgorithm?{\r}
+Dialogue: 0,00:00:03.92,00:00:04.00,Default,,0,0,0,,{\c&H3d2e31&} What is the time complexity of this a{\r}{\c&H9ab39&}l{\r}{\c&Hc7c1c2&}gorithm?{\r}
+Dialogue: 0,00:00:04.00,00:00:04.08,Default,,0,0,0,,{\c&H3d2e31&} What is the time complexity of this al{\r}{\c&H9ab39&}go{\r}{\c&Hc7c1c2&}rithm?{\r}
+Dialogue: 0,00:00:04.08,00:00:04.24,Default,,0,0,0,,{\c&H3d2e31&} What is the time complexity of this algo{\r}{\c&H9ab39&}ri{\r}{\c&Hc7c1c2&}thm?{\r}
+Dialogue: 0,00:00:04.24,00:00:04.40,Default,,0,0,0,,{\c&H3d2e31&} What is the time complexity of this algori{\r}{\c&H9ab39&}th{\r}{\c&Hc7c1c2&}m?{\r}
+Dialogue: 0,00:00:04.40,00:00:04.48,Default,,0,0,0,,{\c&H3d2e31&} What is the time complexity of this algorith{\r}{\c&H9ab39&}m{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:04.48,00:00:05.84,Default,,0,0,0,,{\c&H3d2e31&} What is the time complexity of this algorith{\r}{\c&H3d2e31&}m{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:05.84,00:00:05.92,Default,,0,0,0,,{\c&H3d2e31&} What is the time complexity of this algorithm{\r}{\c&H9ab39&}?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:05.92,00:00:08.00,Default,,0,0,0,,{\c&H3d2e31&} What is the time complexity of this algorithm?{\r}

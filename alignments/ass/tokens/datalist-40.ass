@@ -1,0 +1,49 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:00.08,Default,,0,0,0,,{\c&Hc7c1c2&} What is the difference between these communication protocols?{\r}
+Dialogue: 0,00:00:00.08,00:00:00.16,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&} What{\r}{\c&Hc7c1c2&} is the difference between these communication protocols?{\r}
+Dialogue: 0,00:00:00.16,00:00:01.12,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&} What{\r}{\c&Hc7c1c2&} is the difference between these communication protocols?{\r}
+Dialogue: 0,00:00:01.12,00:00:01.20,Default,,0,0,0,,{\c&H3d2e31&} What{\r}{\c&H9ab39&} is{\r}{\c&Hc7c1c2&} the difference between these communication protocols?{\r}
+Dialogue: 0,00:00:01.20,00:00:02.88,Default,,0,0,0,,{\c&H3d2e31&} What{\r}{\c&H3d2e31&} is{\r}{\c&Hc7c1c2&} the difference between these communication protocols?{\r}
+Dialogue: 0,00:00:02.88,00:00:02.96,Default,,0,0,0,,{\c&H3d2e31&} What is{\r}{\c&H9ab39&} the{\r}{\c&Hc7c1c2&} difference between these communication protocols?{\r}
+Dialogue: 0,00:00:02.96,00:00:03.12,Default,,0,0,0,,{\c&H3d2e31&} What is{\r}{\c&H3d2e31&} the{\r}{\c&Hc7c1c2&} difference between these communication protocols?{\r}
+Dialogue: 0,00:00:03.12,00:00:03.20,Default,,0,0,0,,{\c&H3d2e31&} What is the{\r}{\c&H9ab39&} di{\r}{\c&Hc7c1c2&}fference between these communication protocols?{\r}
+Dialogue: 0,00:00:03.20,00:00:03.28,Default,,0,0,0,,{\c&H3d2e31&} What is the{\r}{\c&H3d2e31&} di{\r}{\c&Hc7c1c2&}fference between these communication protocols?{\r}
+Dialogue: 0,00:00:03.28,00:00:03.36,Default,,0,0,0,,{\c&H3d2e31&} What is the di{\r}{\c&H9ab39&}ff{\r}{\c&Hc7c1c2&}erence between these communication protocols?{\r}
+Dialogue: 0,00:00:03.36,00:00:03.44,Default,,0,0,0,,{\c&H3d2e31&} What is the di{\r}{\c&H3d2e31&}ff{\r}{\c&Hc7c1c2&}erence between these communication protocols?{\r}
+Dialogue: 0,00:00:03.44,00:00:03.52,Default,,0,0,0,,{\c&H3d2e31&} What is the diff{\r}{\c&H9ab39&}er{\r}{\c&Hc7c1c2&}ence between these communication protocols?{\r}
+Dialogue: 0,00:00:03.52,00:00:03.60,Default,,0,0,0,,{\c&H3d2e31&} What is the diff{\r}{\c&H3d2e31&}er{\r}{\c&Hc7c1c2&}ence between these communication protocols?{\r}
+Dialogue: 0,00:00:03.60,00:00:03.68,Default,,0,0,0,,{\c&H3d2e31&} What is the differ{\r}{\c&H9ab39&}ence{\r}{\c&Hc7c1c2&} between these communication protocols?{\r}
+Dialogue: 0,00:00:03.68,00:00:03.76,Default,,0,0,0,,{\c&H3d2e31&} What is the difference{\r}{\c&H9ab39&} between{\r}{\c&Hc7c1c2&} these communication protocols?{\r}
+Dialogue: 0,00:00:03.76,00:00:03.84,Default,,0,0,0,,{\c&H3d2e31&} What is the difference between{\r}{\c&H9ab39&} these{\r}{\c&Hc7c1c2&} communication protocols?{\r}
+Dialogue: 0,00:00:03.84,00:00:03.92,Default,,0,0,0,,{\c&H3d2e31&} What is the difference between these{\r}{\c&H9ab39&} comm{\r}{\c&Hc7c1c2&}unication protocols?{\r}
+Dialogue: 0,00:00:03.92,00:00:04.00,Default,,0,0,0,,{\c&H3d2e31&} What is the difference between these{\r}{\c&H3d2e31&} comm{\r}{\c&Hc7c1c2&}unication protocols?{\r}
+Dialogue: 0,00:00:04.00,00:00:04.08,Default,,0,0,0,,{\c&H3d2e31&} What is the difference between these comm{\r}{\c&H9ab39&}un{\r}{\c&Hc7c1c2&}ication protocols?{\r}
+Dialogue: 0,00:00:04.08,00:00:04.16,Default,,0,0,0,,{\c&H3d2e31&} What is the difference between these comm{\r}{\c&H3d2e31&}un{\r}{\c&Hc7c1c2&}ication protocols?{\r}
+Dialogue: 0,00:00:04.16,00:00:04.24,Default,,0,0,0,,{\c&H3d2e31&} What is the difference between these commun{\r}{\c&H9ab39&}ic{\r}{\c&Hc7c1c2&}ation protocols?{\r}
+Dialogue: 0,00:00:04.24,00:00:04.48,Default,,0,0,0,,{\c&H3d2e31&} What is the difference between these commun{\r}{\c&H3d2e31&}ic{\r}{\c&Hc7c1c2&}ation protocols?{\r}
+Dialogue: 0,00:00:04.48,00:00:04.56,Default,,0,0,0,,{\c&H3d2e31&} What is the difference between these communic{\r}{\c&H9ab39&}ation{\r}{\c&Hc7c1c2&} protocols?{\r}
+Dialogue: 0,00:00:04.56,00:00:04.72,Default,,0,0,0,,{\c&H3d2e31&} What is the difference between these communic{\r}{\c&H3d2e31&}ation{\r}{\c&Hc7c1c2&} protocols?{\r}
+Dialogue: 0,00:00:04.72,00:00:04.80,Default,,0,0,0,,{\c&H3d2e31&} What is the difference between these communication{\r}{\c&H9ab39&} pro{\r}{\c&Hc7c1c2&}tocols?{\r}
+Dialogue: 0,00:00:04.80,00:00:05.12,Default,,0,0,0,,{\c&H3d2e31&} What is the difference between these communication{\r}{\c&H3d2e31&} pro{\r}{\c&Hc7c1c2&}tocols?{\r}
+Dialogue: 0,00:00:05.12,00:00:05.20,Default,,0,0,0,,{\c&H3d2e31&} What is the difference between these communication pro{\r}{\c&H9ab39&}t{\r}{\c&Hc7c1c2&}ocols?{\r}
+Dialogue: 0,00:00:05.20,00:00:05.28,Default,,0,0,0,,{\c&H3d2e31&} What is the difference between these communication prot{\r}{\c&H9ab39&}o{\r}{\c&Hc7c1c2&}cols?{\r}
+Dialogue: 0,00:00:05.28,00:00:05.36,Default,,0,0,0,,{\c&H3d2e31&} What is the difference between these communication prot{\r}{\c&H3d2e31&}o{\r}{\c&Hc7c1c2&}cols?{\r}
+Dialogue: 0,00:00:05.36,00:00:05.44,Default,,0,0,0,,{\c&H3d2e31&} What is the difference between these communication proto{\r}{\c&H9ab39&}c{\r}{\c&Hc7c1c2&}ols?{\r}
+Dialogue: 0,00:00:05.44,00:00:05.68,Default,,0,0,0,,{\c&H3d2e31&} What is the difference between these communication proto{\r}{\c&H3d2e31&}c{\r}{\c&Hc7c1c2&}ols?{\r}
+Dialogue: 0,00:00:05.68,00:00:05.76,Default,,0,0,0,,{\c&H3d2e31&} What is the difference between these communication protoc{\r}{\c&H9ab39&}ol{\r}{\c&Hc7c1c2&}s?{\r}
+Dialogue: 0,00:00:05.76,00:00:05.84,Default,,0,0,0,,{\c&H3d2e31&} What is the difference between these communication protocol{\r}{\c&H9ab39&}s{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:05.84,00:00:06.24,Default,,0,0,0,,{\c&H3d2e31&} What is the difference between these communication protocol{\r}{\c&H3d2e31&}s{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:06.24,00:00:06.32,Default,,0,0,0,,{\c&H3d2e31&} What is the difference between these communication protocols{\r}{\c&H9ab39&}?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:06.32,00:00:08.00,Default,,0,0,0,,{\c&H3d2e31&} What is the difference between these communication protocols?{\r}

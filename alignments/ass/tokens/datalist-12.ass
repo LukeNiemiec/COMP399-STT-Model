@@ -1,0 +1,50 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:00.00,Default,,0,0,0,,{\c&Hc7c1c2&} How can I make this work without introducing unnecessary dependencies?{\r}
+Dialogue: 0,00:00:00.00,00:00:00.08,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&} Ho{\r}{\c&Hc7c1c2&}w can I make this work without introducing unnecessary dependencies?{\r}
+Dialogue: 0,00:00:00.08,00:00:02.16,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&} Ho{\r}{\c&Hc7c1c2&}w can I make this work without introducing unnecessary dependencies?{\r}
+Dialogue: 0,00:00:02.16,00:00:02.24,Default,,0,0,0,,{\c&H3d2e31&} Ho{\r}{\c&H9ab39&}w{\r}{\c&Hc7c1c2&} can I make this work without introducing unnecessary dependencies?{\r}
+Dialogue: 0,00:00:02.24,00:00:02.40,Default,,0,0,0,,{\c&H3d2e31&} Ho{\r}{\c&H3d2e31&}w{\r}{\c&Hc7c1c2&} can I make this work without introducing unnecessary dependencies?{\r}
+Dialogue: 0,00:00:02.40,00:00:02.48,Default,,0,0,0,,{\c&H3d2e31&} How{\r}{\c&H9ab39&} can{\r}{\c&Hc7c1c2&} I make this work without introducing unnecessary dependencies?{\r}
+Dialogue: 0,00:00:02.48,00:00:02.56,Default,,0,0,0,,{\c&H3d2e31&} How{\r}{\c&H3d2e31&} can{\r}{\c&Hc7c1c2&} I make this work without introducing unnecessary dependencies?{\r}
+Dialogue: 0,00:00:02.56,00:00:02.64,Default,,0,0,0,,{\c&H3d2e31&} How can{\r}{\c&H9ab39&} I{\r}{\c&Hc7c1c2&} make this work without introducing unnecessary dependencies?{\r}
+Dialogue: 0,00:00:02.64,00:00:02.72,Default,,0,0,0,,{\c&H3d2e31&} How can I{\r}{\c&H9ab39&} make{\r}{\c&Hc7c1c2&} this work without introducing unnecessary dependencies?{\r}
+Dialogue: 0,00:00:02.72,00:00:02.80,Default,,0,0,0,,{\c&H3d2e31&} How can I make{\r}{\c&H9ab39&} this{\r}{\c&Hc7c1c2&} work without introducing unnecessary dependencies?{\r}
+Dialogue: 0,00:00:02.80,00:00:02.96,Default,,0,0,0,,{\c&H3d2e31&} How can I make{\r}{\c&H3d2e31&} this{\r}{\c&Hc7c1c2&} work without introducing unnecessary dependencies?{\r}
+Dialogue: 0,00:00:02.96,00:00:03.04,Default,,0,0,0,,{\c&H3d2e31&} How can I make this{\r}{\c&H9ab39&} work{\r}{\c&Hc7c1c2&} without introducing unnecessary dependencies?{\r}
+Dialogue: 0,00:00:03.04,00:00:03.12,Default,,0,0,0,,{\c&H3d2e31&} How can I make this{\r}{\c&H3d2e31&} work{\r}{\c&Hc7c1c2&} without introducing unnecessary dependencies?{\r}
+Dialogue: 0,00:00:03.12,00:00:03.20,Default,,0,0,0,,{\c&H3d2e31&} How can I make this work{\r}{\c&H9ab39&} without{\r}{\c&Hc7c1c2&} introducing unnecessary dependencies?{\r}
+Dialogue: 0,00:00:03.20,00:00:03.28,Default,,0,0,0,,{\c&H3d2e31&} How can I make this work without{\r}{\c&H9ab39&} in{\r}{\c&Hc7c1c2&}troducing unnecessary dependencies?{\r}
+Dialogue: 0,00:00:03.28,00:00:03.36,Default,,0,0,0,,{\c&H3d2e31&} How can I make this work without in{\r}{\c&H9ab39&}t{\r}{\c&Hc7c1c2&}roducing unnecessary dependencies?{\r}
+Dialogue: 0,00:00:03.36,00:00:03.44,Default,,0,0,0,,{\c&H3d2e31&} How can I make this work without in{\r}{\c&H3d2e31&}t{\r}{\c&Hc7c1c2&}roducing unnecessary dependencies?{\r}
+Dialogue: 0,00:00:03.44,00:00:03.52,Default,,0,0,0,,{\c&H3d2e31&} How can I make this work without int{\r}{\c&H9ab39&}ro{\r}{\c&Hc7c1c2&}ducing unnecessary dependencies?{\r}
+Dialogue: 0,00:00:03.52,00:00:03.60,Default,,0,0,0,,{\c&H3d2e31&} How can I make this work without intro{\r}{\c&H9ab39&}duc{\r}{\c&Hc7c1c2&}ing unnecessary dependencies?{\r}
+Dialogue: 0,00:00:03.60,00:00:03.68,Default,,0,0,0,,{\c&H3d2e31&} How can I make this work without introduc{\r}{\c&H9ab39&}ing{\r}{\c&Hc7c1c2&} unnecessary dependencies?{\r}
+Dialogue: 0,00:00:03.68,00:00:03.76,Default,,0,0,0,,{\c&H3d2e31&} How can I make this work without introducing{\r}{\c&H9ab39&} un{\r}{\c&Hc7c1c2&}necessary dependencies?{\r}
+Dialogue: 0,00:00:03.76,00:00:03.84,Default,,0,0,0,,{\c&H3d2e31&} How can I make this work without introducing un{\r}{\c&H9ab39&}ne{\r}{\c&Hc7c1c2&}cessary dependencies?{\r}
+Dialogue: 0,00:00:03.84,00:00:03.92,Default,,0,0,0,,{\c&H3d2e31&} How can I make this work without introducing unne{\r}{\c&H9ab39&}ce{\r}{\c&Hc7c1c2&}ssary dependencies?{\r}
+Dialogue: 0,00:00:03.92,00:00:04.00,Default,,0,0,0,,{\c&H3d2e31&} How can I make this work without introducing unnece{\r}{\c&H9ab39&}s{\r}{\c&Hc7c1c2&}sary dependencies?{\r}
+Dialogue: 0,00:00:04.00,00:00:04.08,Default,,0,0,0,,{\c&H3d2e31&} How can I make this work without introducing unnece{\r}{\c&H3d2e31&}s{\r}{\c&Hc7c1c2&}sary dependencies?{\r}
+Dialogue: 0,00:00:04.08,00:00:04.16,Default,,0,0,0,,{\c&H3d2e31&} How can I make this work without introducing unneces{\r}{\c&H9ab39&}s{\r}{\c&Hc7c1c2&}ary dependencies?{\r}
+Dialogue: 0,00:00:04.16,00:00:04.24,Default,,0,0,0,,{\c&H3d2e31&} How can I make this work without introducing unnecess{\r}{\c&H9ab39&}ary{\r}{\c&Hc7c1c2&} dependencies?{\r}
+Dialogue: 0,00:00:04.24,00:00:04.32,Default,,0,0,0,,{\c&H3d2e31&} How can I make this work without introducing unnecessary{\r}{\c&H9ab39&} de{\r}{\c&Hc7c1c2&}pendencies?{\r}
+Dialogue: 0,00:00:04.32,00:00:04.40,Default,,0,0,0,,{\c&H3d2e31&} How can I make this work without introducing unnecessary de{\r}{\c&H9ab39&}p{\r}{\c&Hc7c1c2&}endencies?{\r}
+Dialogue: 0,00:00:04.40,00:00:04.48,Default,,0,0,0,,{\c&H3d2e31&} How can I make this work without introducing unnecessary dep{\r}{\c&H9ab39&}end{\r}{\c&Hc7c1c2&}encies?{\r}
+Dialogue: 0,00:00:04.48,00:00:04.56,Default,,0,0,0,,{\c&H3d2e31&} How can I make this work without introducing unnecessary depend{\r}{\c&H9ab39&}en{\r}{\c&Hc7c1c2&}cies?{\r}
+Dialogue: 0,00:00:04.56,00:00:04.64,Default,,0,0,0,,{\c&H3d2e31&} How can I make this work without introducing unnecessary dependen{\r}{\c&H9ab39&}c{\r}{\c&Hc7c1c2&}ies?{\r}
+Dialogue: 0,00:00:04.64,00:00:04.72,Default,,0,0,0,,{\c&H3d2e31&} How can I make this work without introducing unnecessary dependen{\r}{\c&H3d2e31&}c{\r}{\c&Hc7c1c2&}ies?{\r}
+Dialogue: 0,00:00:04.72,00:00:04.80,Default,,0,0,0,,{\c&H3d2e31&} How can I make this work without introducing unnecessary dependenc{\r}{\c&H9ab39&}ies{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:04.80,00:00:05.36,Default,,0,0,0,,{\c&H3d2e31&} How can I make this work without introducing unnecessary dependenc{\r}{\c&H3d2e31&}ies{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:05.36,00:00:05.44,Default,,0,0,0,,{\c&H3d2e31&} How can I make this work without introducing unnecessary dependencies{\r}{\c&H9ab39&}?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:05.44,00:00:07.00,Default,,0,0,0,,{\c&H3d2e31&} How can I make this work without introducing unnecessary dependencies?{\r}

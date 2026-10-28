@@ -1,0 +1,46 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:00.00,Default,,0,0,0,,{\c&Hc7c1c2&} How do I configure this in configuration.nix?{\r}
+Dialogue: 0,00:00:00.00,00:00:00.08,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&} Ho{\r}{\c&Hc7c1c2&}w do I configure this in configuration.nix?{\r}
+Dialogue: 0,00:00:00.08,00:00:02.08,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&} Ho{\r}{\c&Hc7c1c2&}w do I configure this in configuration.nix?{\r}
+Dialogue: 0,00:00:02.08,00:00:02.16,Default,,0,0,0,,{\c&H3d2e31&} Ho{\r}{\c&H9ab39&}w{\r}{\c&Hc7c1c2&} do I configure this in configuration.nix?{\r}
+Dialogue: 0,00:00:02.16,00:00:02.48,Default,,0,0,0,,{\c&H3d2e31&} Ho{\r}{\c&H3d2e31&}w{\r}{\c&Hc7c1c2&} do I configure this in configuration.nix?{\r}
+Dialogue: 0,00:00:02.48,00:00:02.56,Default,,0,0,0,,{\c&H3d2e31&} How{\r}{\c&H9ab39&} do{\r}{\c&Hc7c1c2&} I configure this in configuration.nix?{\r}
+Dialogue: 0,00:00:02.56,00:00:02.96,Default,,0,0,0,,{\c&H3d2e31&} How{\r}{\c&H3d2e31&} do{\r}{\c&Hc7c1c2&} I configure this in configuration.nix?{\r}
+Dialogue: 0,00:00:02.96,00:00:03.04,Default,,0,0,0,,{\c&H3d2e31&} How do{\r}{\c&H9ab39&} I{\r}{\c&Hc7c1c2&} configure this in configuration.nix?{\r}
+Dialogue: 0,00:00:03.04,00:00:03.44,Default,,0,0,0,,{\c&H3d2e31&} How do{\r}{\c&H3d2e31&} I{\r}{\c&Hc7c1c2&} configure this in configuration.nix?{\r}
+Dialogue: 0,00:00:03.44,00:00:03.52,Default,,0,0,0,,{\c&H3d2e31&} How do I{\r}{\c&H9ab39&} conf{\r}{\c&Hc7c1c2&}igure this in configuration.nix?{\r}
+Dialogue: 0,00:00:03.52,00:00:03.84,Default,,0,0,0,,{\c&H3d2e31&} How do I{\r}{\c&H3d2e31&} conf{\r}{\c&Hc7c1c2&}igure this in configuration.nix?{\r}
+Dialogue: 0,00:00:03.84,00:00:03.92,Default,,0,0,0,,{\c&H3d2e31&} How do I conf{\r}{\c&H9ab39&}ig{\r}{\c&Hc7c1c2&}ure this in configuration.nix?{\r}
+Dialogue: 0,00:00:03.92,00:00:04.00,Default,,0,0,0,,{\c&H3d2e31&} How do I conf{\r}{\c&H3d2e31&}ig{\r}{\c&Hc7c1c2&}ure this in configuration.nix?{\r}
+Dialogue: 0,00:00:04.00,00:00:04.08,Default,,0,0,0,,{\c&H3d2e31&} How do I config{\r}{\c&H9ab39&}u{\r}{\c&Hc7c1c2&}re this in configuration.nix?{\r}
+Dialogue: 0,00:00:04.08,00:00:04.24,Default,,0,0,0,,{\c&H3d2e31&} How do I config{\r}{\c&H3d2e31&}u{\r}{\c&Hc7c1c2&}re this in configuration.nix?{\r}
+Dialogue: 0,00:00:04.24,00:00:04.32,Default,,0,0,0,,{\c&H3d2e31&} How do I configu{\r}{\c&H9ab39&}re{\r}{\c&Hc7c1c2&} this in configuration.nix?{\r}
+Dialogue: 0,00:00:04.32,00:00:04.40,Default,,0,0,0,,{\c&H3d2e31&} How do I configu{\r}{\c&H3d2e31&}re{\r}{\c&Hc7c1c2&} this in configuration.nix?{\r}
+Dialogue: 0,00:00:04.40,00:00:04.48,Default,,0,0,0,,{\c&H3d2e31&} How do I configure{\r}{\c&H9ab39&} this{\r}{\c&Hc7c1c2&} in configuration.nix?{\r}
+Dialogue: 0,00:00:04.48,00:00:04.64,Default,,0,0,0,,{\c&H3d2e31&} How do I configure{\r}{\c&H3d2e31&} this{\r}{\c&Hc7c1c2&} in configuration.nix?{\r}
+Dialogue: 0,00:00:04.64,00:00:04.72,Default,,0,0,0,,{\c&H3d2e31&} How do I configure this{\r}{\c&H9ab39&} in{\r}{\c&Hc7c1c2&} configuration.nix?{\r}
+Dialogue: 0,00:00:04.72,00:00:04.80,Default,,0,0,0,,{\c&H3d2e31&} How do I configure this in{\r}{\c&H9ab39&} conf{\r}{\c&Hc7c1c2&}iguration.nix?{\r}
+Dialogue: 0,00:00:04.80,00:00:04.88,Default,,0,0,0,,{\c&H3d2e31&} How do I configure this in conf{\r}{\c&H9ab39&}ig{\r}{\c&Hc7c1c2&}uration.nix?{\r}
+Dialogue: 0,00:00:04.88,00:00:04.96,Default,,0,0,0,,{\c&H3d2e31&} How do I configure this in config{\r}{\c&H9ab39&}ur{\r}{\c&Hc7c1c2&}ation.nix?{\r}
+Dialogue: 0,00:00:04.96,00:00:05.04,Default,,0,0,0,,{\c&H3d2e31&} How do I configure this in config{\r}{\c&H3d2e31&}ur{\r}{\c&Hc7c1c2&}ation.nix?{\r}
+Dialogue: 0,00:00:05.04,00:00:05.12,Default,,0,0,0,,{\c&H3d2e31&} How do I configure this in configur{\r}{\c&H9ab39&}ation{\r}{\c&Hc7c1c2&}.nix?{\r}
+Dialogue: 0,00:00:05.12,00:00:05.20,Default,,0,0,0,,{\c&H3d2e31&} How do I configure this in configuration{\r}{\c&H9ab39&}.{\r}{\c&Hc7c1c2&}nix?{\r}
+Dialogue: 0,00:00:05.20,00:00:05.28,Default,,0,0,0,,{\c&H3d2e31&} How do I configure this in configuration{\r}{\c&H3d2e31&}.{\r}{\c&Hc7c1c2&}nix?{\r}
+Dialogue: 0,00:00:05.28,00:00:05.36,Default,,0,0,0,,{\c&H3d2e31&} How do I configure this in configuration.{\r}{\c&H9ab39&}ni{\r}{\c&Hc7c1c2&}x?{\r}
+Dialogue: 0,00:00:05.36,00:00:05.44,Default,,0,0,0,,{\c&H3d2e31&} How do I configure this in configuration.{\r}{\c&H3d2e31&}ni{\r}{\c&Hc7c1c2&}x?{\r}
+Dialogue: 0,00:00:05.44,00:00:05.52,Default,,0,0,0,,{\c&H3d2e31&} How do I configure this in configuration.ni{\r}{\c&H9ab39&}x{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:05.52,00:00:06.16,Default,,0,0,0,,{\c&H3d2e31&} How do I configure this in configuration.ni{\r}{\c&H3d2e31&}x{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:06.16,00:00:06.24,Default,,0,0,0,,{\c&H3d2e31&} How do I configure this in configuration.nix{\r}{\c&H9ab39&}?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:06.24,00:00:08.00,Default,,0,0,0,,{\c&H3d2e31&} How do I configure this in configuration.nix?{\r}

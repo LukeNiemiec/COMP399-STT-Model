@@ -1,0 +1,43 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:02.88,Default,,0,0,0,,{\c&Hc7c1c2&} How do embeddings represent semantic meaning?{\r}
+Dialogue: 0,00:00:02.88,00:00:02.96,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&} Ho{\r}{\c&Hc7c1c2&}w do embeddings represent semantic meaning?{\r}
+Dialogue: 0,00:00:02.96,00:00:03.04,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&} Ho{\r}{\c&Hc7c1c2&}w do embeddings represent semantic meaning?{\r}
+Dialogue: 0,00:00:03.04,00:00:03.20,Default,,0,0,0,,{\c&H3d2e31&} Ho{\r}{\c&H9ab39&}w{\r}{\c&Hc7c1c2&} do embeddings represent semantic meaning?{\r}
+Dialogue: 0,00:00:03.20,00:00:03.36,Default,,0,0,0,,{\c&H3d2e31&} Ho{\r}{\c&H3d2e31&}w{\r}{\c&Hc7c1c2&} do embeddings represent semantic meaning?{\r}
+Dialogue: 0,00:00:03.36,00:00:03.44,Default,,0,0,0,,{\c&H3d2e31&} How{\r}{\c&H9ab39&} do{\r}{\c&Hc7c1c2&} embeddings represent semantic meaning?{\r}
+Dialogue: 0,00:00:03.44,00:00:03.52,Default,,0,0,0,,{\c&H3d2e31&} How{\r}{\c&H3d2e31&} do{\r}{\c&Hc7c1c2&} embeddings represent semantic meaning?{\r}
+Dialogue: 0,00:00:03.52,00:00:03.60,Default,,0,0,0,,{\c&H3d2e31&} How do{\r}{\c&H9ab39&} e{\r}{\c&Hc7c1c2&}mbeddings represent semantic meaning?{\r}
+Dialogue: 0,00:00:03.60,00:00:03.68,Default,,0,0,0,,{\c&H3d2e31&} How do{\r}{\c&H3d2e31&} e{\r}{\c&Hc7c1c2&}mbeddings represent semantic meaning?{\r}
+Dialogue: 0,00:00:03.68,00:00:03.76,Default,,0,0,0,,{\c&H3d2e31&} How do e{\r}{\c&H9ab39&}mb{\r}{\c&Hc7c1c2&}eddings represent semantic meaning?{\r}
+Dialogue: 0,00:00:03.76,00:00:04.16,Default,,0,0,0,,{\c&H3d2e31&} How do e{\r}{\c&H3d2e31&}mb{\r}{\c&Hc7c1c2&}eddings represent semantic meaning?{\r}
+Dialogue: 0,00:00:04.16,00:00:04.24,Default,,0,0,0,,{\c&H3d2e31&} How do emb{\r}{\c&H9ab39&}ed{\r}{\c&Hc7c1c2&}dings represent semantic meaning?{\r}
+Dialogue: 0,00:00:04.24,00:00:04.32,Default,,0,0,0,,{\c&H3d2e31&} How do embed{\r}{\c&H9ab39&}d{\r}{\c&Hc7c1c2&}ings represent semantic meaning?{\r}
+Dialogue: 0,00:00:04.32,00:00:04.56,Default,,0,0,0,,{\c&H3d2e31&} How do embed{\r}{\c&H3d2e31&}d{\r}{\c&Hc7c1c2&}ings represent semantic meaning?{\r}
+Dialogue: 0,00:00:04.56,00:00:04.64,Default,,0,0,0,,{\c&H3d2e31&} How do embedd{\r}{\c&H9ab39&}ing{\r}{\c&Hc7c1c2&}s represent semantic meaning?{\r}
+Dialogue: 0,00:00:04.64,00:00:04.80,Default,,0,0,0,,{\c&H3d2e31&} How do embedd{\r}{\c&H3d2e31&}ing{\r}{\c&Hc7c1c2&}s represent semantic meaning?{\r}
+Dialogue: 0,00:00:04.80,00:00:04.88,Default,,0,0,0,,{\c&H3d2e31&} How do embedding{\r}{\c&H9ab39&}s{\r}{\c&Hc7c1c2&} represent semantic meaning?{\r}
+Dialogue: 0,00:00:04.88,00:00:04.96,Default,,0,0,0,,{\c&H3d2e31&} How do embeddings{\r}{\c&H9ab39&} represent{\r}{\c&Hc7c1c2&} semantic meaning?{\r}
+Dialogue: 0,00:00:04.96,00:00:05.04,Default,,0,0,0,,{\c&H3d2e31&} How do embeddings{\r}{\c&H3d2e31&} represent{\r}{\c&Hc7c1c2&} semantic meaning?{\r}
+Dialogue: 0,00:00:05.04,00:00:05.12,Default,,0,0,0,,{\c&H3d2e31&} How do embeddings represent{\r}{\c&H9ab39&} se{\r}{\c&Hc7c1c2&}mantic meaning?{\r}
+Dialogue: 0,00:00:05.12,00:00:05.20,Default,,0,0,0,,{\c&H3d2e31&} How do embeddings represent{\r}{\c&H3d2e31&} se{\r}{\c&Hc7c1c2&}mantic meaning?{\r}
+Dialogue: 0,00:00:05.20,00:00:05.28,Default,,0,0,0,,{\c&H3d2e31&} How do embeddings represent se{\r}{\c&H9ab39&}man{\r}{\c&Hc7c1c2&}tic meaning?{\r}
+Dialogue: 0,00:00:05.28,00:00:05.36,Default,,0,0,0,,{\c&H3d2e31&} How do embeddings represent seman{\r}{\c&H9ab39&}tic{\r}{\c&Hc7c1c2&} meaning?{\r}
+Dialogue: 0,00:00:05.36,00:00:05.44,Default,,0,0,0,,{\c&H3d2e31&} How do embeddings represent seman{\r}{\c&H3d2e31&}tic{\r}{\c&Hc7c1c2&} meaning?{\r}
+Dialogue: 0,00:00:05.44,00:00:05.52,Default,,0,0,0,,{\c&H3d2e31&} How do embeddings represent semantic{\r}{\c&H9ab39&} mean{\r}{\c&Hc7c1c2&}ing?{\r}
+Dialogue: 0,00:00:05.52,00:00:05.76,Default,,0,0,0,,{\c&H3d2e31&} How do embeddings represent semantic{\r}{\c&H3d2e31&} mean{\r}{\c&Hc7c1c2&}ing?{\r}
+Dialogue: 0,00:00:05.76,00:00:05.84,Default,,0,0,0,,{\c&H3d2e31&} How do embeddings represent semantic mean{\r}{\c&H9ab39&}ing{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:05.84,00:00:06.08,Default,,0,0,0,,{\c&H3d2e31&} How do embeddings represent semantic mean{\r}{\c&H3d2e31&}ing{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:06.08,00:00:06.16,Default,,0,0,0,,{\c&H3d2e31&} How do embeddings represent semantic meaning{\r}{\c&H9ab39&}?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:06.16,00:00:08.00,Default,,0,0,0,,{\c&H3d2e31&} How do embeddings represent semantic meaning?{\r}

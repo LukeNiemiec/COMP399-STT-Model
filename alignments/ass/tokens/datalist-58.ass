@@ -1,0 +1,43 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:01.84,Default,,0,0,0,,{\c&Hc7c1c2&} How do I solve this recurrence relation?{\r}
+Dialogue: 0,00:00:01.84,00:00:01.92,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&} Ho{\r}{\c&Hc7c1c2&}w do I solve this recurrence relation?{\r}
+Dialogue: 0,00:00:01.92,00:00:02.08,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&} Ho{\r}{\c&Hc7c1c2&}w do I solve this recurrence relation?{\r}
+Dialogue: 0,00:00:02.08,00:00:02.24,Default,,0,0,0,,{\c&H3d2e31&} Ho{\r}{\c&H9ab39&}w{\r}{\c&Hc7c1c2&} do I solve this recurrence relation?{\r}
+Dialogue: 0,00:00:02.24,00:00:02.40,Default,,0,0,0,,{\c&H3d2e31&} Ho{\r}{\c&H3d2e31&}w{\r}{\c&Hc7c1c2&} do I solve this recurrence relation?{\r}
+Dialogue: 0,00:00:02.40,00:00:02.48,Default,,0,0,0,,{\c&H3d2e31&} How{\r}{\c&H9ab39&} do{\r}{\c&Hc7c1c2&} I solve this recurrence relation?{\r}
+Dialogue: 0,00:00:02.48,00:00:02.56,Default,,0,0,0,,{\c&H3d2e31&} How{\r}{\c&H3d2e31&} do{\r}{\c&Hc7c1c2&} I solve this recurrence relation?{\r}
+Dialogue: 0,00:00:02.56,00:00:02.64,Default,,0,0,0,,{\c&H3d2e31&} How do{\r}{\c&H9ab39&} I{\r}{\c&Hc7c1c2&} solve this recurrence relation?{\r}
+Dialogue: 0,00:00:02.64,00:00:02.72,Default,,0,0,0,,{\c&H3d2e31&} How do{\r}{\c&H3d2e31&} I{\r}{\c&Hc7c1c2&} solve this recurrence relation?{\r}
+Dialogue: 0,00:00:02.72,00:00:02.80,Default,,0,0,0,,{\c&H3d2e31&} How do I{\r}{\c&H9ab39&} so{\r}{\c&Hc7c1c2&}lve this recurrence relation?{\r}
+Dialogue: 0,00:00:02.80,00:00:02.96,Default,,0,0,0,,{\c&H3d2e31&} How do I so{\r}{\c&H9ab39&}l{\r}{\c&Hc7c1c2&}ve this recurrence relation?{\r}
+Dialogue: 0,00:00:02.96,00:00:03.04,Default,,0,0,0,,{\c&H3d2e31&} How do I sol{\r}{\c&H9ab39&}ve{\r}{\c&Hc7c1c2&} this recurrence relation?{\r}
+Dialogue: 0,00:00:03.04,00:00:03.12,Default,,0,0,0,,{\c&H3d2e31&} How do I sol{\r}{\c&H3d2e31&}ve{\r}{\c&Hc7c1c2&} this recurrence relation?{\r}
+Dialogue: 0,00:00:03.12,00:00:03.20,Default,,0,0,0,,{\c&H3d2e31&} How do I solve{\r}{\c&H9ab39&} this{\r}{\c&Hc7c1c2&} recurrence relation?{\r}
+Dialogue: 0,00:00:03.20,00:00:03.28,Default,,0,0,0,,{\c&H3d2e31&} How do I solve{\r}{\c&H3d2e31&} this{\r}{\c&Hc7c1c2&} recurrence relation?{\r}
+Dialogue: 0,00:00:03.28,00:00:03.36,Default,,0,0,0,,{\c&H3d2e31&} How do I solve this{\r}{\c&H9ab39&} re{\r}{\c&Hc7c1c2&}currence relation?{\r}
+Dialogue: 0,00:00:03.36,00:00:03.44,Default,,0,0,0,,{\c&H3d2e31&} How do I solve this{\r}{\c&H3d2e31&} re{\r}{\c&Hc7c1c2&}currence relation?{\r}
+Dialogue: 0,00:00:03.44,00:00:03.60,Default,,0,0,0,,{\c&H3d2e31&} How do I solve this re{\r}{\c&H9ab39&}c{\r}{\c&Hc7c1c2&}urrence relation?{\r}
+Dialogue: 0,00:00:03.60,00:00:03.68,Default,,0,0,0,,{\c&H3d2e31&} How do I solve this rec{\r}{\c&H9ab39&}ur{\r}{\c&Hc7c1c2&}rence relation?{\r}
+Dialogue: 0,00:00:03.68,00:00:03.84,Default,,0,0,0,,{\c&H3d2e31&} How do I solve this recur{\r}{\c&H9ab39&}r{\r}{\c&Hc7c1c2&}ence relation?{\r}
+Dialogue: 0,00:00:03.84,00:00:03.92,Default,,0,0,0,,{\c&H3d2e31&} How do I solve this recurr{\r}{\c&H9ab39&}ence{\r}{\c&Hc7c1c2&} relation?{\r}
+Dialogue: 0,00:00:03.92,00:00:04.00,Default,,0,0,0,,{\c&H3d2e31&} How do I solve this recurr{\r}{\c&H3d2e31&}ence{\r}{\c&Hc7c1c2&} relation?{\r}
+Dialogue: 0,00:00:04.00,00:00:04.08,Default,,0,0,0,,{\c&H3d2e31&} How do I solve this recurrence{\r}{\c&H9ab39&} re{\r}{\c&Hc7c1c2&}lation?{\r}
+Dialogue: 0,00:00:04.08,00:00:04.16,Default,,0,0,0,,{\c&H3d2e31&} How do I solve this recurrence{\r}{\c&H3d2e31&} re{\r}{\c&Hc7c1c2&}lation?{\r}
+Dialogue: 0,00:00:04.16,00:00:04.24,Default,,0,0,0,,{\c&H3d2e31&} How do I solve this recurrence re{\r}{\c&H9ab39&}l{\r}{\c&Hc7c1c2&}ation?{\r}
+Dialogue: 0,00:00:04.24,00:00:04.32,Default,,0,0,0,,{\c&H3d2e31&} How do I solve this recurrence re{\r}{\c&H3d2e31&}l{\r}{\c&Hc7c1c2&}ation?{\r}
+Dialogue: 0,00:00:04.32,00:00:04.40,Default,,0,0,0,,{\c&H3d2e31&} How do I solve this recurrence rel{\r}{\c&H9ab39&}ation{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:04.40,00:00:05.52,Default,,0,0,0,,{\c&H3d2e31&} How do I solve this recurrence rel{\r}{\c&H3d2e31&}ation{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:05.52,00:00:05.60,Default,,0,0,0,,{\c&H3d2e31&} How do I solve this recurrence relation{\r}{\c&H9ab39&}?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:05.60,00:00:07.00,Default,,0,0,0,,{\c&H3d2e31&} How do I solve this recurrence relation?{\r}

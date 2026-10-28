@@ -1,0 +1,50 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:00.08,Default,,0,0,0,,{\c&Hc7c1c2&} I want to build my own model instead of just calling an API.{\r}
+Dialogue: 0,00:00:00.08,00:00:00.16,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&} I{\r}{\c&Hc7c1c2&} want to build my own model instead of just calling an API.{\r}
+Dialogue: 0,00:00:00.16,00:00:00.40,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&} I{\r}{\c&Hc7c1c2&} want to build my own model instead of just calling an API.{\r}
+Dialogue: 0,00:00:00.40,00:00:00.48,Default,,0,0,0,,{\c&H3d2e31&} I{\r}{\c&H9ab39&} want{\r}{\c&Hc7c1c2&} to build my own model instead of just calling an API.{\r}
+Dialogue: 0,00:00:00.48,00:00:00.56,Default,,0,0,0,,{\c&H3d2e31&} I{\r}{\c&H3d2e31&} want{\r}{\c&Hc7c1c2&} to build my own model instead of just calling an API.{\r}
+Dialogue: 0,00:00:00.56,00:00:00.64,Default,,0,0,0,,{\c&H3d2e31&} I want{\r}{\c&H9ab39&} to{\r}{\c&Hc7c1c2&} build my own model instead of just calling an API.{\r}
+Dialogue: 0,00:00:00.64,00:00:00.72,Default,,0,0,0,,{\c&H3d2e31&} I want to{\r}{\c&H9ab39&} build{\r}{\c&Hc7c1c2&} my own model instead of just calling an API.{\r}
+Dialogue: 0,00:00:00.72,00:00:00.80,Default,,0,0,0,,{\c&H3d2e31&} I want to build{\r}{\c&H9ab39&} my{\r}{\c&Hc7c1c2&} own model instead of just calling an API.{\r}
+Dialogue: 0,00:00:00.80,00:00:00.88,Default,,0,0,0,,{\c&H3d2e31&} I want to build my{\r}{\c&H9ab39&} own{\r}{\c&Hc7c1c2&} model instead of just calling an API.{\r}
+Dialogue: 0,00:00:00.88,00:00:00.96,Default,,0,0,0,,{\c&H3d2e31&} I want to build my{\r}{\c&H3d2e31&} own{\r}{\c&Hc7c1c2&} model instead of just calling an API.{\r}
+Dialogue: 0,00:00:00.96,00:00:01.04,Default,,0,0,0,,{\c&H3d2e31&} I want to build my own{\r}{\c&H9ab39&} mo{\r}{\c&Hc7c1c2&}del instead of just calling an API.{\r}
+Dialogue: 0,00:00:01.04,00:00:01.12,Default,,0,0,0,,{\c&H3d2e31&} I want to build my own mo{\r}{\c&H9ab39&}d{\r}{\c&Hc7c1c2&}el instead of just calling an API.{\r}
+Dialogue: 0,00:00:01.12,00:00:01.20,Default,,0,0,0,,{\c&H3d2e31&} I want to build my own mod{\r}{\c&H9ab39&}el{\r}{\c&Hc7c1c2&} instead of just calling an API.{\r}
+Dialogue: 0,00:00:01.20,00:00:04.08,Default,,0,0,0,,{\c&H3d2e31&} I want to build my own mod{\r}{\c&H3d2e31&}el{\r}{\c&Hc7c1c2&} instead of just calling an API.{\r}
+Dialogue: 0,00:00:04.08,00:00:04.16,Default,,0,0,0,,{\c&H3d2e31&} I want to build my own model{\r}{\c&H9ab39&} in{\r}{\c&Hc7c1c2&}stead of just calling an API.{\r}
+Dialogue: 0,00:00:04.16,00:00:04.24,Default,,0,0,0,,{\c&H3d2e31&} I want to build my own model{\r}{\c&H3d2e31&} in{\r}{\c&Hc7c1c2&}stead of just calling an API.{\r}
+Dialogue: 0,00:00:04.24,00:00:04.32,Default,,0,0,0,,{\c&H3d2e31&} I want to build my own model in{\r}{\c&H9ab39&}s{\r}{\c&Hc7c1c2&}tead of just calling an API.{\r}
+Dialogue: 0,00:00:04.32,00:00:04.40,Default,,0,0,0,,{\c&H3d2e31&} I want to build my own model ins{\r}{\c&H9ab39&}te{\r}{\c&Hc7c1c2&}ad of just calling an API.{\r}
+Dialogue: 0,00:00:04.40,00:00:04.48,Default,,0,0,0,,{\c&H3d2e31&} I want to build my own model inste{\r}{\c&H9ab39&}ad{\r}{\c&Hc7c1c2&} of just calling an API.{\r}
+Dialogue: 0,00:00:04.48,00:00:04.56,Default,,0,0,0,,{\c&H3d2e31&} I want to build my own model instead{\r}{\c&H9ab39&} of{\r}{\c&Hc7c1c2&} just calling an API.{\r}
+Dialogue: 0,00:00:04.56,00:00:04.96,Default,,0,0,0,,{\c&H3d2e31&} I want to build my own model instead{\r}{\c&H3d2e31&} of{\r}{\c&Hc7c1c2&} just calling an API.{\r}
+Dialogue: 0,00:00:04.96,00:00:05.04,Default,,0,0,0,,{\c&H3d2e31&} I want to build my own model instead of{\r}{\c&H9ab39&} just{\r}{\c&Hc7c1c2&} calling an API.{\r}
+Dialogue: 0,00:00:05.04,00:00:05.20,Default,,0,0,0,,{\c&H3d2e31&} I want to build my own model instead of{\r}{\c&H3d2e31&} just{\r}{\c&Hc7c1c2&} calling an API.{\r}
+Dialogue: 0,00:00:05.20,00:00:05.28,Default,,0,0,0,,{\c&H3d2e31&} I want to build my own model instead of just{\r}{\c&H9ab39&} call{\r}{\c&Hc7c1c2&}ing an API.{\r}
+Dialogue: 0,00:00:05.28,00:00:05.52,Default,,0,0,0,,{\c&H3d2e31&} I want to build my own model instead of just{\r}{\c&H3d2e31&} call{\r}{\c&Hc7c1c2&}ing an API.{\r}
+Dialogue: 0,00:00:05.52,00:00:05.60,Default,,0,0,0,,{\c&H3d2e31&} I want to build my own model instead of just call{\r}{\c&H9ab39&}ing{\r}{\c&Hc7c1c2&} an API.{\r}
+Dialogue: 0,00:00:05.60,00:00:05.76,Default,,0,0,0,,{\c&H3d2e31&} I want to build my own model instead of just call{\r}{\c&H3d2e31&}ing{\r}{\c&Hc7c1c2&} an API.{\r}
+Dialogue: 0,00:00:05.76,00:00:05.84,Default,,0,0,0,,{\c&H3d2e31&} I want to build my own model instead of just calling{\r}{\c&H9ab39&} an{\r}{\c&Hc7c1c2&} API.{\r}
+Dialogue: 0,00:00:05.84,00:00:06.24,Default,,0,0,0,,{\c&H3d2e31&} I want to build my own model instead of just calling{\r}{\c&H3d2e31&} an{\r}{\c&Hc7c1c2&} API.{\r}
+Dialogue: 0,00:00:06.24,00:00:06.32,Default,,0,0,0,,{\c&H3d2e31&} I want to build my own model instead of just calling an{\r}{\c&H9ab39&} A{\r}{\c&Hc7c1c2&}PI.{\r}
+Dialogue: 0,00:00:06.32,00:00:07.04,Default,,0,0,0,,{\c&H3d2e31&} I want to build my own model instead of just calling an{\r}{\c&H3d2e31&} A{\r}{\c&Hc7c1c2&}PI.{\r}
+Dialogue: 0,00:00:07.04,00:00:07.12,Default,,0,0,0,,{\c&H3d2e31&} I want to build my own model instead of just calling an A{\r}{\c&H9ab39&}P{\r}{\c&Hc7c1c2&}I.{\r}
+Dialogue: 0,00:00:07.12,00:00:07.44,Default,,0,0,0,,{\c&H3d2e31&} I want to build my own model instead of just calling an A{\r}{\c&H3d2e31&}P{\r}{\c&Hc7c1c2&}I.{\r}
+Dialogue: 0,00:00:07.44,00:00:07.52,Default,,0,0,0,,{\c&H3d2e31&} I want to build my own model instead of just calling an AP{\r}{\c&H9ab39&}I{\r}{\c&Hc7c1c2&}.{\r}
+Dialogue: 0,00:00:07.52,00:00:08.00,Default,,0,0,0,,{\c&H3d2e31&} I want to build my own model instead of just calling an AP{\r}{\c&H3d2e31&}I{\r}{\c&Hc7c1c2&}.{\r}
+Dialogue: 0,00:00:08.00,00:00:08.08,Default,,0,0,0,,{\c&H3d2e31&} I want to build my own model instead of just calling an API{\r}{\c&H9ab39&}.{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:08.08,00:00:10.00,Default,,0,0,0,,{\c&H3d2e31&} I want to build my own model instead of just calling an API.{\r}

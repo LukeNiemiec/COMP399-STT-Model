@@ -1,0 +1,30 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:00.08,Default,,0,0,0,,{\c&Hc7c1c2&}What hardware do I need to run this model efficiently?{\r}
+Dialogue: 0,00:00:00.08,00:00:00.16,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&}What{\r}{\c&Hc7c1c2&} hardware do I need to run this model efficiently?{\r}
+Dialogue: 0,00:00:00.16,00:00:02.48,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&}What{\r}{\c&Hc7c1c2&} hardware do I need to run this model efficiently?{\r}
+Dialogue: 0,00:00:02.48,00:00:03.04,Default,,0,0,0,,{\c&H3d2e31&}What {\r}{\c&H9ab39&}hardware{\r}{\c&Hc7c1c2&} do I need to run this model efficiently?{\r}
+Dialogue: 0,00:00:03.04,00:00:03.12,Default,,0,0,0,,{\c&H3d2e31&}What hardware {\r}{\c&H9ab39&}do{\r}{\c&Hc7c1c2&} I need to run this model efficiently?{\r}
+Dialogue: 0,00:00:03.12,00:00:03.20,Default,,0,0,0,,{\c&H3d2e31&}What hardware do {\r}{\c&H9ab39&}I{\r}{\c&Hc7c1c2&} need to run this model efficiently?{\r}
+Dialogue: 0,00:00:03.20,00:00:03.28,Default,,0,0,0,,{\c&H3d2e31&}What hardware do {\r}{\c&H3d2e31&}I{\r}{\c&Hc7c1c2&} need to run this model efficiently?{\r}
+Dialogue: 0,00:00:03.28,00:00:03.36,Default,,0,0,0,,{\c&H3d2e31&}What hardware do I {\r}{\c&H9ab39&}need{\r}{\c&Hc7c1c2&} to run this model efficiently?{\r}
+Dialogue: 0,00:00:03.36,00:00:03.44,Default,,0,0,0,,{\c&H3d2e31&}What hardware do I {\r}{\c&H3d2e31&}need{\r}{\c&Hc7c1c2&} to run this model efficiently?{\r}
+Dialogue: 0,00:00:03.44,00:00:03.52,Default,,0,0,0,,{\c&H3d2e31&}What hardware do I need {\r}{\c&H9ab39&}to{\r}{\c&Hc7c1c2&} run this model efficiently?{\r}
+Dialogue: 0,00:00:03.52,00:00:04.08,Default,,0,0,0,,{\c&H3d2e31&}What hardware do I need {\r}{\c&H3d2e31&}to{\r}{\c&Hc7c1c2&} run this model efficiently?{\r}
+Dialogue: 0,00:00:04.08,00:00:04.16,Default,,0,0,0,,{\c&H3d2e31&}What hardware do I need to {\r}{\c&H9ab39&}run{\r}{\c&Hc7c1c2&} this model efficiently?{\r}
+Dialogue: 0,00:00:04.16,00:00:04.32,Default,,0,0,0,,{\c&H3d2e31&}What hardware do I need to {\r}{\c&H3d2e31&}run{\r}{\c&Hc7c1c2&} this model efficiently?{\r}
+Dialogue: 0,00:00:04.32,00:00:04.40,Default,,0,0,0,,{\c&H3d2e31&}What hardware do I need to run {\r}{\c&H9ab39&}this{\r}{\c&Hc7c1c2&} model efficiently?{\r}
+Dialogue: 0,00:00:04.40,00:00:04.80,Default,,0,0,0,,{\c&H3d2e31&}What hardware do I need to run this {\r}{\c&H9ab39&}model{\r}{\c&Hc7c1c2&} efficiently?{\r}
+Dialogue: 0,00:00:04.80,00:00:05.12,Default,,0,0,0,,{\c&H3d2e31&}What hardware do I need to run this {\r}{\c&H3d2e31&}model{\r}{\c&Hc7c1c2&} efficiently?{\r}
+Dialogue: 0,00:00:05.12,00:00:08.80,Default,,0,0,0,,{\c&H3d2e31&}What hardware do I need to run this model {\r}{\c&H9ab39&}efficiently?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:08.80,00:00:11.00,Default,,0,0,0,,{\c&H3d2e31&}What hardware do I need to run this model efficiently?{\r}

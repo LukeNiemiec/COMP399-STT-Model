@@ -1,0 +1,22 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:00.00,Default,,0,0,0,,{\c&Hc7c1c2&}How does attention work mathematically?{\r}
+Dialogue: 0,00:00:00.00,00:00:02.56,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&}How{\r}{\c&Hc7c1c2&} does attention work mathematically?{\r}
+Dialogue: 0,00:00:02.56,00:00:02.64,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&}How{\r}{\c&Hc7c1c2&} does attention work mathematically?{\r}
+Dialogue: 0,00:00:02.64,00:00:02.72,Default,,0,0,0,,{\c&H3d2e31&}How {\r}{\c&H9ab39&}does{\r}{\c&Hc7c1c2&} attention work mathematically?{\r}
+Dialogue: 0,00:00:02.72,00:00:03.12,Default,,0,0,0,,{\c&H3d2e31&}How does {\r}{\c&H9ab39&}attention{\r}{\c&Hc7c1c2&} work mathematically?{\r}
+Dialogue: 0,00:00:03.12,00:00:03.36,Default,,0,0,0,,{\c&H3d2e31&}How does {\r}{\c&H3d2e31&}attention{\r}{\c&Hc7c1c2&} work mathematically?{\r}
+Dialogue: 0,00:00:03.36,00:00:03.44,Default,,0,0,0,,{\c&H3d2e31&}How does attention {\r}{\c&H9ab39&}work{\r}{\c&Hc7c1c2&} mathematically?{\r}
+Dialogue: 0,00:00:03.44,00:00:03.60,Default,,0,0,0,,{\c&H3d2e31&}How does attention {\r}{\c&H3d2e31&}work{\r}{\c&Hc7c1c2&} mathematically?{\r}
+Dialogue: 0,00:00:03.60,00:00:06.64,Default,,0,0,0,,{\c&H3d2e31&}How does attention work {\r}{\c&H9ab39&}mathematically?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:06.64,00:00:08.00,Default,,0,0,0,,{\c&H3d2e31&}How does attention work mathematically?{\r}

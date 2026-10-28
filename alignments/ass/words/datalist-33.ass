@@ -1,0 +1,31 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:02.56,Default,,0,0,0,,{\c&Hc7c1c2&}How can I run this model locally on my own hardware?{\r}
+Dialogue: 0,00:00:02.56,00:00:02.96,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&}How{\r}{\c&Hc7c1c2&} can I run this model locally on my own hardware?{\r}
+Dialogue: 0,00:00:02.96,00:00:03.20,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&}How{\r}{\c&Hc7c1c2&} can I run this model locally on my own hardware?{\r}
+Dialogue: 0,00:00:03.20,00:00:03.28,Default,,0,0,0,,{\c&H3d2e31&}How {\r}{\c&H9ab39&}can{\r}{\c&Hc7c1c2&} I run this model locally on my own hardware?{\r}
+Dialogue: 0,00:00:03.28,00:00:03.36,Default,,0,0,0,,{\c&H3d2e31&}How {\r}{\c&H3d2e31&}can{\r}{\c&Hc7c1c2&} I run this model locally on my own hardware?{\r}
+Dialogue: 0,00:00:03.36,00:00:03.44,Default,,0,0,0,,{\c&H3d2e31&}How can {\r}{\c&H9ab39&}I{\r}{\c&Hc7c1c2&} run this model locally on my own hardware?{\r}
+Dialogue: 0,00:00:03.44,00:00:04.00,Default,,0,0,0,,{\c&H3d2e31&}How can {\r}{\c&H3d2e31&}I{\r}{\c&Hc7c1c2&} run this model locally on my own hardware?{\r}
+Dialogue: 0,00:00:04.00,00:00:04.08,Default,,0,0,0,,{\c&H3d2e31&}How can I {\r}{\c&H9ab39&}run{\r}{\c&Hc7c1c2&} this model locally on my own hardware?{\r}
+Dialogue: 0,00:00:04.08,00:00:04.32,Default,,0,0,0,,{\c&H3d2e31&}How can I {\r}{\c&H3d2e31&}run{\r}{\c&Hc7c1c2&} this model locally on my own hardware?{\r}
+Dialogue: 0,00:00:04.32,00:00:04.40,Default,,0,0,0,,{\c&H3d2e31&}How can I run {\r}{\c&H9ab39&}this{\r}{\c&Hc7c1c2&} model locally on my own hardware?{\r}
+Dialogue: 0,00:00:04.40,00:00:04.48,Default,,0,0,0,,{\c&H3d2e31&}How can I run {\r}{\c&H3d2e31&}this{\r}{\c&Hc7c1c2&} model locally on my own hardware?{\r}
+Dialogue: 0,00:00:04.48,00:00:04.88,Default,,0,0,0,,{\c&H3d2e31&}How can I run this {\r}{\c&H9ab39&}model{\r}{\c&Hc7c1c2&} locally on my own hardware?{\r}
+Dialogue: 0,00:00:04.88,00:00:05.28,Default,,0,0,0,,{\c&H3d2e31&}How can I run this {\r}{\c&H3d2e31&}model{\r}{\c&Hc7c1c2&} locally on my own hardware?{\r}
+Dialogue: 0,00:00:05.28,00:00:06.00,Default,,0,0,0,,{\c&H3d2e31&}How can I run this model {\r}{\c&H9ab39&}locally{\r}{\c&Hc7c1c2&} on my own hardware?{\r}
+Dialogue: 0,00:00:06.00,00:00:06.08,Default,,0,0,0,,{\c&H3d2e31&}How can I run this model locally {\r}{\c&H9ab39&}on{\r}{\c&Hc7c1c2&} my own hardware?{\r}
+Dialogue: 0,00:00:06.08,00:00:06.16,Default,,0,0,0,,{\c&H3d2e31&}How can I run this model locally on {\r}{\c&H9ab39&}my{\r}{\c&Hc7c1c2&} own hardware?{\r}
+Dialogue: 0,00:00:06.16,00:00:06.24,Default,,0,0,0,,{\c&H3d2e31&}How can I run this model locally on my {\r}{\c&H9ab39&}own{\r}{\c&Hc7c1c2&} hardware?{\r}
+Dialogue: 0,00:00:06.24,00:00:06.64,Default,,0,0,0,,{\c&H3d2e31&}How can I run this model locally on my own {\r}{\c&H9ab39&}hardware?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:06.64,00:00:08.00,Default,,0,0,0,,{\c&H3d2e31&}How can I run this model locally on my own hardware?{\r}

@@ -1,0 +1,57 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:00.64,Default,,0,0,0,,{\c&Hc7c1c2&} How can I extract semantic meaning from natural language?{\r}
+Dialogue: 0,00:00:00.64,00:00:00.72,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&} Ho{\r}{\c&Hc7c1c2&}w can I extract semantic meaning from natural language?{\r}
+Dialogue: 0,00:00:00.72,00:00:00.80,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&} Ho{\r}{\c&Hc7c1c2&}w can I extract semantic meaning from natural language?{\r}
+Dialogue: 0,00:00:00.80,00:00:00.88,Default,,0,0,0,,{\c&H3d2e31&} Ho{\r}{\c&H9ab39&}w{\r}{\c&Hc7c1c2&} can I extract semantic meaning from natural language?{\r}
+Dialogue: 0,00:00:00.88,00:00:00.96,Default,,0,0,0,,{\c&H3d2e31&} Ho{\r}{\c&H3d2e31&}w{\r}{\c&Hc7c1c2&} can I extract semantic meaning from natural language?{\r}
+Dialogue: 0,00:00:00.96,00:00:01.04,Default,,0,0,0,,{\c&H3d2e31&} How{\r}{\c&H9ab39&} can{\r}{\c&Hc7c1c2&} I extract semantic meaning from natural language?{\r}
+Dialogue: 0,00:00:01.04,00:00:01.28,Default,,0,0,0,,{\c&H3d2e31&} How{\r}{\c&H3d2e31&} can{\r}{\c&Hc7c1c2&} I extract semantic meaning from natural language?{\r}
+Dialogue: 0,00:00:01.28,00:00:01.36,Default,,0,0,0,,{\c&H3d2e31&} How can{\r}{\c&H9ab39&} I{\r}{\c&Hc7c1c2&} extract semantic meaning from natural language?{\r}
+Dialogue: 0,00:00:01.36,00:00:02.24,Default,,0,0,0,,{\c&H3d2e31&} How can{\r}{\c&H3d2e31&} I{\r}{\c&Hc7c1c2&} extract semantic meaning from natural language?{\r}
+Dialogue: 0,00:00:02.24,00:00:02.32,Default,,0,0,0,,{\c&H3d2e31&} How can I{\r}{\c&H9ab39&} ex{\r}{\c&Hc7c1c2&}tract semantic meaning from natural language?{\r}
+Dialogue: 0,00:00:02.32,00:00:02.40,Default,,0,0,0,,{\c&H3d2e31&} How can I{\r}{\c&H3d2e31&} ex{\r}{\c&Hc7c1c2&}tract semantic meaning from natural language?{\r}
+Dialogue: 0,00:00:02.40,00:00:02.48,Default,,0,0,0,,{\c&H3d2e31&} How can I ex{\r}{\c&H9ab39&}tra{\r}{\c&Hc7c1c2&}ct semantic meaning from natural language?{\r}
+Dialogue: 0,00:00:02.48,00:00:02.56,Default,,0,0,0,,{\c&H3d2e31&} How can I ex{\r}{\c&H3d2e31&}tra{\r}{\c&Hc7c1c2&}ct semantic meaning from natural language?{\r}
+Dialogue: 0,00:00:02.56,00:00:02.64,Default,,0,0,0,,{\c&H3d2e31&} How can I extra{\r}{\c&H9ab39&}ct{\r}{\c&Hc7c1c2&} semantic meaning from natural language?{\r}
+Dialogue: 0,00:00:02.64,00:00:02.72,Default,,0,0,0,,{\c&H3d2e31&} How can I extra{\r}{\c&H3d2e31&}ct{\r}{\c&Hc7c1c2&} semantic meaning from natural language?{\r}
+Dialogue: 0,00:00:02.72,00:00:02.80,Default,,0,0,0,,{\c&H3d2e31&} How can I extract{\r}{\c&H9ab39&} se{\r}{\c&Hc7c1c2&}mantic meaning from natural language?{\r}
+Dialogue: 0,00:00:02.80,00:00:03.28,Default,,0,0,0,,{\c&H3d2e31&} How can I extract{\r}{\c&H3d2e31&} se{\r}{\c&Hc7c1c2&}mantic meaning from natural language?{\r}
+Dialogue: 0,00:00:03.28,00:00:03.36,Default,,0,0,0,,{\c&H3d2e31&} How can I extract se{\r}{\c&H9ab39&}man{\r}{\c&Hc7c1c2&}tic meaning from natural language?{\r}
+Dialogue: 0,00:00:03.36,00:00:03.76,Default,,0,0,0,,{\c&H3d2e31&} How can I extract se{\r}{\c&H3d2e31&}man{\r}{\c&Hc7c1c2&}tic meaning from natural language?{\r}
+Dialogue: 0,00:00:03.76,00:00:03.84,Default,,0,0,0,,{\c&H3d2e31&} How can I extract seman{\r}{\c&H9ab39&}tic{\r}{\c&Hc7c1c2&} meaning from natural language?{\r}
+Dialogue: 0,00:00:03.84,00:00:04.08,Default,,0,0,0,,{\c&H3d2e31&} How can I extract seman{\r}{\c&H3d2e31&}tic{\r}{\c&Hc7c1c2&} meaning from natural language?{\r}
+Dialogue: 0,00:00:04.08,00:00:04.16,Default,,0,0,0,,{\c&H3d2e31&} How can I extract semantic{\r}{\c&H9ab39&} mean{\r}{\c&Hc7c1c2&}ing from natural language?{\r}
+Dialogue: 0,00:00:04.16,00:00:04.32,Default,,0,0,0,,{\c&H3d2e31&} How can I extract semantic{\r}{\c&H3d2e31&} mean{\r}{\c&Hc7c1c2&}ing from natural language?{\r}
+Dialogue: 0,00:00:04.32,00:00:04.40,Default,,0,0,0,,{\c&H3d2e31&} How can I extract semantic mean{\r}{\c&H9ab39&}ing{\r}{\c&Hc7c1c2&} from natural language?{\r}
+Dialogue: 0,00:00:04.40,00:00:04.48,Default,,0,0,0,,{\c&H3d2e31&} How can I extract semantic meaning{\r}{\c&H9ab39&} from{\r}{\c&Hc7c1c2&} natural language?{\r}
+Dialogue: 0,00:00:04.48,00:00:04.72,Default,,0,0,0,,{\c&H3d2e31&} How can I extract semantic meaning{\r}{\c&H3d2e31&} from{\r}{\c&Hc7c1c2&} natural language?{\r}
+Dialogue: 0,00:00:04.72,00:00:04.80,Default,,0,0,0,,{\c&H3d2e31&} How can I extract semantic meaning from{\r}{\c&H9ab39&} na{\r}{\c&Hc7c1c2&}tural language?{\r}
+Dialogue: 0,00:00:04.80,00:00:05.04,Default,,0,0,0,,{\c&H3d2e31&} How can I extract semantic meaning from{\r}{\c&H3d2e31&} na{\r}{\c&Hc7c1c2&}tural language?{\r}
+Dialogue: 0,00:00:05.04,00:00:05.12,Default,,0,0,0,,{\c&H3d2e31&} How can I extract semantic meaning from na{\r}{\c&H9ab39&}t{\r}{\c&Hc7c1c2&}ural language?{\r}
+Dialogue: 0,00:00:05.12,00:00:05.28,Default,,0,0,0,,{\c&H3d2e31&} How can I extract semantic meaning from na{\r}{\c&H3d2e31&}t{\r}{\c&Hc7c1c2&}ural language?{\r}
+Dialogue: 0,00:00:05.28,00:00:05.36,Default,,0,0,0,,{\c&H3d2e31&} How can I extract semantic meaning from nat{\r}{\c&H9ab39&}ur{\r}{\c&Hc7c1c2&}al language?{\r}
+Dialogue: 0,00:00:05.36,00:00:05.60,Default,,0,0,0,,{\c&H3d2e31&} How can I extract semantic meaning from nat{\r}{\c&H3d2e31&}ur{\r}{\c&Hc7c1c2&}al language?{\r}
+Dialogue: 0,00:00:05.60,00:00:05.68,Default,,0,0,0,,{\c&H3d2e31&} How can I extract semantic meaning from natur{\r}{\c&H9ab39&}al{\r}{\c&Hc7c1c2&} language?{\r}
+Dialogue: 0,00:00:05.68,00:00:05.84,Default,,0,0,0,,{\c&H3d2e31&} How can I extract semantic meaning from natur{\r}{\c&H3d2e31&}al{\r}{\c&Hc7c1c2&} language?{\r}
+Dialogue: 0,00:00:05.84,00:00:05.92,Default,,0,0,0,,{\c&H3d2e31&} How can I extract semantic meaning from natural{\r}{\c&H9ab39&} la{\r}{\c&Hc7c1c2&}nguage?{\r}
+Dialogue: 0,00:00:05.92,00:00:06.00,Default,,0,0,0,,{\c&H3d2e31&} How can I extract semantic meaning from natural{\r}{\c&H3d2e31&} la{\r}{\c&Hc7c1c2&}nguage?{\r}
+Dialogue: 0,00:00:06.00,00:00:06.08,Default,,0,0,0,,{\c&H3d2e31&} How can I extract semantic meaning from natural la{\r}{\c&H9ab39&}ng{\r}{\c&Hc7c1c2&}uage?{\r}
+Dialogue: 0,00:00:06.08,00:00:06.16,Default,,0,0,0,,{\c&H3d2e31&} How can I extract semantic meaning from natural la{\r}{\c&H3d2e31&}ng{\r}{\c&Hc7c1c2&}uage?{\r}
+Dialogue: 0,00:00:06.16,00:00:06.24,Default,,0,0,0,,{\c&H3d2e31&} How can I extract semantic meaning from natural lang{\r}{\c&H9ab39&}u{\r}{\c&Hc7c1c2&}age?{\r}
+Dialogue: 0,00:00:06.24,00:00:06.48,Default,,0,0,0,,{\c&H3d2e31&} How can I extract semantic meaning from natural lang{\r}{\c&H3d2e31&}u{\r}{\c&Hc7c1c2&}age?{\r}
+Dialogue: 0,00:00:06.48,00:00:06.56,Default,,0,0,0,,{\c&H3d2e31&} How can I extract semantic meaning from natural langu{\r}{\c&H9ab39&}age{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:06.56,00:00:07.04,Default,,0,0,0,,{\c&H3d2e31&} How can I extract semantic meaning from natural langu{\r}{\c&H3d2e31&}age{\r}{\c&Hc7c1c2&}?{\r}
+Dialogue: 0,00:00:07.04,00:00:07.12,Default,,0,0,0,,{\c&H3d2e31&} How can I extract semantic meaning from natural language{\r}{\c&H9ab39&}?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:07.12,00:00:09.00,Default,,0,0,0,,{\c&H3d2e31&} How can I extract semantic meaning from natural language?{\r}

@@ -1,0 +1,29 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,5,10,10,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,00:00:00.00,00:00:03.60,Default,,0,0,0,,{\c&Hc7c1c2&}How can I inspect the packets being transmitted?{\r}
+Dialogue: 0,00:00:03.60,00:00:03.92,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H9ab39&}How{\r}{\c&Hc7c1c2&} can I inspect the packets being transmitted?{\r}
+Dialogue: 0,00:00:03.92,00:00:04.08,Default,,0,0,0,,{\c&H3d2e31&}{\r}{\c&H3d2e31&}How{\r}{\c&Hc7c1c2&} can I inspect the packets being transmitted?{\r}
+Dialogue: 0,00:00:04.08,00:00:04.16,Default,,0,0,0,,{\c&H3d2e31&}How {\r}{\c&H9ab39&}can{\r}{\c&Hc7c1c2&} I inspect the packets being transmitted?{\r}
+Dialogue: 0,00:00:04.16,00:00:04.32,Default,,0,0,0,,{\c&H3d2e31&}How {\r}{\c&H3d2e31&}can{\r}{\c&Hc7c1c2&} I inspect the packets being transmitted?{\r}
+Dialogue: 0,00:00:04.32,00:00:04.40,Default,,0,0,0,,{\c&H3d2e31&}How can {\r}{\c&H9ab39&}I{\r}{\c&Hc7c1c2&} inspect the packets being transmitted?{\r}
+Dialogue: 0,00:00:04.40,00:00:04.48,Default,,0,0,0,,{\c&H3d2e31&}How can {\r}{\c&H3d2e31&}I{\r}{\c&Hc7c1c2&} inspect the packets being transmitted?{\r}
+Dialogue: 0,00:00:04.48,00:00:04.72,Default,,0,0,0,,{\c&H3d2e31&}How can I {\r}{\c&H9ab39&}inspect{\r}{\c&Hc7c1c2&} the packets being transmitted?{\r}
+Dialogue: 0,00:00:04.72,00:00:04.88,Default,,0,0,0,,{\c&H3d2e31&}How can I {\r}{\c&H3d2e31&}inspect{\r}{\c&Hc7c1c2&} the packets being transmitted?{\r}
+Dialogue: 0,00:00:04.88,00:00:04.96,Default,,0,0,0,,{\c&H3d2e31&}How can I inspect {\r}{\c&H9ab39&}the{\r}{\c&Hc7c1c2&} packets being transmitted?{\r}
+Dialogue: 0,00:00:04.96,00:00:05.12,Default,,0,0,0,,{\c&H3d2e31&}How can I inspect {\r}{\c&H3d2e31&}the{\r}{\c&Hc7c1c2&} packets being transmitted?{\r}
+Dialogue: 0,00:00:05.12,00:00:06.16,Default,,0,0,0,,{\c&H3d2e31&}How can I inspect the {\r}{\c&H9ab39&}packets{\r}{\c&Hc7c1c2&} being transmitted?{\r}
+Dialogue: 0,00:00:06.16,00:00:06.64,Default,,0,0,0,,{\c&H3d2e31&}How can I inspect the {\r}{\c&H3d2e31&}packets{\r}{\c&Hc7c1c2&} being transmitted?{\r}
+Dialogue: 0,00:00:06.64,00:00:06.72,Default,,0,0,0,,{\c&H3d2e31&}How can I inspect the packets {\r}{\c&H9ab39&}being{\r}{\c&Hc7c1c2&} transmitted?{\r}
+Dialogue: 0,00:00:06.72,00:00:06.80,Default,,0,0,0,,{\c&H3d2e31&}How can I inspect the packets {\r}{\c&H3d2e31&}being{\r}{\c&Hc7c1c2&} transmitted?{\r}
+Dialogue: 0,00:00:06.80,00:00:08.08,Default,,0,0,0,,{\c&H3d2e31&}How can I inspect the packets being {\r}{\c&H9ab39&}transmitted?{\r}{\c&Hc7c1c2&}{\r}
+Dialogue: 0,00:00:08.08,00:00:10.00,Default,,0,0,0,,{\c&H3d2e31&}How can I inspect the packets being transmitted?{\r}
